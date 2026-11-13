@@ -1,32 +1,23 @@
 //
 //  SDA_Church_FinderApp.swift
-//  SDA Church Finder
+//  AdventFind
 //
 //  Created by Kyle Slingo on 2/10/26.
 //
 
 import SwiftUI
-import SwiftData
 
 @main
 struct SDA_Church_FinderApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Item.self,
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
-        do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
-        } catch {
-            fatalError("Could not create ModelContainer: \(error)")
-        }
-    }()
-
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .applyTextSize()
+                .applyHighContrast()
+                .task {
+                    DirectorySyncService.shared.seedCacheFromBundleIfNeeded()
+                    await DirectorySyncService.shared.sync()
+                }
         }
-        .modelContainer(sharedModelContainer)
     }
 }

@@ -6,27 +6,31 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BD18F4F52F3B82D600BBA606 /* Solar in Frameworks */ = {isa = PBXBuildFile; productRef = BD18F4F42F3B82D600BBA606 /* Solar */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		BD18F4A82F3B7FEC00BBA606 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BD18F4902F3B7FEB00BBA606 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = BD18F4972F3B7FEB00BBA606;
-			remoteInfo = "SDA Church Finder";
+			remoteInfo = AdventFind;
 		};
 		BD18F4B22F3B7FEC00BBA606 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BD18F4902F3B7FEB00BBA606 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = BD18F4972F3B7FEB00BBA606;
-			remoteInfo = "SDA Church Finder";
+			remoteInfo = AdventFind;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BD18F4982F3B7FEB00BBA606 /* SDA Church Finder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SDA Church Finder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD18F4A72F3B7FEC00BBA606 /* SDA Church FinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SDA Church FinderTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD18F4B12F3B7FEC00BBA606 /* SDA Church FinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SDA Church FinderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD18F4982F3B7FEB00BBA606 /* AdventFind.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdventFind.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD18F4A72F3B7FEC00BBA606 /* AdventFindTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdventFindTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD18F4B12F3B7FEC00BBA606 /* AdventFindUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdventFindUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD18F4F52F3B82D600BBA606 /* Solar in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,9 +90,9 @@
 		BD18F4992F3B7FEB00BBA606 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD18F4982F3B7FEB00BBA606 /* SDA Church Finder.app */,
-				BD18F4A72F3B7FEC00BBA606 /* SDA Church FinderTests.xctest */,
-				BD18F4B12F3B7FEC00BBA606 /* SDA Church FinderUITests.xctest */,
+				BD18F4982F3B7FEB00BBA606 /* AdventFind.app */,
+				BD18F4A72F3B7FEC00BBA606 /* AdventFindTests.xctest */,
+				BD18F4B12F3B7FEC00BBA606 /* AdventFindUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD18F4972F3B7FEB00BBA606 /* SDA Church Finder */ = {
+		BD18F4972F3B7FEB00BBA606 /* AdventFind */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD18F4BB2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church Finder" */;
+			buildConfigurationList = BD18F4BB2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFind" */;
 			buildPhases = (
 				BD18F4942F3B7FEB00BBA606 /* Sources */,
 				BD18F4952F3B7FEB00BBA606 /* Frameworks */,
@@ -110,16 +115,17 @@
 			fileSystemSynchronizedGroups = (
 				BD18F49A2F3B7FEB00BBA606 /* SDA Church Finder */,
 			);
-			name = "SDA Church Finder";
+			name = AdventFind;
 			packageProductDependencies = (
+				BD18F4F42F3B82D600BBA606 /* Solar */,
 			);
-			productName = "SDA Church Finder";
-			productReference = BD18F4982F3B7FEB00BBA606 /* SDA Church Finder.app */;
+			productName = AdventFind;
+			productReference = BD18F4982F3B7FEB00BBA606 /* AdventFind.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BD18F4A62F3B7FEC00BBA606 /* SDA Church FinderTests */ = {
+		BD18F4A62F3B7FEC00BBA606 /* AdventFindTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD18F4BE2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church FinderTests" */;
+			buildConfigurationList = BD18F4BE2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFindTests" */;
 			buildPhases = (
 				BD18F4A32F3B7FEC00BBA606 /* Sources */,
 				BD18F4A42F3B7FEC00BBA606 /* Frameworks */,
@@ -133,16 +139,16 @@
 			fileSystemSynchronizedGroups = (
 				BD18F4AA2F3B7FEC00BBA606 /* SDA Church FinderTests */,
 			);
-			name = "SDA Church FinderTests";
+			name = AdventFindTests;
 			packageProductDependencies = (
 			);
-			productName = "SDA Church FinderTests";
-			productReference = BD18F4A72F3B7FEC00BBA606 /* SDA Church FinderTests.xctest */;
+			productName = AdventFindTests;
+			productReference = BD18F4A72F3B7FEC00BBA606 /* AdventFindTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BD18F4B02F3B7FEC00BBA606 /* SDA Church FinderUITests */ = {
+		BD18F4B02F3B7FEC00BBA606 /* AdventFindUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD18F4C12F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church FinderUITests" */;
+			buildConfigurationList = BD18F4C12F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFindUITests" */;
 			buildPhases = (
 				BD18F4AD2F3B7FEC00BBA606 /* Sources */,
 				BD18F4AE2F3B7FEC00BBA606 /* Frameworks */,
@@ -156,11 +162,11 @@
 			fileSystemSynchronizedGroups = (
 				BD18F4B42F3B7FEC00BBA606 /* SDA Church FinderUITests */,
 			);
-			name = "SDA Church FinderUITests";
+			name = AdventFindUITests;
 			packageProductDependencies = (
 			);
-			productName = "SDA Church FinderUITests";
-			productReference = BD18F4B12F3B7FEC00BBA606 /* SDA Church FinderUITests.xctest */;
+			productName = AdventFindUITests;
+			productReference = BD18F4B12F3B7FEC00BBA606 /* AdventFindUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -171,7 +177,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
-				LastUpgradeCheck = 2630;
+				LastUpgradeCheck = 2720;
 				TargetAttributes = {
 					BD18F4972F3B7FEB00BBA606 = {
 						CreatedOnToolsVersion = 26.3;
@@ -195,14 +201,17 @@
 			);
 			mainGroup = BD18F48F2F3B7FEB00BBA606;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				BD18F4F32F3B82D600BBA606 /* XCRemoteSwiftPackageReference "Solar" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = BD18F4992F3B7FEB00BBA606 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD18F4972F3B7FEB00BBA606 /* SDA Church Finder */,
-				BD18F4A62F3B7FEC00BBA606 /* SDA Church FinderTests */,
-				BD18F4B02F3B7FEC00BBA606 /* SDA Church FinderUITests */,
+				BD18F4972F3B7FEB00BBA606 /* AdventFind */,
+				BD18F4A62F3B7FEC00BBA606 /* AdventFindTests */,
+				BD18F4B02F3B7FEC00BBA606 /* AdventFindUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +267,12 @@
 /* Begin PBXTargetDependency section */
 		BD18F4A92F3B7FEC00BBA606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BD18F4972F3B7FEB00BBA606 /* SDA Church Finder */;
+			target = BD18F4972F3B7FEB00BBA606 /* AdventFind */;
 			targetProxy = BD18F4A82F3B7FEC00BBA606 /* PBXContainerItemProxy */;
 		};
 		BD18F4B32F3B7FEC00BBA606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BD18F4972F3B7FEB00BBA606 /* SDA Church Finder */;
+			target = BD18F4972F3B7FEB00BBA606 /* AdventFind */;
 			targetProxy = BD18F4B22F3B7FEC00BBA606 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -303,6 +312,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -326,6 +336,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -365,6 +376,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -381,6 +393,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
 			};
 			name = Release;
@@ -398,34 +411,34 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to help you find nearby Seventh-day Adventist churches.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-Finder";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFind;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
 		};
@@ -442,34 +455,34 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to help you find nearby Seventh-day Adventist churches.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-Finder";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFind;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
 		};
@@ -481,21 +494,21 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-FinderTests";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFindTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SDA Church Finder.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SDA Church Finder";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdventFind.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AdventFind";
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
 		};
@@ -507,21 +520,21 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-FinderTests";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFindTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SDA Church Finder.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SDA Church Finder";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdventFind.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AdventFind";
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
 		};
@@ -532,21 +545,21 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-FinderUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFindUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "SDA Church Finder";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = AdventFind;
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
 		};
@@ -557,21 +570,21 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZPA88VRHQ6;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "finder.SDA-Church-FinderUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = finder.AdventFindUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
+				SDKROOT = iphoneos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "SDA Church Finder";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = AdventFind;
+				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
 		};
@@ -587,7 +600,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD18F4BB2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church Finder" */ = {
+		BD18F4BB2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFind" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD18F4BC2F3B7FED00BBA606 /* Debug */,
@@ -596,7 +609,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD18F4BE2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church FinderTests" */ = {
+		BD18F4BE2F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFindTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD18F4BF2F3B7FED00BBA606 /* Debug */,
@@ -605,7 +618,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD18F4C12F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "SDA Church FinderUITests" */ = {
+		BD18F4C12F3B7FED00BBA606 /* Build configuration list for PBXNativeTarget "AdventFindUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD18F4C22F3B7FED00BBA606 /* Debug */,
@@ -615,6 +628,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BD18F4F32F3B82D600BBA606 /* XCRemoteSwiftPackageReference "Solar" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ceeK/Solar.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BD18F4F42F3B82D600BBA606 /* Solar */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD18F4F32F3B82D600BBA606 /* XCRemoteSwiftPackageReference "Solar" */;
+			productName = Solar;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BD18F4902F3B7FEB00BBA606 /* Project object */;
 }

@@ -1,0 +1,1884 @@
+{
+  "checkedOn": "2026-11-07",
+  "method": "Public-source check; not direct contact with congregations",
+  "records": [
+    {
+      "id": "ct-orion-spanish",
+      "name": "Orion Spanish SDA Company",
+      "sourceURL": "https://orionct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://orionct.adventistchurch.org/",
+      "contentSHA256": "d844f7c0bfb1b2f9eb94ca53934c13e1515a09451ce7633e102801b969c1a064"
+    },
+    {
+      "id": "ct-wallingford-spanish",
+      "name": "Wallingford Spanish SDA Church",
+      "sourceURL": "https://wallingfordspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://wallingfordspanishct.adventistchurch.org/",
+      "contentSHA256": "fbeb6b17a4c1e63fc9d0e65319af5f6d4b8ec5e055da94a496ba4f83528c02bc"
+    },
+    {
+      "id": "ct-danbury-luso-brasileira",
+      "name": "Danbury Luso-Brasileira SDA Church",
+      "sourceURL": "https://danburylusobrasileiract.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://danburylusobrasileiract.adventistchurch.org/",
+      "contentSHA256": "bb23f8c40050a5c564b221d000405ba9768e3e777091824146ab25cff42de0be"
+    },
+    {
+      "id": "ct-danbury-bethel",
+      "name": "Danbury-Bethel Seventh-Day Adventist Church",
+      "sourceURL": "https://www.dbsda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://www.dbsda.org/",
+      "contentSHA256": "1e91c303b4b591a937f55719cb9f316e1568d2b37c0549dc7f9fda1eea3f92f3"
+    },
+    {
+      "id": "ct-greater-hartford-ghanaian",
+      "name": "Greater Hartford Ghanaian SDA Church",
+      "sourceURL": "https://greaterhartfordghanaianct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://greaterhartfordghanaianct.adventistchurch.org/",
+      "contentSHA256": "97eba5ed76c37a3ee8115179dd493171dc219a566d8dd1d0c72e78480bf266c5"
+    },
+    {
+      "id": "ct-bridgeport-portuguese",
+      "name": "Bridgeport Portuguese SDA Church",
+      "sourceURL": "https://bridgeportportuguesect.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://bridgeportportuguesect.adventistchurch.org/",
+      "contentSHA256": "ad2cb98868bd0f3c0ae105626f9ae49f1864a8dc4cb51d4400008b886dd075e4"
+    },
+    {
+      "id": "ct-bridgeport-spanish",
+      "name": "Bridgeport Spanish SDA Church",
+      "sourceURL": "https://iasdbridgeportspanish.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://iasdbridgeportspanish.org/",
+      "contentSHA256": "1675ef30f687e7b1f9ef0176f75f949f80a8c95dbd1a6c7879c7ff77322e208c"
+    },
+    {
+      "id": "ct-bridgeport-tabernacle",
+      "name": "Bridgeport Tabernacle SDA Church",
+      "sourceURL": "https://bridgeporttabernacle.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://bridgeporttabernacle.org/",
+      "contentSHA256": "279f873dbb2a625b9048ace9769343525aabf8c4d33106defb4906b1b1aa4524"
+    },
+    {
+      "id": "ct-brooklawn",
+      "name": "Brooklawn SDA Church",
+      "sourceURL": "https://brooklawn.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://brooklawn.org/contact/",
+      "contentSHA256": "6b9f3aa6f759643f4d1afa5d682714182cc4897cbe354e8d4b9e0fdaa28a5f81"
+    },
+    {
+      "id": "ct-calvary-bridgeport",
+      "name": "Calvary SDA Church \u2013 Bridgeport",
+      "sourceURL": "https://calvarysda.com/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://calvarysda.com/contact/",
+      "contentSHA256": "378a7a9c3cf9e15787eba7d114c610a86186303ac53af76abf62b460899b5880"
+    },
+    {
+      "id": "ct-ephraim-french",
+      "name": "Ephraim French SDA Church",
+      "sourceURL": "https://ephraimfrenchct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://ephraimfrenchct.adventistchurch.org/contact/",
+      "contentSHA256": "b8fcfa9c2a161bb929522d9ded96d3dc8447b689e4155ba94fe5954aed44a170"
+    },
+    {
+      "id": "ct-greater-bridgeport-ghanaian",
+      "name": "Greater Bridgeport Ghanaian SDA Company",
+      "sourceURL": "https://greaterbridgeportghanaianct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://greaterbridgeportghanaianct.adventistchurch.org/",
+      "contentSHA256": "c8d67d481adc7ed46d803a848a2f72391ab433f89069633361d128c5f0b91d08"
+    },
+    {
+      "id": "ct-danbury-hispanic",
+      "name": "Danbury Hispanic SDA Church",
+      "sourceURL": "https://danburyhispanicct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://danburyhispanicct.adventistchurch.org/",
+      "contentSHA256": "08a86363a3bcf24a3af0043ee56a3db6cd26fb257669745664f42d208188588d"
+    },
+    {
+      "id": "ct-danbury-nuevo-horizonte",
+      "name": "Iglesia Nuevo Horizonte de Danbury",
+      "sourceURL": "https://danburynuevohorizontespanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://danburynuevohorizontespanishct.adventistchurch.org/",
+      "contentSHA256": "9f699da47fca5c1aed1059e6c20de1118688163f572c5229290488a87d02c061"
+    },
+    {
+      "id": "ct-charity",
+      "name": "Charity Seventh-day Adventist Church",
+      "sourceURL": "https://charitysda.org/",
+      "status": "source_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "ct-mount-zion-hamden",
+      "name": "Mount Zion Seventh-day Adventist Church",
+      "sourceURL": "https://mtzionct.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://mtzionct.org/contact/",
+      "contentSHA256": "1ff0de5878ed8663f25696ed66268158c70af83223fbbd320ea2a72337253ff3"
+    },
+    {
+      "id": "ct-faith-hartford",
+      "name": "Faith SDA Church",
+      "sourceURL": "https://faithct.adventistchurch.org/contact-us/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://faithct.adventistchurch.org/contact-us/",
+      "contentSHA256": "2f8b1b564d58ffe543349efb4d3bcfa1bc9fad20b5bbf9534323ba8128e40872"
+    },
+    {
+      "id": "ct-hartford-bethel-haitian",
+      "name": "Hartford Bethel Haitian SDA Company",
+      "sourceURL": "https://bethelhaitianct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://bethelhaitianct.adventistchurch.org/",
+      "contentSHA256": "b37bf20311f137322d8ba8504b57aa4f6c1cdde20d4927663f361a448eef0389"
+    },
+    {
+      "id": "ct-hartford-portuguese",
+      "name": "Hartford Portuguese SDA Company",
+      "sourceURL": "https://hartfordportuguesect.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://hartfordportuguesect.adventistchurch.org/",
+      "contentSHA256": "880a06887b17f9f10bf1a506a3bee783d58f84230495b754a3fc1246bbd539e6"
+    },
+    {
+      "id": "ct-hartford-spanish",
+      "name": "Hartford Spanish SDA Church",
+      "sourceURL": "https://hartfordspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://hartfordspanishct.adventistchurch.org/",
+      "contentSHA256": "70d345b88ca3f9d2d06f52f2cbc7aaab5e2ce3533de81c8d20264379ccc418fe"
+    },
+    {
+      "id": "ct-prospect-avenue",
+      "name": "Prospect Avenue SDA Church",
+      "sourceURL": "https://gracect.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": true,
+      "finalURL": "https://gracect.adventistchurch.org/contact/",
+      "contentSHA256": "1ff1eb8b6ce8439e6e0e88e8222fdae5e2bd67ae7fc04bc362cc94567943e327"
+    },
+    {
+      "id": "ct-maranatha-hispanic",
+      "name": "Maranatha Hispanic SDA Church",
+      "sourceURL": "https://maranathahispanicct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://maranathahispanicct.adventistchurch.org/",
+      "contentSHA256": "f5506d3226786ffc9400a47e01a010055d7493ed3f8f5045d3898363d6ba4773"
+    },
+    {
+      "id": "ct-meriden",
+      "name": "Meriden SDA Church",
+      "sourceURL": "https://meridensda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://meridensda.org/",
+      "contentSHA256": "76a85fdf629c741752a13e91f483871776244485dd58c1eee7a2fc0f2002570a"
+    },
+    {
+      "id": "ct-meriden-spanish",
+      "name": "Meriden Spanish SDA Church",
+      "sourceURL": "https://meridenspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://meridenspanishct.adventistchurch.org/",
+      "contentSHA256": "01a9ce0f3a88b73ce85cb950566628a4149106390491e13a100f0bd2b6707841"
+    },
+    {
+      "id": "ct-new-britain-spanish",
+      "name": "New Britain Spanish Church",
+      "sourceURL": "https://newbritainspanishct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newbritainspanishct.adventistchurch.org/contact/",
+      "contentSHA256": "58c9542511848a74c193e7f8dd45a1f97f57d1e8a15dda34b3220f893123977c"
+    },
+    {
+      "id": "ct-new-haven",
+      "name": "New Haven Seventh-day Adventist Church",
+      "sourceURL": "https://newhavenct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newhavenct.adventistchurch.org/contact/",
+      "contentSHA256": "7a2b8aab052a63966bcdbb73dee26e63d43043d761049957342b51beff1c8327"
+    },
+    {
+      "id": "ct-new-haven-spanish",
+      "name": "New Haven Spanish SDA Church",
+      "sourceURL": "https://newhavenspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newhavenspanishct.adventistchurch.org/",
+      "contentSHA256": "e5799e317d60401e59055fcb48f18539f8f044362143aa8b37f1627409feaa87"
+    },
+    {
+      "id": "ct-omega",
+      "name": "Omega Seventh-day Adventist Church",
+      "sourceURL": "https://omegact.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://omegact.adventistchurch.org/contact/",
+      "contentSHA256": "7d60e02ca2779c1d2ca0e4047292255140c77eb87d2e0761f71aedd997b3ef23"
+    },
+    {
+      "id": "ct-mt-olive",
+      "name": "Mt. Olive SDA Church",
+      "sourceURL": "https://mtolivect.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://mtolivect.adventistchurch.org/contact/",
+      "contentSHA256": "1449cebdbbd253389909d958084564e53b43b539c984e649281859c0edda342f"
+    },
+    {
+      "id": "ct-shekinah-haitian",
+      "name": "Shekinah Haitian SDA Church",
+      "sourceURL": "https://shekinahhaitianct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://shekinahhaitianct.adventistchurch.org/",
+      "contentSHA256": "edab3b8df1f5bac35742d14aae6e0e52359c23430cb4d18bb346435d1c067608"
+    },
+    {
+      "id": "ct-bristol",
+      "name": "Bristol SDA Group",
+      "sourceURL": "https://bristolct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://bristolct.adventistchurch.org/",
+      "contentSHA256": "b7f4aff982cde03db6ccd663aa5f6b18a8c25347aa0ee96f11c2936feea950fc"
+    },
+    {
+      "id": "ct-mont-des-oliviers",
+      "name": "Mont des Oliviers French SDA Church",
+      "sourceURL": "https://montdesoliviersct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://montdesoliviersct.adventistchurch.org/",
+      "contentSHA256": "b5ed4dae19caa81c956410c990464680257817f38a21fecb096a2cbba0be63b5"
+    },
+    {
+      "id": "ct-norwalk-spanish",
+      "name": "Norwalk Spanish SDA Church",
+      "sourceURL": "https://norwalkspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://norwalkspanishct.adventistchurch.org/",
+      "contentSHA256": "161cd40ac4f5def1922d7f2baf926d500ffecb8a96c250d4ce82aa3934bd7a61"
+    },
+    {
+      "id": "ct-norwich",
+      "name": "Norwich SDA Church",
+      "sourceURL": "https://norwichct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://norwichct.adventistchurch.org/contact/",
+      "contentSHA256": "fb6b2428a807513f265a93e354d91d38933fb4b428571866bff16aac2ec917d1"
+    },
+    {
+      "id": "ct-middletown-portland",
+      "name": "Middletown-Portland SDA Church",
+      "sourceURL": "https://middletownportlandsda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://middletownportlandsda.org/",
+      "contentSHA256": "6fedc6f964007e2271b529128c0950224b09b36c3aaa65448a5c973cb91fd11f"
+    },
+    {
+      "id": "ct-waterford",
+      "name": "Waterford SDA Church",
+      "sourceURL": "https://waterfordsdachurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://waterfordsdachurch.org/",
+      "contentSHA256": "3541ff710f64da324663318dce22b1a95a5e5737389d5b61ff9496e76d3b7ba9"
+    },
+    {
+      "id": "ct-quinebaug",
+      "name": "Quinebaug SDA Church",
+      "sourceURL": "https://quinebaugct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://quinebaugct.adventistchurch.org/contact/",
+      "contentSHA256": "31f59108aeb73d2031ca97a4e6124cb86bd40b8461ae3769017b1843040ce0b2"
+    },
+    {
+      "id": "ct-connecticut-valley",
+      "name": "Connecticut Valley Seventh-day Adventist Church",
+      "sourceURL": "https://connecticutvalleyct.adventistchurch.org/about/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://connecticutvalleyct.adventistchurch.org/about/",
+      "contentSHA256": "6219de63a953237ecee8f92d63baadf7af284c2fe1822527d61649b57355e49c"
+    },
+    {
+      "id": "ct-breath-of-life",
+      "name": "Breath of Life Fellowship",
+      "sourceURL": "https://breathoflife.church/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://breathoflife.church/",
+      "contentSHA256": "e5354cd5df240a1315af2a57ef6852196f146ea256b004be473cf3c5f5d0d86e"
+    },
+    {
+      "id": "ct-north-stamford",
+      "name": "North Stamford Seventh-Day Adventist Church",
+      "sourceURL": "https://northstamfordct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://northstamfordct.adventistchurch.org/",
+      "contentSHA256": "4bce8a5b36546248a57a26c33a23b5402fba1803800ac738bf993b159d15c404"
+    },
+    {
+      "id": "ct-schilo",
+      "name": "Schilo Seventh-day Adventist Church",
+      "sourceURL": "https://schilosda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://schilosda.org/",
+      "contentSHA256": "52d6d54dcf07db71b33a22c50f1848a297f16511e12fec99cc9a7444998b83b5"
+    },
+    {
+      "id": "ct-stamford-spanish",
+      "name": "Stamford Spanish SDA Church",
+      "sourceURL": "https://stamfordspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://stamfordspanishct.adventistchurch.org/",
+      "contentSHA256": "20be0d10678307c72e2819780132714f5405c16b5174221168e9aa71c35409dd"
+    },
+    {
+      "id": "ct-renacer-stratford",
+      "name": "Renacer Stratford Spanish SDA Company",
+      "sourceURL": "https://renacerstratfordspanishct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://renacerstratfordspanishct.adventistchurch.org/",
+      "contentSHA256": "ec6bf5d673d27ce489a290f3c3619f4d28ea5711b041dcc6098fccba87d14b77"
+    },
+    {
+      "id": "ct-rockville-tolland",
+      "name": "Rockville-Tolland SDA Church",
+      "sourceURL": "https://rockvilletollandct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://rockvilletollandct.adventistchurch.org/",
+      "contentSHA256": "437ad56aa6b0813584046eeeabb716d4dc95b250389e258dbf7c8abf6a3f5075"
+    },
+    {
+      "id": "ct-shalom-waterbury",
+      "name": "Shalom SDA Church",
+      "sourceURL": "https://shalomct.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://shalomct.adventistchurch.org/",
+      "contentSHA256": "353001bed4b55268ee971ac76a21f82878c686331d967b1882359180436da59d"
+    },
+    {
+      "id": "ct-waterbury",
+      "name": "Waterbury SDA Church",
+      "sourceURL": "https://waterburyct.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://waterburyct.adventistchurch.org/contact/",
+      "contentSHA256": "bca93ee4e67530f6c7ff3ddfb19ec4cd09790d5b697dbabf6373bb2c2f425a16"
+    },
+    {
+      "id": "ct-crosswalk-hartford",
+      "name": "Crosswalk Hartford",
+      "sourceURL": "https://crosswalkvillage.com/hartford",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://crosswalkvillage.com/hartford",
+      "contentSHA256": "546e2cf5d2b0371edfb596abd57ccc943fc2914a34669077f4008d4a05dc2fd7"
+    },
+    {
+      "id": "ct-willimantic",
+      "name": "Willimantic Seventh-day Adventist Church",
+      "sourceURL": "https://www.willimanticsda.com/contact",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://www.willimanticsda.com/contact",
+      "contentSHA256": "c5d62806b50a0ac128d0ac64e667e812ba3df9a0089a19abfd1455aa9ba9b284"
+    },
+    {
+      "id": "snec-amesbury-sda-church",
+      "name": "Amesbury SDA Church",
+      "sourceURL": "https://amesburyma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://amesburyma.adventistchurch.org/",
+      "contentSHA256": "61e55cd504c8d7c1391d1a4d5fa3a018d8af151175534e68001ad81ca1399766"
+    },
+    {
+      "id": "snec-attleboro-spanish-sda-church",
+      "name": "Attleboro Spanish SDA Church",
+      "sourceURL": "https://attleborospanishma.adventistchurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://attleborospanishma.adventistchurch.org/contact/",
+      "contentSHA256": "0282f58ba7cf1ba86dd50a9b12834fe76c5e97d3d5eb6de14ebc33c73f921fa3"
+    },
+    {
+      "id": "snec-beth-union-haitian-sda-church",
+      "name": "Beth-Union Haitian SDA Church",
+      "sourceURL": "https://bethunionhaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://bethunionhaitianma.adventistchurch.org/",
+      "contentSHA256": "31d2ce446ed4e8d814ef5ac2195268bb58488d1ca14afccbf04394872a2b9d78"
+    },
+    {
+      "id": "snec-bethel-haitian-sda-church",
+      "name": "Bethel Haitian SDA Church",
+      "sourceURL": "https://bethelhaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://bethelhaitianma.adventistchurch.org/",
+      "contentSHA256": "7d8e3e62c291ccda5d2f37af3b367294a6896135692a194a335c533bcb99f522"
+    },
+    {
+      "id": "snec-bethesda-haitian-sda-church",
+      "name": "Bethesda Haitian SDA Church",
+      "sourceURL": "https://bethesdahaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://bethesdahaitianma.adventistchurch.org/",
+      "contentSHA256": "d1d2bb0a8ba312185380c93af31f54fed8f454aad1902f9117b00d2619c88d35"
+    },
+    {
+      "id": "snec-beverly-sda-church",
+      "name": "Beverly SDA Church",
+      "sourceURL": "https://beverlyma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://beverlyma.adventistchurch.org/",
+      "contentSHA256": "6276d371c7627c938f4f676e6734fc77ebda943bb2e5114041c842e803ea3f9d"
+    },
+    {
+      "id": "snec-boston-portuguese-sda-church",
+      "name": "Boston Portuguese SDA Church",
+      "sourceURL": "https://bostonportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://bostonportuguesema.adventistchurch.org/",
+      "contentSHA256": "cbf3f6eae9319d88773375d44779d9b13d0f98e086c88c411112b4a944d11fad"
+    },
+    {
+      "id": "snec-boston-spanish-sda-church",
+      "name": "Boston Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-braintree-sda-church",
+      "name": "Braintree SDA Church",
+      "sourceURL": "https://braintreesda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://braintreesda.org/",
+      "contentSHA256": "fbb2aee57ebaafcc8c309dd39c580938a2928425f4ad74232f6d6068436f576d"
+    },
+    {
+      "id": "snec-burrillville-sda-church",
+      "name": "Burrillville SDA Church",
+      "sourceURL": "https://burrillvilleri.adventistchurch.org/contato/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://burrillvilleri.adventistchurch.org/contato/",
+      "contentSHA256": "96a6d7cbfe9e4b12a96244150679b7008161b41394adc3de59c8ff9ecb5f6d9f"
+    },
+    {
+      "id": "snec-cape-cod-brazilian-sda-company",
+      "name": "Cape Cod Brazilian SDA Company",
+      "sourceURL": "https://capecodbrazilianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://capecodbrazilianma.adventistchurch.org/",
+      "contentSHA256": "ac558d250aa7f28fd94f78b37ba02f80e6f0896697f155ef570ea62fdef2e0da"
+    },
+    {
+      "id": "snec-central-falls-spanish-sda-church",
+      "name": "Central Falls Spanish SDA Church",
+      "sourceURL": "https://centralfallsspanishri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://centralfallsspanishri.adventistchurch.org/",
+      "contentSHA256": "a9e0b8aa69a8bf031dc540bb2bed89d5fc2cacad81201c93f772ef08fce2f64d"
+    },
+    {
+      "id": "snec-clinton-spanish-sda-church",
+      "name": "Clinton Spanish SDA Church",
+      "sourceURL": "https://clintonspanishsdachurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://clintonspanishsdachurch.org/",
+      "contentSHA256": "17c895638eed9deb11415f204d4422361e1fa3d7b568f0fd3a3fa528bf686778"
+    },
+    {
+      "id": "snec-cranston-spanish-sda-company",
+      "name": "Cranston Spanish SDA Company",
+      "sourceURL": "https://cranstonspanishri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://cranstonspanishri.adventistchurch.org/",
+      "contentSHA256": "aa31171f8ae714c7acd00ad5c120ef9460fd6873b1dcb24ea8e851a53935470d"
+    },
+    {
+      "id": "snec-el-faro-spanish-sda-church",
+      "name": "El Faro Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-esperanza-sda-church",
+      "name": "Esperanza SDA Church",
+      "sourceURL": "https://esperanzama.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://esperanzama.adventistchurch.org/",
+      "contentSHA256": "ff782310bd574a219a55d41042c2b5c3bb368a6bd985cad484abced53c577cea"
+    },
+    {
+      "id": "snec-everett-portuguese-sda-church",
+      "name": "Everett Portuguese SDA Church",
+      "sourceURL": "https://everettportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://everettportuguesema.adventistchurch.org/",
+      "contentSHA256": "4f71ccfeccf7254b11a633a2f5afb86391bf53f77a4bb4ec3d85929cb3a390d0"
+    },
+    {
+      "id": "snec-fall-river-portuguese-sda-church",
+      "name": "Fall River Portuguese SDA Church",
+      "sourceURL": "https://fallriverportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://fallriverportuguesema.adventistchurch.org/",
+      "contentSHA256": "8c4a9f9659e8a0024b42b2578586a927ba0e8ba894099eb03f39fa1ed188995a"
+    },
+    {
+      "id": "snec-fall-river-spanish-sda-company",
+      "name": "Fall River Spanish SDA Company",
+      "sourceURL": "https://fallriverspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://fallriverspanishma.adventistchurch.org/",
+      "contentSHA256": "d67c9da369699dae79c6b2fb0708a395184e30ef7114705cfaad281a91328354"
+    },
+    {
+      "id": "snec-first-springfield-sda-church",
+      "name": "First Springfield SDA Church",
+      "sourceURL": "https://firstspringfieldma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://firstspringfieldma.adventistchurch.org/",
+      "contentSHA256": "f7d95adb877cb5e97dff36b646c238c7a1364d34fd1669e9a4a77ac41d11a849"
+    },
+    {
+      "id": "snec-framingham-centre-sda-church",
+      "name": "Framingham Centre SDA Church",
+      "sourceURL": "https://framinghamcentrema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://framinghamcentrema.adventistchurch.org/",
+      "contentSHA256": "d4b6e147f6f3d3e8b238c0feccdf5b5dd2a93b354f547128a3a26034be853f8c"
+    },
+    {
+      "id": "snec-freetown-sda-company",
+      "name": "Freetown SDA Company",
+      "sourceURL": "https://freetownma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://freetownma.adventistchurch.org/",
+      "contentSHA256": "eb262c7cd6e621a966da815807a9a9abb08ca69c71c742bceaa4a2b1cc942fc0"
+    },
+    {
+      "id": "snec-gethsemane-haitian-sda-church",
+      "name": "Gethsemane Haitian SDA Church",
+      "sourceURL": "https://gethsemanehaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://gethsemanehaitianma.adventistchurch.org/",
+      "contentSHA256": "8be897176490ff3583337111aff683071638e37520d2775d6354ecbcfee95a1e"
+    },
+    {
+      "id": "snec-greater-boston-brazilian-sda-church",
+      "name": "Greater Boston Brazilian SDA Church",
+      "sourceURL": "https://greaterbostonbrazilianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://greaterbostonbrazilianma.adventistchurch.org/",
+      "contentSHA256": "7daad85227b8de26841b77ef7b98308b73bb1876ac21feff71132eaa1405c501"
+    },
+    {
+      "id": "snec-greater-boston-chinese-sda-church",
+      "name": "Greater Boston Chinese SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-greenwich-sda-company",
+      "name": "Greenwich SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-harmony-sda-church",
+      "name": "Harmony SDA Church",
+      "sourceURL": "https://harmonyma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://harmonyma.adventistchurch.org/",
+      "contentSHA256": "7e62ddfeb23ffe874671c95b1ceef44ccdea3582693cd7f5b319f399c93c48f5"
+    },
+    {
+      "id": "snec-hope-northampton-sda-church",
+      "name": "Hope Northampton SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-hudson-sda-church",
+      "name": "Hudson SDA Church",
+      "sourceURL": "https://www.hudsonsdachurch.org/where.html",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://www.hudsonsdachurch.org/where.html",
+      "contentSHA256": "c7d8b0b0d1ecd98856670cd4bab9583cba3f3c7850d4db71e569c052118d96e0"
+    },
+    {
+      "id": "snec-lakeview-ghanaian-sda-church",
+      "name": "Lakeview Ghanaian SDA Church",
+      "sourceURL": "https://lakeviewghanaianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://lakeviewghanaianma.adventistchurch.org/",
+      "contentSHA256": "c69d2e4c47aaab268242d0bbcacd58e7aa706d1d40f2598881c95a0b14e6b2f1"
+    },
+    {
+      "id": "snec-lancaster-brazilian-sda-church",
+      "name": "Lancaster Brazilian SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-lighthouse-sda-church",
+      "name": "Lighthouse SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-lincoln-sda-church",
+      "name": "Lincoln SDA Church",
+      "sourceURL": "https://lincolnri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://lincolnri.adventistchurch.org/",
+      "contentSHA256": "460c1009d87e4121a1d5fbccb20b50104653b91b1c620a8be3a91c2721e50a3e"
+    },
+    {
+      "id": "snec-lowell-portuguese-sda-church",
+      "name": "Lowell Portuguese SDA Church",
+      "sourceURL": "https://lowellportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://lowellportuguesema.adventistchurch.org/",
+      "contentSHA256": "bb1878eee9eea0c04616286f0ca973784bb7efeb150e0d01b5894604b7aa763f"
+    },
+    {
+      "id": "snec-marlboro-spanish-sda-church",
+      "name": "Marlboro Spanish SDA Church",
+      "sourceURL": "https://marlborospanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://marlborospanishma.adventistchurch.org/",
+      "contentSHA256": "9b7f589f67955428f6492e46d37872efff2d7e74a250f6a3422de201daf0b8b2"
+    },
+    {
+      "id": "snec-monte-de-sion-spanish-sda-company",
+      "name": "Monte de Sion Spanish SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-new-bedford-portuguese-sda-church",
+      "name": "New Bedford Portuguese SDA Church",
+      "sourceURL": "https://newbedfordportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://newbedfordportuguesema.adventistchurch.org/",
+      "contentSHA256": "63cf481139595520a80be56c5941cbf3208ef7d48b76a32552f1f125643d6b80"
+    },
+    {
+      "id": "snec-new-bedford-spanish-sda-church",
+      "name": "New Bedford Spanish SDA Church",
+      "sourceURL": "https://newbedfordspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://newbedfordspanishma.adventistchurch.org/",
+      "contentSHA256": "e963bae792a109014c90811e18e8f1e49279ad71bcfb78abd1f272466130d3f4"
+    },
+    {
+      "id": "snec-norwich-cape-verdean-sda-group",
+      "name": "Norwich Cape Verdean SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-nuevo-amanecer-spanish-sda-church",
+      "name": "Nuevo Amanecer Spanish SDA Church",
+      "sourceURL": "https://nuevoamanecerspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://nuevoamanecerspanishma.adventistchurch.org/",
+      "contentSHA256": "4c3149155d29ff320aa610d3f3f0b029facc3d686ad4b0e7a26c829afa77be7a"
+    },
+    {
+      "id": "snec-one-connection-boston-sda-group",
+      "name": "One Connection Boston SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-peniel-haitian-sda-church",
+      "name": "Peniel Haitian SDA Church",
+      "sourceURL": "https://penielhaitianma.adventistchurch.org/",
+      "status": "manual_review",
+      "nameMatched": true,
+      "addressMatched": false,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://penielhaitianma.adventistchurch.org/",
+      "contentSHA256": "cb580223da210f292a9c98060ba73c089bea51e574b6e95c710d3e0a279bafa9"
+    },
+    {
+      "id": "snec-pleasant-street-sda-church",
+      "name": "Pleasant Street SDA Church",
+      "sourceURL": "https://pleasantstreetma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://pleasantstreetma.adventistchurch.org/",
+      "contentSHA256": "06e55a491a762298bac398b77d94f65b7ccf53246feeb390ddc4fe0cb380dc12"
+    },
+    {
+      "id": "snec-providence-ghanaian-sda-company",
+      "name": "Providence Ghanaian SDA Company",
+      "sourceURL": "https://providenceghanaianri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://providenceghanaianri.adventistchurch.org/",
+      "contentSHA256": "b7484e4cdf39af4c5822df3bc24e36e211422ba8a4d3e1c931e3df0896811ba0"
+    },
+    {
+      "id": "snec-providence-spanish-sda-church",
+      "name": "Providence Spanish SDA Church",
+      "sourceURL": "https://providencespanishri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://providencespanishri.adventistchurch.org/",
+      "contentSHA256": "3f4d212981718cb9bf5ef4c4bdf58d27a8d4272d4c819e4ebd06923fe7425c49"
+    },
+    {
+      "id": "snec-renacer-massachusetts-spanish-sda-church",
+      "name": "Renacer Massachusetts Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-revelation-lynnfield-spanish-sda-company",
+      "name": "Revelation Lynnfield Spanish SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-shekinah-ii-haitian-sda-church",
+      "name": "Shekinah II Haitian SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-sinai-haitian-sda-church",
+      "name": "Sinai Haitian SDA Church",
+      "sourceURL": "https://sinaihaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://sinaihaitianma.adventistchurch.org/",
+      "contentSHA256": "dd1f4ce912995eecf524e368a3b55ed67385a26d220bbc20e8fdc6c7867c0335"
+    },
+    {
+      "id": "snec-springfield-nouvelle-jerusalem-haitian-sda-company",
+      "name": "Springfield Nouvelle Jerusalem Haitian SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-stoneham-memorial-sda-church",
+      "name": "Stoneham Memorial SDA Church",
+      "sourceURL": "https://stonehammemorial.org/contact",
+      "status": "source_unavailable",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "snec-sychar-haitian-sda-church",
+      "name": "Sychar Haitian SDA Church",
+      "sourceURL": "https://sycharhaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://sycharhaitianma.adventistchurch.org/",
+      "contentSHA256": "b10647f72e2b518e2db78b9ec2259f959c57038fcdec372f5c6e5a38778b1b25"
+    },
+    {
+      "id": "snec-taunton-cape-verdean-sda-church",
+      "name": "Taunton Cape Verdean SDA Church",
+      "sourceURL": "https://tauntoncapeverdeanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://tauntoncapeverdeanma.adventistchurch.org/",
+      "contentSHA256": "d0cd510d0bc450b297581a314f6eee59b2fddd3bc6c8b859b38b321f40feacd2"
+    },
+    {
+      "id": "snec-taunton-haitian-sda-church",
+      "name": "Taunton Haitian SDA Church",
+      "sourceURL": "https://tauntonhaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://tauntonhaitianma.adventistchurch.org/",
+      "contentSHA256": "da57c184faa005a1f0bdd17b5a0017114381c474d6d8028dfd5554345aa9a5d5"
+    },
+    {
+      "id": "snec-village-sda-church",
+      "name": "Village SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-waterbury-lion-of-judah-spanish-sda-church",
+      "name": "Waterbury Lion of Judah Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-waterbury-spanish-sda-church",
+      "name": "Waterbury Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-willimantic-spanish-sda-church",
+      "name": "Willimantic Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-worcester-central-spanish-sda-church",
+      "name": "Worcester Central Spanish SDA Church",
+      "sourceURL": "https://worcestercentralspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://worcestercentralspanishma.adventistchurch.org/",
+      "contentSHA256": "ab3af3c9f4b63c091c247cf2914d3ebbc149a69c4d0f6f99a11ac282e9af5c50"
+    },
+    {
+      "id": "snec-worcester-portuguese-sda-church",
+      "name": "Worcester Portuguese SDA Church",
+      "sourceURL": "https://worcesterportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://worcesterportuguesema.adventistchurch.org/",
+      "contentSHA256": "5680edac56fde90202a4fb4ac6be8d47f002a1b5fd7172af35b52704c52d7b16"
+    },
+    {
+      "id": "snec-worcester-sda-church",
+      "name": "Worcester SDA Church",
+      "sourceURL": "https://worcesterma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://worcesterma.adventistchurch.org/",
+      "contentSHA256": "742a268b17f8a8c8727e42e154b82f97029118dda813a8a96baaf8be9f81d2bd"
+    },
+    {
+      "id": "snec-attleboro-sda-church",
+      "name": "Attleboro SDA Church",
+      "sourceURL": "https://attleboroma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://attleboroma.adventistchurch.org/",
+      "contentSHA256": "5c4eb7cbdcb8c5417bedf2c0440983f781f389d940904aab1c2fc746224cceb6"
+    },
+    {
+      "id": "snec-berkshire-hills-sda-church",
+      "name": "Berkshire Hills SDA Church",
+      "sourceURL": "https://berkshirehillsma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://berkshirehillsma.adventistchurch.org/",
+      "contentSHA256": "3a045219ab81eea5f3b0781374a226632ba752e892d577e18c7f56aea85fbf73"
+    },
+    {
+      "id": "snec-bethany-haitian-sda-company",
+      "name": "Bethany Haitian SDA Company",
+      "sourceURL": "https://bethanyhaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://bethanyhaitianma.adventistchurch.org/",
+      "contentSHA256": "9fbd269e67aea08957cccf5043aa406b5325923fe19c1f08f0f45deb4c75bbd4"
+    },
+    {
+      "id": "snec-bristol-betel-spanish-sda-group",
+      "name": "Bristol Betel Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-cape-cod-sda-church",
+      "name": "Cape Cod SDA Church",
+      "sourceURL": "https://capecodsda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://capecodsda.org/",
+      "contentSHA256": "75b56bc42565f6cfff9750026850c994385d389f90c9c25e378555c1916585c3"
+    },
+    {
+      "id": "snec-college-sda-church",
+      "name": "College SDA Church",
+      "sourceURL": "https://www.collegechurch.net/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://www.collegechurch.net/",
+      "contentSHA256": "a72b581d88de2748e1e25e88d75b931c30d27b771ba1ab3dd8ca0f290be64ffb"
+    },
+    {
+      "id": "snec-crosswalk-boston-sda-group",
+      "name": "Crosswalk Boston SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-crosswalk-new-england-sda-church",
+      "name": "Crosswalk New England SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-dorchester-cape-verdean-sda-church",
+      "name": "Dorchester Cape Verdean SDA Church",
+      "sourceURL": "https://dorchestercapeverdeanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://dorchestercapeverdeanma.adventistchurch.org/",
+      "contentSHA256": "e4e72314a873735f7c9964d984c6dd45638c3be0544d79148783d16e084526ef"
+    },
+    {
+      "id": "snec-fitchburg-sda-church",
+      "name": "Fitchburg SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-foxboro-sda-church",
+      "name": "Foxboro SDA Church",
+      "sourceURL": "https://foxboroma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://foxboroma.adventistchurch.org/",
+      "contentSHA256": "a0e118c978dfcf4f3422bc6d1394fb3ecacdf9ee8a716c12f8ed5d1b5a704dfd"
+    },
+    {
+      "id": "snec-framingham-spanish-sda-church",
+      "name": "Framingham Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-gardner-sda-church",
+      "name": "Gardner SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-greater-boston-ghanaian-sda-church",
+      "name": "Greater Boston Ghanaian SDA Church",
+      "sourceURL": "https://greaterbostonghanaianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://greaterbostonghanaianma.adventistchurch.org/",
+      "contentSHA256": "8e0c8f7924fdfaaec97ea5caddec76a84e069799e6e8b98ec2f6f307ecd53ff3"
+    },
+    {
+      "id": "snec-holyoke-spanish-sda-church",
+      "name": "Holyoke Spanish SDA Church",
+      "sourceURL": "https://holyokespanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://holyokespanishma.adventistchurch.org/",
+      "contentSHA256": "f651ec27467d8aa0978ffaa682db4b26e57845f1d55432222d0c1af27b7ce3d0"
+    },
+    {
+      "id": "snec-jerusalem-haitian-sda-church",
+      "name": "Jerusalem Haitian SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-johnston-sda-church",
+      "name": "Johnston SDA Church",
+      "sourceURL": "https://johnstonri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://johnstonri.adventistchurch.org/",
+      "contentSHA256": "11f325bc93d98822f7d8e543ec6e71a2d9c2372f16627635272279f4846de102"
+    },
+    {
+      "id": "snec-lawrence-spanish-sda-church",
+      "name": "Lawrence Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-leominster-sda-church",
+      "name": "Leominster SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-merrimack-valley-sda-church",
+      "name": "Merrimack Valley SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-new-bedford-sda-church",
+      "name": "New Bedford SDA Church",
+      "sourceURL": "https://newbedfordsda.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newbedfordsda.org/",
+      "contentSHA256": "d5d5103ab03785dcaf2ed347590fe2175228dba492f2777dc3b5b49fe41ca77d"
+    },
+    {
+      "id": "snec-new-england-ghanaian-sda-church",
+      "name": "New England Ghanaian SDA Church",
+      "sourceURL": "https://newenglandghanaianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newenglandghanaianma.adventistchurch.org/",
+      "contentSHA256": "197546589066b5e499e885b81cb3e12d78bfa6ba19d76d3f70aa03e7a9ca15db"
+    },
+    {
+      "id": "snec-nouvelle-arche-haitian-sda-church",
+      "name": "Nouvelle Arche Haitian SDA Church",
+      "sourceURL": "https://nouvellearchehaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://nouvellearchehaitianma.adventistchurch.org/",
+      "contentSHA256": "d2d9696ef207b5c93ab27b8d74c961e55b8dd808ce00513f6b036841cb327989"
+    },
+    {
+      "id": "snec-pawtucket-cape-verdean-sda-church",
+      "name": "Pawtucket Cape Verdean SDA Church",
+      "sourceURL": "https://pawtucketcapeverdeanri.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://pawtucketcapeverdeanri.adventistchurch.org/",
+      "contentSHA256": "516915d928edbf83f72286691109f1ff6555d7d945ace4bd409bbb70faf17425"
+    },
+    {
+      "id": "snec-salem-sda-church",
+      "name": "Salem SDA Church",
+      "sourceURL": "https://salemma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://salemma.adventistchurch.org/",
+      "contentSHA256": "6cab3b5390bb43c3aebd376b62b2aea754e2f06ed3e54689d0674e2125ddd82c"
+    },
+    {
+      "id": "snec-shelburne-falls-sda-church",
+      "name": "Shelburne Falls SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-taunton-sda-church",
+      "name": "Taunton SDA Church",
+      "sourceURL": "https://tauntonma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://tauntonma.adventistchurch.org/",
+      "contentSHA256": "1a275de33da18b96d94859f226eeae090da8cf71025c021d17eeb0e778849a96"
+    },
+    {
+      "id": "snec-three-angels-sda-church",
+      "name": "Three Angels SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-wickford-sda-church",
+      "name": "Wickford SDA Church",
+      "sourceURL": "https://wickfordsdachurch.org/contact/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://wickfordsdachurch.org/contact/",
+      "contentSHA256": "4336f4652e2224230ba95126f902ba463e2477b1f7d06309bf760ab01764d0b6"
+    },
+    {
+      "id": "snec-ansonia-mount-zion-spanish-sda-group",
+      "name": "Ansonia Mount Zion Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-athol-sda-church",
+      "name": "Athol SDA Church",
+      "sourceURL": "https://atholma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://atholsdachurch.org/",
+      "contentSHA256": "94a2c2b06239bbdbbff92de1aea3b37fe03976441e3526a48dfca62949343967"
+    },
+    {
+      "id": "snec-covenant-spanish-sda-group",
+      "name": "Covenant Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-dedham-temple-sda-church",
+      "name": "Dedham Temple SDA Church",
+      "sourceURL": "https://dedhamtemplema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://dedhamtemplema.adventistchurch.org/",
+      "contentSHA256": "9a07d2fcc806420a26a710213ac2dffd74db4c7e19d6689595a0f672ed7d9235"
+    },
+    {
+      "id": "snec-fall-river-cape-verdean-sda-church",
+      "name": "Fall River Cape Verdean SDA Church",
+      "sourceURL": "https://fallrivercapeverdeanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://fallrivercapeverdeanma.adventistchurch.org/",
+      "contentSHA256": "8c80fb26ef9faaab080e7d50e2fc78fbd75e0d4d663a3d9a5ca5d880b8fd9e7e"
+    },
+    {
+      "id": "snec-malden-spanish-sda-church",
+      "name": "Malden Spanish SDA Church",
+      "sourceURL": "https://maldenspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://maldenspanishma.adventistchurch.org/",
+      "contentSHA256": "2cf4642c0f7c8cd192b40bca0e0fc5bc9a79c34929416f66a35c1a834d96e9ce"
+    },
+    {
+      "id": "snec-new-england-luganda-sda-company",
+      "name": "New England Luganda SDA Company",
+      "sourceURL": "https://newenglandlugandama.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://newenglandlugandama.adventistchurch.org/",
+      "contentSHA256": "48fbec3395efbeabb1b470b40ec56db89e9e445eea501d7c2a35eda2a410a7d9"
+    },
+    {
+      "id": "snec-northboro-sda-church",
+      "name": "Northboro SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-one-connection-haverhill-sda-company",
+      "name": "One Connection Haverhill SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-redemption-community-sda-company",
+      "name": "Redemption Community SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-revere-spanish-sda-company",
+      "name": "Revere Spanish SDA Company",
+      "sourceURL": "https://reverespanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://reverespanishma.adventistchurch.org/",
+      "contentSHA256": "bf5b87f86f528ae9b9b76bdbf10f0ffe26f57d35cac9c31037e216e7466a2622"
+    },
+    {
+      "id": "snec-shaddai-spanish-sda-church",
+      "name": "Shaddai Spanish SDA Church",
+      "sourceURL": "https://shaddaispanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://shaddaispanishma.adventistchurch.org/",
+      "contentSHA256": "d699ec12dc8750eb46ab7a5269b1d87c95702602ad4d54fcbc7aebb95c10973f"
+    },
+    {
+      "id": "snec-shrewsbury-sda-church",
+      "name": "Shrewsbury SDA Church",
+      "sourceURL": "https://shrewsburyma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://shrewsburyma.adventistchurch.org/",
+      "contentSHA256": "739df6604eb27068d7c8cc06661c5c5f5866e7462216aec13ef248efbca46b93"
+    },
+    {
+      "id": "snec-sterling-sda-church",
+      "name": "Sterling SDA Church",
+      "sourceURL": "https://sterlingma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://sterlingma.adventistchurch.org/",
+      "contentSHA256": "c30b86cee93226304423f226fef02c2b8a1ec7100142ac04e2f99929ec98ec91"
+    },
+    {
+      "id": "snec-waltham-sda-church",
+      "name": "Natick SDA Church",
+      "sourceURL": "https://walthamma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://walthamma.adventistchurch.org/",
+      "contentSHA256": "366442e86d63ecc78c6f696abdadd3dc5e290980f72143f021afa9d6373ec1d2"
+    },
+    {
+      "id": "snec-beraca-franco-haitian-mission-group",
+      "name": "Beraca Franco-Haitian Mission Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-billerica-sda-church",
+      "name": "Billerica SDA Church",
+      "sourceURL": "https://billericama.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://billericama.adventistchurch.org/",
+      "contentSHA256": "4106cbcb8f6ea1c01e53725e1b94344532016c9b5dcaadd75bf403d9069cd68b"
+    },
+    {
+      "id": "snec-boston-cape-verdean-sda-group",
+      "name": "Boston Cape Verdean SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-boston-korean-sda-church",
+      "name": "Boston Korean SDA Church",
+      "sourceURL": "https://bostonkoreanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://bostonkoreanma.adventistchurch.org/",
+      "contentSHA256": "23d1f344a8edc9955e1da645cab45b7e6a94deb4dc9b56f939fc62e60f51a9b6"
+    },
+    {
+      "id": "snec-boston-slavic-sda-of-framingham-group",
+      "name": "Boston Slavic SDA of Framingham Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-boston-temple-sda-church",
+      "name": "Boston Temple SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-brockton-cape-verdean-sda-church",
+      "name": "Brockton Cape Verdean SDA Church",
+      "sourceURL": "https://brocktoncapeverdeanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://brocktoncapeverdeanma.adventistchurch.org/",
+      "contentSHA256": "ae103f52aca4e312f1bddbc4906c525844b7cb0e79b92665abd338c907a5a8ed"
+    },
+    {
+      "id": "snec-brockton-sda-church",
+      "name": "Brockton SDA Church",
+      "sourceURL": "https://brocktonma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://brocktonma.adventistchurch.org/",
+      "contentSHA256": "af93e65454d3d9ec49fea57ee9665d57f7462f3b440eb7e4a8edffd10541d43d"
+    },
+    {
+      "id": "snec-canaan-sda-church",
+      "name": "Canaan SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-chosen-cape-verdean-sda-group",
+      "name": "Chosen Cape Verdean SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-ebenezer-kinyarwanda-sda-group",
+      "name": "Ebenezer KinYarwanda SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-ebenezer-spanish-sda-group",
+      "name": "Ebenezer Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-eden-haitian-sda-company",
+      "name": "Eden Haitian SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-ephesus-haitian-sda-church",
+      "name": "Ephesus Haitian SDA Church",
+      "sourceURL": "https://ephesushaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://ephesushaitianma.adventistchurch.org/",
+      "contentSHA256": "01b7863a39faaeeba80b3a71b15a0abec3e61e63416cd2efac68dc4d7155c0b2"
+    },
+    {
+      "id": "snec-espaco-novo-tempo-leominster-company",
+      "name": "Espa\u00e7o Novo Tempo Leominster Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-fall-river-sda-church",
+      "name": "Fall River SDA Church",
+      "sourceURL": "https://fallriverma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://fallriverma.adventistchurch.org/",
+      "contentSHA256": "ceda71dacb6a386c1c9b0fc9a15423db9a16d11fc98dfa2b36da76d5d7239e87"
+    },
+    {
+      "id": "snec-framingham-portuguese-sda-church",
+      "name": "Framingham Portuguese SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-framingham-temple-haitian-sda-church",
+      "name": "Framingham Temple Haitian SDA Church",
+      "sourceURL": "https://framinghamtemplehaitianma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://framinghamtemplehaitianma.adventistchurch.org/",
+      "contentSHA256": "cab91e3d6d1913d4e4cf19df01f68083304cb6234a8c8f61670a7ea2fe3e61e9"
+    },
+    {
+      "id": "snec-gloucester-spanish-sda-company",
+      "name": "Gloucester Spanish SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-grace-and-glory-sda-church",
+      "name": "Grace and Glory SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-haverhill-sda-church",
+      "name": "Haverhill SDA Church",
+      "sourceURL": "https://haverhillma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://haverhillma.adventistchurch.org/",
+      "contentSHA256": "c8d04a65deef19836700e641a20d0e4d72b6d99f2eddf41a33687d5faae6def7"
+    },
+    {
+      "id": "snec-jamaica-plain-spanish-sda-church",
+      "name": "Jamaica Plain Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-leominster-all-nations-sda-church",
+      "name": "Leominster All Nations SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-leominster-spanish-sda-church",
+      "name": "Leominster Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-lowell-all-nations-sda-church",
+      "name": "Lowell All Nations SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-lowell-spanish-sda-church",
+      "name": "Lowell Spanish SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-lynn-spanish-sda-church",
+      "name": "Lynn Spanish SDA Church",
+      "sourceURL": "https://lynnspanishma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://lynnspanishma.adventistchurch.org/",
+      "contentSHA256": "22a1acaea6a0b4fe09a9ac44ea5978176ffe30a984d677df8cf769511505790d"
+    },
+    {
+      "id": "snec-middleton-spanish-sda-group",
+      "name": "Middleton Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-mount-horeb-sda-church",
+      "name": "Mount Horeb SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-nantucket-sda-company",
+      "name": "Nantucket SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-naugatuck-sda-company",
+      "name": "Naugatuck SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-new-bedford-cape-verdean-sda-church",
+      "name": "New Bedford Cape Verdean SDA Church",
+      "sourceURL": "https://newbedfordcapeverdeanma.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": false,
+      "addressMatched": true,
+      "phoneMatched": true,
+      "reviewLocationContext": false,
+      "finalURL": "https://newbedfordcapeverdeanma.adventistchurch.org/",
+      "contentSHA256": "ba33bff3a9fd2f19b9889c697da11d0bd3714cf1526b2af59ec2b837ef2bcba2"
+    },
+    {
+      "id": "snec-norwood-sda-company",
+      "name": "Norwood SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-pawtucket-portuguese-sda-church",
+      "name": "Pawtucket Portuguese SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-plainville-sda-church",
+      "name": "Plainville SDA Church",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-quinebaug-spanish-sda-group",
+      "name": "Quinebaug Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-randolph-cape-verdean-sda-company",
+      "name": "Randolph Cape Verdean SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-salem-mass-esperanza-spanish-group",
+      "name": "Salem Mass Esperanza Spanish Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-salem-spanish-sda-company",
+      "name": "Salem Spanish SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-seekonk-portuguese-sda-church",
+      "name": "Seekonk Portuguese SDA Church",
+      "sourceURL": "https://seekonkportuguesema.adventistchurch.org/",
+      "status": "matched_published_address",
+      "nameMatched": true,
+      "addressMatched": true,
+      "phoneMatched": false,
+      "reviewLocationContext": false,
+      "finalURL": "https://seekonkportuguesema.adventistchurch.org/",
+      "contentSHA256": "2d0a2a847b4ed7c99ea141aaa26af96aaa8255656331b362a6049633e7fa38ee"
+    },
+    {
+      "id": "snec-senderos-de-vida-sda-company",
+      "name": "Senderos de Vida SDA Company",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-springfield-congolese-sda-group",
+      "name": "Springfield Congolese SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-waltham-spanish-sda-group",
+      "name": "Waltham Spanish SDA Group",
+      "status": "no_source_yet"
+    },
+    {
+      "id": "snec-warren-sda-church",
+      "name": "Warren SDA Church",
+      "status": "no_source_yet"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "checkedAtUTC": "2026-11-07T03:36:49Z",
+  "results": [
+    {
+      "id": "ct-danbury-luso-brasileira",
+      "sourceURL": "https://danburylusobrasileiract.adventistchurch.org/",
+      "approvedCheckedOn": "2026-11-06",
+      "finalURL": "https://danburylusobrasileiract.adventistchurch.org/",
+      "contentSHA256": "71233d6eb6f9cc21bc12449ab8d9178b2a4050a67d722c6797d740919f43540c",
+      "addressStillPresent": true,
+      "status": "address-found-review-name"
+    },
+    {
+      "id": "ct-danbury-bethel",
+      "sourceURL": "https://www.dbsda.org/",
+      "approvedCheckedOn": "2026-11-06",
+      "finalURL": "https://www.dbsda.org/",
+      "contentSHA256": "1e91c303b4b591a937f55719cb9f316e1568d2b37c0549dc7f9fda1eea3f92f3",
+      "addressStillPresent": true,
+      "status": "address-found-review-name"
+    },
+    {
+      "id": "ct-greater-hartford-ghanaian",
+      "sourceURL": "https://greaterhartfordghanaianct.adventistchurch.org/",
+      "approvedCheckedOn": "2026-11-06",
+      "finalURL": "https://greaterhartfordghanaianct.adventistchurch.org/",
+      "contentSHA256": "97eba5ed76c37a3ee8115179dd493171dc219a566d8dd1d0c72e78480bf266c5",
+      "addressStillPresent": true,
+      "status": "address-found-review-name"
+    }
+  ]
+}

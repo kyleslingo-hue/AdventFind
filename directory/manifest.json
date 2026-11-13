@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "lastUpdated": "2026-11-13T22:54:35.150246+00:00",
+  "datasets": [
+    {
+      "id": "connecticut-churches",
+      "filename": "connecticut-churches.json",
+      "name": "Connecticut Churches",
+      "version": 1,
+      "recordCount": 49,
+      "state": "CT"
+    },
+    {
+      "id": "snec-churches",
+      "filename": "snec-churches.json",
+      "name": "Southern New England Conference",
+      "version": 1,
+      "recordCount": 182,
+      "conference": "Southern New England Conference"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 //
 //  SDA_Church_FinderTests.swift
-//  SDA Church FinderTests
+//  AdventFindTests
 //
 //  Created by Kyle Slingo on 2/10/26.
 //

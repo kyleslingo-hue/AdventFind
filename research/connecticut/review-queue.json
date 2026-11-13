@@ -1,0 +1,26 @@
+{
+  "region": "Connecticut",
+  "reviewedOn": "2026-11-06",
+  "candidates": [
+    {
+      "name": "Canaan SDA Church",
+      "reason": "Church site could not be verified; excluded from approved records."
+    },
+    {
+      "name": "Plainville SDA Church",
+      "reason": "Conference and town sources identify an address; church site unavailable. Needs direct church confirmation before adding to the church-site collection."
+    },
+    {
+      "name": "Hope SDA Church, Bloomfield",
+      "reason": "Church sites unavailable through research tool. Needs primary-source confirmation."
+    },
+    {
+      "name": "New Milford Spanish SDA Group",
+      "reason": "No verifiable current physical address found on a church-owned site."
+    },
+    {
+      "name": "Ansonia Mount Zion Spanish SDA Group",
+      "reason": "Conference confirms affiliation; current public physical address still needs verification."
+    }
+  ]
+}

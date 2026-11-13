@@ -1,0 +1,2941 @@
+{
+  "coverage": "Initial researched collection; not a complete statewide census.",
+  "records": [
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-07",
+      "city": "New Milford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://orionct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4M2W",
+      "id": "ct-orion-spanish",
+      "latitude": 41.5650688,
+      "longitude": -73.4156558,
+      "name": "Orion Spanish SDA Company",
+      "postalCode": "06776-3412",
+      "reviewNotes": "Church website uses Company; preserve its published title.",
+      "sourceURLs": [
+        "https://orionct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "68 Danbury Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://orionct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://orionct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://orionct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://orionct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-07",
+      "city": "Wallingford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://wallingfordspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4M29",
+      "id": "ct-wallingford-spanish",
+      "latitude": 41.4524909,
+      "longitude": -72.7879793,
+      "name": "Wallingford Spanish SDA Church",
+      "phone": "978-902-4437",
+      "postalCode": "06492-3950",
+      "reviewNotes": "Church website uses Church; preserve its published title.",
+      "sourceURLs": [
+        "https://wallingfordspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "941 Old Rock Hill Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://wallingfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://wallingfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://wallingfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-07",
+          "sourceURLs": [
+            "https://wallingfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://wallingfordspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bethel",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://danburylusobrasileiract.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDC",
+      "id": "ct-danbury-luso-brasileira",
+      "latitude": 41.3724687,
+      "longitude": -73.4193378,
+      "name": "Danbury Luso-Brasileira SDA Church",
+      "postalCode": "06801",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://danburylusobrasileiract.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "239 Greenwood Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburylusobrasileiract.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburylusobrasileiract.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburylusobrasileiract.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://danburylusobrasileiract.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bethel",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://www.dbsda.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MDG",
+      "id": "ct-danbury-bethel",
+      "latitude": 41.3433871,
+      "longitude": -73.416064,
+      "name": "Danbury-Bethel Seventh-Day Adventist Church",
+      "postalCode": "06801",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://www.dbsda.org/"
+      ],
+      "state": "CT",
+      "street": "67 Turkey Plain Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.dbsda.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.dbsda.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.dbsda.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://www.dbsda.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bloomfield",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://greaterhartfordghanaianct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MGH",
+      "id": "ct-greater-hartford-ghanaian",
+      "latitude": 41.8488292,
+      "longitude": -72.6904394,
+      "name": "Greater Hartford Ghanaian SDA Church",
+      "phone": "860-310-0052",
+      "postalCode": "06002",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://greaterhartfordghanaianct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "76 E Dudley Town Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterhartfordghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterhartfordghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterhartfordghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterhartfordghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://greaterhartfordghanaianct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://bridgeportportuguesect.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MBU",
+      "id": "ct-bridgeport-portuguese",
+      "latitude": 41.1755392,
+      "longitude": -73.2075422,
+      "name": "Bridgeport Portuguese SDA Church",
+      "phone": "203-330-1425",
+      "postalCode": "06605",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://bridgeportportuguesect.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "470 Laurel Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeportportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeportportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeportportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeportportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://bridgeportportuguesect.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://iasdbridgeportspanish.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MC6",
+      "id": "ct-bridgeport-spanish",
+      "latitude": 41.215442,
+      "longitude": -73.1869208,
+      "name": "Bridgeport Spanish SDA Church",
+      "phone": "203-372-4633",
+      "postalCode": "06606",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://iasdbridgeportspanish.org/"
+      ],
+      "state": "CT",
+      "street": "980 Sylvan Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://iasdbridgeportspanish.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://iasdbridgeportspanish.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://iasdbridgeportspanish.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://iasdbridgeportspanish.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://iasdbridgeportspanish.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://bridgeporttabernacle.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FB2",
+      "id": "ct-bridgeport-tabernacle",
+      "latitude": 41.1766694,
+      "longitude": -73.2127717,
+      "name": "Bridgeport Tabernacle SDA Church",
+      "postalCode": "06604",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://bridgeporttabernacle.org/"
+      ],
+      "state": "CT",
+      "street": "717 Clinton Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeporttabernacle.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeporttabernacle.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bridgeporttabernacle.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://bridgeporttabernacle.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://brooklawn.org/contact/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MCL",
+      "id": "ct-brooklawn",
+      "latitude": 41.1823702,
+      "longitude": -73.2168343,
+      "name": "Brooklawn SDA Church",
+      "phone": "203-333-2876",
+      "postalCode": "06604",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://brooklawn.org/contact/"
+      ],
+      "state": "CT",
+      "street": "250 Brooklawn Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://brooklawn.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://brooklawn.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://brooklawn.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://brooklawn.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://brooklawn.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://calvarysda.com/contact/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FB6",
+      "id": "ct-calvary-bridgeport",
+      "latitude": 41.2180527,
+      "longitude": -73.2011397,
+      "name": "Calvary SDA Church \u2013 Bridgeport",
+      "phone": "203-374-4533",
+      "postalCode": "06606",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://calvarysda.com/contact/"
+      ],
+      "state": "CT",
+      "street": "827 Trumbull Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://calvarysda.com/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://calvarysda.com/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://calvarysda.com/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://calvarysda.com/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://calvarysda.com/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://ephraimfrenchct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEP",
+      "id": "ct-ephraim-french",
+      "latitude": 41.2000947,
+      "longitude": -73.2205734,
+      "name": "Ephraim French SDA Church",
+      "phone": "203-345-3937",
+      "postalCode": "06604",
+      "reviewNotes": "Church website lists Park Avenue. Do not automatically match old Iranistan Avenue listings.",
+      "sourceURLs": [
+        "https://ephraimfrenchct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "3160 Park Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://ephraimfrenchct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://ephraimfrenchct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://ephraimfrenchct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://ephraimfrenchct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://ephraimfrenchct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Bridgeport",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://greaterbridgeportghanaianct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MBH",
+      "id": "ct-greater-bridgeport-ghanaian",
+      "latitude": 41.1766324,
+      "longitude": -73.1974996,
+      "name": "Greater Bridgeport Ghanaian SDA Company",
+      "postalCode": "06604",
+      "reviewNotes": "Own website uses Company; other directories use Church. Preserve the church-published title.",
+      "sourceURLs": [
+        "https://greaterbridgeportghanaianct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "126 Washington Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterbridgeportghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterbridgeportghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://greaterbridgeportghanaianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://greaterbridgeportghanaianct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Danbury",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://danburyhispanicct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDA",
+      "id": "ct-danbury-hispanic",
+      "latitude": 41.3936921,
+      "longitude": -73.4466064,
+      "name": "Danbury Hispanic SDA Church",
+      "phone": "203-743-9475",
+      "postalCode": "06810",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://danburyhispanicct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "78 Liberty St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburyhispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburyhispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburyhispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburyhispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://danburyhispanicct.adventistchurch.org/"
+    },
+    {
+      "aliases": [
+        "Danbury Nuevo Horizonte Spanish SDA Church"
+      ],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Danbury",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://danburynuevohorizontespanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MDS",
+      "id": "ct-danbury-nuevo-horizonte",
+      "latitude": 41.3907732,
+      "longitude": -73.452979,
+      "name": "Iglesia Nuevo Horizonte de Danbury",
+      "phone": "203-300-5098",
+      "postalCode": "06810",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://danburynuevohorizontespanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "145 Deer Hill Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburynuevohorizontespanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburynuevohorizontespanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburynuevohorizontespanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://danburynuevohorizontespanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://danburynuevohorizontespanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "East Hartford",
+      "conference": "Northeastern Conference",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://charitysda.org/",
+      "id": "ct-charity",
+      "latitude": 41.729374,
+      "longitude": -72.6055045,
+      "name": "Charity Seventh-day Adventist Church",
+      "postalCode": "06118",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://charitysda.org/"
+      ],
+      "state": "CT",
+      "street": "1535 Forbes Street",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://charitysda.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://charitysda.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://charitysda.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://charitysda.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hamden",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://mtzionct.org/contact/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBV",
+      "id": "ct-mount-zion-hamden",
+      "latitude": 41.3443154,
+      "longitude": -72.9272644,
+      "name": "Mount Zion Seventh-day Adventist Church",
+      "phone": "203-562-5784",
+      "postalCode": "06517",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://mtzionct.org/contact/"
+      ],
+      "state": "CT",
+      "street": "335 Putnam Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtzionct.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtzionct.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtzionct.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtzionct.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://mtzionct.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://faithct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBB",
+      "id": "ct-faith-hartford",
+      "latitude": 41.783984,
+      "longitude": -72.695026,
+      "name": "Faith SDA Church",
+      "phone": "929-257-1649",
+      "postalCode": "06112",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://faithct.adventistchurch.org/contact-us/"
+      ],
+      "state": "CT",
+      "street": "500 Woodland St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://faithct.adventistchurch.org/contact-us/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://faithct.adventistchurch.org/contact-us/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://faithct.adventistchurch.org/contact-us/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://faithct.adventistchurch.org/contact-us/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://faithct.adventistchurch.org/contact-us/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://bethelhaitianct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4M2P",
+      "id": "ct-hartford-bethel-haitian",
+      "latitude": 41.73959,
+      "longitude": -72.6874121,
+      "name": "Hartford Bethel Haitian SDA Company",
+      "postalCode": "06114",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://bethelhaitianct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "1931 Broad St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bethelhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bethelhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bethelhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://bethelhaitianct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://hartfordportuguesect.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MHA",
+      "id": "ct-hartford-portuguese",
+      "latitude": 41.7672454,
+      "longitude": -72.6964635,
+      "name": "Hartford Portuguese SDA Company",
+      "phone": "860-817-5642",
+      "postalCode": "06105",
+      "reviewNotes": "Published address includes floor 2. Map results without that specificity are not automatically matched.",
+      "sourceURLs": [
+        "https://hartfordportuguesect.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "243 Farmington Ave Fl 2",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordportuguesect.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://hartfordportuguesect.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://hartfordspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MF1",
+      "id": "ct-hartford-spanish",
+      "latitude": 41.761806,
+      "longitude": -72.688934,
+      "name": "Hartford Spanish SDA Church",
+      "phone": "860-522-0220",
+      "postalCode": "",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://hartfordspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "174 Russ St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://hartfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://hartfordspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [
+        "Grace SDA Church"
+      ],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://gracect.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MGR",
+      "id": "ct-prospect-avenue",
+      "latitude": 41.7744758,
+      "longitude": -72.714528,
+      "name": "Prospect Avenue SDA Church",
+      "phone": "860-523-0096",
+      "postalCode": "06105",
+      "reviewNotes": "Current site title and footer use Prospect Avenue; contact page also uses Grace SDA Church. Street address is distinct from mailing address.",
+      "sourceURLs": [
+        "https://gracect.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "870 Prospect Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://gracect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://gracect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://gracect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://gracect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://gracect.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Manchester",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://maranathahispanicct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBQ",
+      "id": "ct-maranatha-hispanic",
+      "latitude": 41.7963281,
+      "longitude": -72.5313793,
+      "name": "Maranatha Hispanic SDA Church",
+      "phone": "860-649-4406",
+      "postalCode": "",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://maranathahispanicct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "447 N Main St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://maranathahispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://maranathahispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://maranathahispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://maranathahispanicct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://maranathahispanicct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Meriden",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://meridensda.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MGG",
+      "id": "ct-meriden",
+      "latitude": 41.5204871,
+      "longitude": -72.7753617,
+      "name": "Meriden SDA Church",
+      "postalCode": "06450",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://meridensda.org/"
+      ],
+      "state": "CT",
+      "street": "300 Paddock Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridensda.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridensda.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridensda.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://meridensda.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Meriden",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://meridenspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MGL",
+      "id": "ct-meriden-spanish",
+      "latitude": 41.5328311,
+      "longitude": -72.8138192,
+      "name": "Meriden Spanish SDA Church",
+      "phone": "203-630-0285",
+      "postalCode": "06451",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://meridenspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "24 Columbus Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://meridenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://meridenspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": false,
+      "checkedOn": "2026-11-06",
+      "city": "New Britain",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://newbritainspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MHG",
+      "id": "ct-new-britain-spanish",
+      "latitude": 41.6672157,
+      "longitude": -72.783802,
+      "name": "New Britain Spanish Church",
+      "phone": "860-225-9218",
+      "postalCode": "06051",
+      "reviewNotes": "Contact page also lists Covenant Church English Mission; address alone cannot distinguish congregations.",
+      "sourceURLs": [
+        "https://newbritainspanishct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "94 W Main St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newbritainspanishct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newbritainspanishct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newbritainspanishct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newbritainspanishct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://newbritainspanishct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "New Haven",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://newhavenct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MHQ",
+      "id": "ct-new-haven",
+      "latitude": 41.3160199,
+      "longitude": -72.9153184,
+      "name": "New Haven Seventh-day Adventist Church",
+      "phone": "203-776-6646",
+      "postalCode": "06511",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://newhavenct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "355 Humphrey St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://newhavenct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "New Haven",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://newhavenspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MHV",
+      "id": "ct-new-haven-spanish",
+      "latitude": 41.3316993,
+      "longitude": -72.9348111,
+      "name": "New Haven Spanish SDA Church",
+      "phone": "203-562-4457",
+      "postalCode": "06511",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://newhavenspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "681 Dixwell Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://newhavenspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://newhavenspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "New Haven",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://omegact.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FOM",
+      "id": "ct-omega",
+      "latitude": 41.3114208,
+      "longitude": -72.9474391,
+      "name": "Omega Seventh-day Adventist Church",
+      "phone": "203-859-5135",
+      "postalCode": "06511",
+      "reviewNotes": "Church website lists Winthrop Avenue. Do not automatically match old Derby Avenue listings.",
+      "sourceURLs": [
+        "https://omegact.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "278 Winthrop Avenue",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://omegact.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://omegact.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://omegact.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://omegact.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://omegact.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "New London",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://mtolivect.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMO",
+      "id": "ct-mt-olive",
+      "latitude": 41.3433225,
+      "longitude": -72.1059179,
+      "name": "Mt. Olive SDA Church",
+      "phone": "860-443-4178",
+      "postalCode": "06320",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://mtolivect.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "14 Linden St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtolivect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtolivect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtolivect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://mtolivect.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://mtolivect.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "New London",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://shekinahhaitianct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MSH",
+      "id": "ct-shekinah-haitian",
+      "latitude": 41.3549025,
+      "longitude": -72.0997868,
+      "name": "Shekinah Haitian SDA Church",
+      "phone": "860-367-4730",
+      "postalCode": "",
+      "reviewNotes": "Church website lists 62 Huntington St. Other directories sometimes list 60. Only 62 is approved for automatic matching.",
+      "sourceURLs": [
+        "https://shekinahhaitianct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "62 Huntington St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shekinahhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shekinahhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shekinahhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shekinahhaitianct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://shekinahhaitianct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": false,
+      "checkedOn": "2026-11-06",
+      "city": "Newington",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://bristolct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4M3Z",
+      "id": "ct-bristol",
+      "latitude": 41.6543569,
+      "longitude": -72.7392715,
+      "name": "Bristol SDA Group",
+      "postalCode": "06111",
+      "reviewNotes": "Website locates this group in Newington, not Bristol. This address also serves Adventist community services; do not rename a generic building listing.",
+      "sourceURLs": [
+        "https://bristolct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "580 Church St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bristolct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bristolct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://bristolct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://bristolct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": false,
+      "checkedOn": "2026-11-06",
+      "city": "Norwalk",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://montdesoliviersct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FOC",
+      "id": "ct-mont-des-oliviers",
+      "latitude": 41.1023244,
+      "longitude": -73.4041706,
+      "name": "Mont des Oliviers French SDA Church",
+      "phone": "203-286-8333",
+      "postalCode": "06855",
+      "reviewNotes": "Shares the published address with Norwalk Spanish SDA Church; a generic Apple Maps name must not be assigned to either congregation.",
+      "sourceURLs": [
+        "https://montdesoliviersct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "244 East Avenue",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://montdesoliviersct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://montdesoliviersct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://montdesoliviersct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://montdesoliviersct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://montdesoliviersct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": false,
+      "checkedOn": "2026-11-06",
+      "city": "Norwalk",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://norwalkspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MNO",
+      "id": "ct-norwalk-spanish",
+      "latitude": 41.1023244,
+      "longitude": -73.4041706,
+      "name": "Norwalk Spanish SDA Church",
+      "phone": "484-599-2831",
+      "postalCode": "06855",
+      "reviewNotes": "Shares the published address with Mont des Oliviers French SDA Church; a generic Apple Maps name must not be assigned to either congregation.",
+      "sourceURLs": [
+        "https://norwalkspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "244 East Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwalkspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwalkspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwalkspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwalkspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://norwalkspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Norwich",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://norwichct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MIG",
+      "id": "ct-norwich",
+      "latitude": 41.5619027,
+      "longitude": -72.0680159,
+      "name": "Norwich SDA Church",
+      "phone": "860-889-4742",
+      "postalCode": "06360",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://norwichct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "400 Harland Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwichct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwichct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwichct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://norwichct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://norwichct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Portland",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://middletownportlandsda.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MGV",
+      "id": "ct-middletown-portland",
+      "latitude": 41.5748017,
+      "longitude": -72.6363692,
+      "name": "Middletown-Portland SDA Church",
+      "phone": "860-342-0141",
+      "postalCode": "06480",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://middletownportlandsda.org/"
+      ],
+      "state": "CT",
+      "street": "13 Waverly Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://middletownportlandsda.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://middletownportlandsda.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://middletownportlandsda.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://middletownportlandsda.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://middletownportlandsda.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Quaker Hill",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://waterfordsdachurch.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MI1",
+      "id": "ct-waterford",
+      "latitude": 41.3913217,
+      "longitude": -72.1244827,
+      "name": "Waterford SDA Church",
+      "phone": "860-442-7258",
+      "postalCode": "06375",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://waterfordsdachurch.org/"
+      ],
+      "state": "CT",
+      "street": "152 Bloomingdale Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterfordsdachurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterfordsdachurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterfordsdachurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterfordsdachurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://waterfordsdachurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Quinebaug",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://quinebaugct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MJB",
+      "id": "ct-quinebaug",
+      "latitude": 42.0246831,
+      "longitude": -71.9524091,
+      "name": "Quinebaug SDA Church",
+      "phone": "860-935-5412",
+      "postalCode": "06262",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://quinebaugct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "768 Quinebaug Road",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://quinebaugct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://quinebaugct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://quinebaugct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://quinebaugct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://quinebaugct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "South Windsor",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://connecticutvalleyct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MDA",
+      "id": "ct-connecticut-valley",
+      "latitude": 41.8349968,
+      "longitude": -72.5728522,
+      "name": "Connecticut Valley Seventh-day Adventist Church",
+      "phone": "860-644-6119",
+      "postalCode": "06074",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://connecticutvalleyct.adventistchurch.org/about/"
+      ],
+      "state": "CT",
+      "street": "354 Foster Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://connecticutvalleyct.adventistchurch.org/about/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://connecticutvalleyct.adventistchurch.org/about/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://connecticutvalleyct.adventistchurch.org/about/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://connecticutvalleyct.adventistchurch.org/about/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://connecticutvalleyct.adventistchurch.org/about/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Stamford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://breathoflife.church/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FTB",
+      "id": "ct-breath-of-life",
+      "latitude": 41.0901858,
+      "longitude": -73.5351378,
+      "name": "Breath of Life Fellowship",
+      "postalCode": "06905",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://breathoflife.church/"
+      ],
+      "state": "CT",
+      "street": "884 Newfield Avenue",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://breathoflife.church/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://breathoflife.church/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://breathoflife.church/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://breathoflife.church/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Stamford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://northstamfordct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MIB",
+      "id": "ct-north-stamford",
+      "latitude": 41.1431917,
+      "longitude": -73.5469927,
+      "name": "North Stamford Seventh-Day Adventist Church",
+      "phone": "203-329-8995",
+      "postalCode": "06903",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://northstamfordct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "2136 High Ridge Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://northstamfordct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://northstamfordct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://northstamfordct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://northstamfordct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://northstamfordct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Stamford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://schilosda.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FSC",
+      "id": "ct-schilo",
+      "latitude": 41.0922424,
+      "longitude": -73.5176381,
+      "name": "Schilo Seventh-day Adventist Church",
+      "phone": "203-325-1974",
+      "postalCode": "06907",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://schilosda.org/"
+      ],
+      "state": "CT",
+      "street": "977 Hope Street",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://schilosda.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://schilosda.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://schilosda.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://schilosda.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://schilosda.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Stamford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://stamfordspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MSU",
+      "id": "ct-stamford-spanish",
+      "latitude": 41.0485091,
+      "longitude": -73.5561234,
+      "name": "Stamford Spanish SDA Church",
+      "postalCode": "06902",
+      "reviewNotes": "Website describes this address as provisional. Confirm with church before visiting.",
+      "sourceURLs": [
+        "https://stamfordspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "433 W Main St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://stamfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://stamfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://stamfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://stamfordspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Stratford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://renacerstratfordspanishct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4M2G",
+      "id": "ct-renacer-stratford",
+      "latitude": 41.2304008,
+      "longitude": -73.1386783,
+      "name": "Renacer Stratford Spanish SDA Company",
+      "postalCode": "",
+      "reviewNotes": "Own website uses Company; preserve its published title.",
+      "sourceURLs": [
+        "https://renacerstratfordspanishct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "1775 Huntington Rd",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://renacerstratfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://renacerstratfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://renacerstratfordspanishct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://renacerstratfordspanishct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-13",
+      "city": "Tolland",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://rockvilletollandsda.church/",
+      "givingURL": "https://adventistgiving.org/donate/AN4MJG",
+      "id": "ct-rockville-tolland",
+      "latitude": 41.8703774,
+      "longitude": -72.4076782,
+      "name": "Rockville-Tolland SDA Church",
+      "postalCode": "06084",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://rockvilletollandsda.church/"
+      ],
+      "state": "CT",
+      "street": "9 Hartford Tpke",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://rockvilletollandsda.church/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://rockvilletollandsda.church/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://rockvilletollandsda.church/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://rockvilletollandsda.church/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Waterbury",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://shalomct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4FSJ",
+      "id": "ct-shalom-waterbury",
+      "latitude": 41.5644916,
+      "longitude": -73.0362734,
+      "name": "Shalom SDA Church",
+      "phone": "203-756-8131",
+      "postalCode": "06704",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://shalomct.adventistchurch.org/"
+      ],
+      "state": "CT",
+      "street": "84 Crown St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shalomct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shalomct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shalomct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://shalomct.adventistchurch.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://shalomct.adventistchurch.org/"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Waterbury",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://waterburyct.adventistchurch.org/events",
+      "givingURL": "https://adventistgiving.org/donate/AN4MKQ",
+      "id": "ct-waterbury",
+      "latitude": 41.5867879,
+      "longitude": -73.0486213,
+      "name": "Waterbury SDA Church",
+      "phone": "203-756-8680",
+      "postalCode": "06704",
+      "reviewNotes": "",
+      "sourceURLs": [
+        "https://waterburyct.adventistchurch.org/contact/"
+      ],
+      "state": "CT",
+      "street": "18 Manville St",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterburyct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterburyct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterburyct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://waterburyct.adventistchurch.org/contact/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://waterburyct.adventistchurch.org/contact/"
+    },
+    {
+      "aliases": [
+        "Crosswalk Hartford SDA Company"
+      ],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "West Hartford",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://crosswalkvillage.com/hartford",
+      "givingURL": "https://adventistgiving.org/donate/ANPMCS",
+      "id": "ct-crosswalk-hartford",
+      "latitude": 41.7409522,
+      "longitude": -72.719763,
+      "name": "Crosswalk Hartford",
+      "postalCode": "",
+      "reviewNotes": "Crosswalk identifies itself as Seventh-day Adventist in the source page footer.",
+      "sourceURLs": [
+        "https://crosswalkvillage.com/hartford"
+      ],
+      "state": "CT",
+      "street": "20 Jefferson Avenue",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://crosswalkvillage.com/hartford"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://crosswalkvillage.com/hartford"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://crosswalkvillage.com/hartford"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://crosswalkvillage.com/hartford"
+    },
+    {
+      "aliases": [],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-06",
+      "city": "Willimantic",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://www.willimanticsda.com/contact",
+      "givingURL": "https://adventistgiving.org/donate/AN4ML6",
+      "id": "ct-willimantic",
+      "name": "Willimantic Seventh-day Adventist Church",
+      "phone": "860-423-8951",
+      "postalCode": "06226",
+      "reviewNotes": "Phone is as published on the church contact page; other sources differ.",
+      "sourceURLs": [
+        "https://www.willimanticsda.com/contact"
+      ],
+      "state": "CT",
+      "street": "126 Quarry Street",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.willimanticsda.com/contact"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "status": "unknown"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.willimanticsda.com/contact"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.willimanticsda.com/contact"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-06",
+          "sourceURLs": [
+            "https://www.willimanticsda.com/contact"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://www.willimanticsda.com/contact",
+      "latitude": 41.716912,
+      "longitude": -72.228965
+    },
+    {
+      "aliases": [
+        "Hope SDA Church"
+      ],
+      "allowsAddressOnlyMatch": true,
+      "checkedOn": "2026-11-13",
+      "city": "Bloomfield",
+      "conference": "Northeastern Conference",
+      "denomination": "Seventh-day Adventist",
+      "eventsURL": "https://www.hopesdact.org/",
+      "givingURL": "https://adventistgiving.org/donate/AN4FHO",
+      "id": "ct-hope-bloomfield",
+      "name": "Hope Seventh-day Adventist Church",
+      "phone": "860-242-4400",
+      "postalCode": "06002",
+      "reviewNotes": "Member of Northeastern Conference.",
+      "sourceURLs": [
+        "https://www.hopesdact.org/"
+      ],
+      "state": "CT",
+      "street": "1052 Blue Hills Ave",
+      "verification": {
+        "address": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.hopesdact.org/"
+          ],
+          "status": "published"
+        },
+        "conference": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.hopesdact.org/",
+            "https://adventistgiving.org/donate/AN4FHO"
+          ],
+          "status": "published"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "name": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.hopesdact.org/"
+          ],
+          "status": "published"
+        },
+        "phone": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.hopesdact.org/"
+          ],
+          "status": "published"
+        },
+        "website": {
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.hopesdact.org/"
+          ],
+          "status": "published"
+        },
+        "worshipTimes": {
+          "status": "unknown"
+        }
+      },
+      "website": "https://www.hopesdact.org/",
+      "latitude": 41.823571,
+      "longitude": -72.695724
+    }
+  ],
+  "region": "Connecticut, United States",
+  "reviewedOn": "2026-11-06",
+  "schemaVersion": 1
+}
