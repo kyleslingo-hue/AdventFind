@@ -60,8 +60,13 @@ struct HomeView: View {
                 }
             }.tint(AdventDesign.orange).preferredColorScheme(.dark)
         }
-        .onChange(of: locationManager.location) { _, location in
+        .onChange(of: locationManager.location, initial: true) { _, location in
             guard let location else { return }
+            if let current = place.location,
+               !viewModel.churches.isEmpty,
+               location.distance(from: current) < 500 {
+                return
+            }
             locationTask?.cancel()
             locationTask = Task {
                 await place.resolve(location)
