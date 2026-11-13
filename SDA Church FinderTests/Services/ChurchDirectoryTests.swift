@@ -3,7 +3,7 @@ import XCTest
 
 @MainActor
 final class ChurchDirectoryTests: XCTestCase {
-    private var directory: ChurchDirectory { ChurchDirectory.shared }
+    private var directory: ChurchDirectory { ChurchDirectory.loadBundled() }
 
     private func church(_ name: String = "Seventh-day Adventist Church", street: String = "250 Brooklawn Avenue", city: String = "Bridgeport", state: String = "CT", zip: String = "06604") -> Church {
         Church(id: "apple-existing-id", name: name, address: street, city: city, state: state,

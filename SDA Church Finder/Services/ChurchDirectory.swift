@@ -185,7 +185,7 @@ struct ChurchDirectory {
         }
     }
 
-    private static func loadBundled(bundle: Bundle = .main) -> ChurchDirectory {
+    static func loadBundled(bundle: Bundle = .main) -> ChurchDirectory {
         do {
             guard let url = bundle.url(forResource: "connecticut-churches", withExtension: "json")
                     ?? bundle.url(forResource: "connecticut-churches", withExtension: "json", subdirectory: "Resources") else {
@@ -299,7 +299,7 @@ struct ChurchDirectory {
         // a name from proximity, city alone, or a previous (possibly moved) address.
         let street = Self.normalizedStreet(church.address)
         let state = Self.normalizedState(church.state)
-        guard street.first?.isNumber == true, ["ct", "ma", "ri"].contains(state),
+        guard street.first?.isNumber == true, !state.isEmpty,
               ["", "us", "usa", "united states", "united states of america"].contains(Self.words(church.country)) else { return nil }
         let candidates = records.filter { record in
             record.hasUsableLocation && record.evidence(for: .name).isSourced && Self.normalizedState(record.state) == state && Self.normalizedStreet(record.street) == street &&
@@ -331,7 +331,15 @@ struct ChurchDirectory {
 
     private static func normalizedState(_ text: String) -> String {
         let value = words(text)
-        return ["connecticut": "ct", "massachusetts": "ma", "rhode island": "ri"][value] ?? value
+        return [
+            "connecticut": "ct",
+            "massachusetts": "ma",
+            "rhode island": "ri",
+            "new york": "ny",
+            "maine": "me",
+            "new hampshire": "nh",
+            "vermont": "vt"
+        ][value] ?? value
     }
 
     private static func words(_ text: String) -> String {

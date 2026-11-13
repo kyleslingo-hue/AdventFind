@@ -195,10 +195,15 @@ public final class DirectorySyncService: ObservableObject {
     }
 
     private func fetchRemoteManifest() async -> DirectoryManifest? {
+        let cacheBuster = String(Int(Date().timeIntervalSince1970))
         let candidates = [
             primaryBaseURL.appendingPathComponent("manifest.json"),
             fallbackBaseURL.appendingPathComponent("manifest.json")
-        ]
+        ].compactMap { url -> URL? in
+            var components = URLComponents(url: url, resolvingAgainstBaseURL: false)
+            components?.queryItems = [URLQueryItem(name: "t", value: cacheBuster)]
+            return components?.url ?? url
+        }
 
         for url in candidates {
             do {

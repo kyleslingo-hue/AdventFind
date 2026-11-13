@@ -3,7 +3,7 @@ import XCTest
 
 @MainActor
 final class DirectoryVerificationTests: XCTestCase {
-    private var records: [ChurchDirectoryRecord] { ChurchDirectory.shared.records }
+    private var records: [ChurchDirectoryRecord] { ChurchDirectory.loadBundled().records }
 
     func testSparseUnknownEvidenceDecodesSafely() throws {
         let evidence = try JSONDecoder().decode(FieldVerification.self, from: Data(#"{"status":"unknown"}"#.utf8))

@@ -7,15 +7,15 @@ struct ConnecticutDirectoryView: View {
     @State private var filters = DirectoryFilters()
     @FocusState private var searchIsFocused: Bool
     @State private var selected: ChurchDirectoryRecord?
-    private let directory = ChurchDirectory.shared
+    @State private var records: [ChurchDirectoryRecord] = ChurchDirectory.shared.records
 
     private var filtered: [ChurchDirectoryRecord] {
-        directory.records.filter { filters.includes($0, query: query) }
+        records.filter { filters.includes($0, query: query) }
     }
 
-    private var states: [String] { Set(directory.records.map(\.state).filter { !$0.isEmpty }).sorted() }
-    private var conferences: [String] { Set(directory.records.compactMap(\.conference).filter { !$0.isEmpty }).sorted() }
-    private var languages: [String] { Set(directory.records.flatMap(\.filterLanguages)).sorted() }
+    private var states: [String] { Set(records.map(\.state).filter { !$0.isEmpty }).sorted() }
+    private var conferences: [String] { Set(records.compactMap(\.conference).filter { !$0.isEmpty }).sorted() }
+    private var languages: [String] { Set(records.flatMap(\.filterLanguages)).sorted() }
 
     private var filterControls: some View {
         VStack(alignment: .leading, spacing: 12) {
@@ -59,7 +59,7 @@ struct ConnecticutDirectoryView: View {
                     .font(.caption).foregroundStyle(AdventDesign.muted)
             }
             HStack {
-                Text("\(filtered.count) of \(directory.records.count) congregations")
+                Text("\(filtered.count) of \(records.count) congregations")
                     .accessibilityIdentifier("directory.resultCount")
                 Spacer()
                 if filters.isActive || !query.isEmpty {
@@ -75,7 +75,16 @@ struct ConnecticutDirectoryView: View {
     }
 
     private func stateTitle(_ code: String) -> String {
-        ["CT": "Connecticut", "MA": "Massachusetts", "RI": "Rhode Island", DirectoryFilters.unknown: "State not listed"][code] ?? code
+        [
+            "CT": "Connecticut",
+            "MA": "Massachusetts",
+            "RI": "Rhode Island",
+            "NY": "New York",
+            "ME": "Maine",
+            "NH": "New Hampshire",
+            "VT": "Vermont",
+            DirectoryFilters.unknown: "State not listed"
+        ][code] ?? code
     }
 
     var body: some View {
@@ -122,6 +131,12 @@ struct ConnecticutDirectoryView: View {
         }
         .preferredColorScheme(.dark)
         .tint(AdventDesign.orange)
+        .onAppear {
+            records = ChurchDirectory.shared.records
+        }
+        .onReceive(NotificationCenter.default.publisher(for: .churchDirectoryDidUpdate)) { _ in
+            records = ChurchDirectory.shared.records
+        }
     }
 
     private var directoryList: some View {
@@ -129,7 +144,7 @@ struct ConnecticutDirectoryView: View {
             LazyVStack(alignment: .leading, spacing: 18) {
                 Eyebrow(text: "Find your community")
                 Text("Church communities.").font(.system(.largeTitle, design: .serif))
-                Text("\(directory.records.count) Seventh-day Adventist communities. Search by name, place, or conference. Some location details still need verification.")
+                Text("\(records.count) Seventh-day Adventist communities. Search by name, place, or conference. Some location details still need verification.")
                     .font(.subheadline).foregroundStyle(AdventDesign.muted)
                 filterControls
                 if filtered.isEmpty {
