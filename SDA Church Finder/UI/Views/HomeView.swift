@@ -69,9 +69,11 @@ struct HomeView: View {
             }
             locationTask?.cancel()
             locationTask = Task {
-                await place.resolve(location)
-                guard !Task.isCancelled else { return }
-                if settings.autoSearch { await viewModel.searchNearby() }
+                async let resolveTask: Void = place.resolve(location)
+                if settings.autoSearch {
+                    await viewModel.searchNearby()
+                }
+                await resolveTask
             }
         }
         .onChange(of: scenePhase) { _, phase in

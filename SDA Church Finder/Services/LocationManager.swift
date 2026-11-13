@@ -9,6 +9,9 @@ class LocationManager: NSObject, ObservableObject {
     @Published var error: LocationError?
     
     private let locationManager = CLLocationManager()
+    private static let lastLatKey = "adventfind.lastKnownLatitude"
+    private static let lastLonKey = "adventfind.lastKnownLongitude"
+    private var isOneShotRequestActive = false
     
     override init() {
         super.init()
@@ -16,8 +19,25 @@ class LocationManager: NSObject, ObservableObject {
         locationManager.desiredAccuracy = kCLLocationAccuracyHundredMeters
         authorizationStatus = locationManager.authorizationStatus
         if authorizationStatus == .authorizedWhenInUse || authorizationStatus == .authorizedAlways {
-            location = locationManager.location
+            location = locationManager.location ?? Self.loadSavedLocation()
         }
+    }
+
+    private static func loadSavedLocation() -> CLLocation? {
+        let defaults = UserDefaults.standard
+        guard defaults.object(forKey: lastLatKey) != nil,
+              defaults.object(forKey: lastLonKey) != nil else { return nil }
+        let lat = defaults.double(forKey: lastLatKey)
+        let lon = defaults.double(forKey: lastLonKey)
+        guard CLLocationCoordinate2DIsValid(CLLocationCoordinate2D(latitude: lat, longitude: lon)),
+              (lat != 0 || lon != 0) else { return nil }
+        return CLLocation(latitude: lat, longitude: lon)
+    }
+
+    private static func saveLocation(_ loc: CLLocation) {
+        let defaults = UserDefaults.standard
+        defaults.set(loc.coordinate.latitude, forKey: lastLatKey)
+        defaults.set(loc.coordinate.longitude, forKey: lastLonKey)
     }
     
     deinit {
@@ -30,15 +50,19 @@ class LocationManager: NSObject, ObservableObject {
     }
     
     func startUpdating() {
+        isOneShotRequestActive = false
         locationManager.startUpdatingLocation()
     }
     
     func stopUpdating() {
+        isOneShotRequestActive = false
         locationManager.stopUpdatingLocation()
     }
     
     func requestLocation() {
-        locationManager.requestLocation()
+        guard authorizationStatus == .authorizedWhenInUse || authorizationStatus == .authorizedAlways else { return }
+        isOneShotRequestActive = true
+        locationManager.startUpdatingLocation()
     }
 }
 
@@ -47,6 +71,11 @@ extension LocationManager: CLLocationManagerDelegate {
         Task { @MainActor in
             guard let location = locations.last else { return }
             self.location = location
+            Self.saveLocation(location)
+            if self.isOneShotRequestActive {
+                self.isOneShotRequestActive = false
+                manager.stopUpdatingLocation()
+            }
         }
     }
     
@@ -73,7 +102,7 @@ extension LocationManager: CLLocationManagerDelegate {
             
             if manager.authorizationStatus == .authorizedWhenInUse || 
                manager.authorizationStatus == .authorizedAlways {
-                manager.requestLocation()
+                self.requestLocation()
             }
         }
     }
