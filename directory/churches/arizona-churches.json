@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "anp4bb",
+      "name": "Benson SDA Church",
+      "street": "101 W Sixth St",
+      "city": "Benson",
+      "state": "AZ",
+      "postalCode": "85602",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4BB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4BB",
+      "latitude": 31.966187,
+      "longitude": -110.298332,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (520) 586-2450"
+    },
+    {
+      "id": "anp4bv",
+      "name": "Casa Grande SDA Church",
+      "street": "501 N Marshall St",
+      "city": "Casa Grande",
+      "state": "AZ",
+      "postalCode": "85122",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4BV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4BV",
+      "latitude": 32.8785324,
+      "longitude": -111.7515983,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (520) 836-4388"
+    },
+    {
+      "id": "anp4cc",
+      "name": "Cave Creek SDA Church",
+      "street": "32234 N Calle de los Arboles",
+      "city": "Cave Creek",
+      "state": "AZ",
+      "postalCode": "85331",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CC"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4CC).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4CC",
+      "latitude": 33.7768599,
+      "longitude": -111.9761699,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (480) 993-7711"
+    },
+    {
+      "id": "anp4c1",
+      "name": "Chandler SDA Church",
+      "street": "1188 W Galveston St",
+      "city": "Chandler",
+      "state": "AZ",
+      "postalCode": "85224",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4C1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Chandler Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4C1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4C1",
+      "latitude": 33.313708,
+      "longitude": -111.862557,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://chandler.adventistfaith.org",
+      "phone": "+1 (480) 899-4177"
+    },
+    {
+      "id": "anp4ck",
+      "name": "Arizona Korean SDA Church",
+      "street": "1249 N Lindsay Rd",
+      "city": "Gilbert",
+      "state": "AZ",
+      "postalCode": "85234",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CK"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Arizona Korean Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4CK).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4CK",
+      "latitude": 33.3726386,
+      "longitude": -111.773097,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org"
+    },
+    {
+      "id": "anp4ms",
+      "name": "Glendale Spanish SDA Church",
+      "street": "7167 N 48th Dr",
+      "city": "Glendale",
+      "state": "AZ",
+      "postalCode": "85301",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4MS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4MS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4MS",
+      "latitude": 33.5417213,
+      "longitude": -112.1630081,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org"
+    },
+    {
+      "id": "anp4cg",
+      "name": "Mesa Palms SDA Church",
+      "street": "6263 E Thomas Rd",
+      "city": "Mesa",
+      "state": "AZ",
+      "postalCode": "85215",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mesa Palms Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4CG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4CG",
+      "latitude": 33.4802163,
+      "longitude": -111.6952944,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://www.mesapalmschurch.com",
+      "phone": "+1 (480) 985-3140"
+    },
+    {
+      "id": "anp4el",
+      "name": "Oracle SDA Church",
+      "street": "2150 SR-77",
+      "city": "Oracle",
+      "state": "AZ",
+      "postalCode": "85623",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4EL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4EL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4EL",
+      "latitude": 32.622569,
+      "longitude": -110.7969904,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://oracleaz.adventistchurch.org",
+      "phone": "+1 (520) 709-6969"
+    },
+    {
+      "id": "anp4f1",
+      "name": "Payson SDA Church",
+      "street": "700 E Wade Ln",
+      "city": "Payson",
+      "state": "AZ",
+      "postalCode": "85541",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4F1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4F1",
+      "latitude": 34.234643,
+      "longitude": -111.313374,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (928) 474-9209"
+    },
+    {
+      "id": "anp4h6",
+      "name": "Grace In The Desert Adventist Church",
+      "street": "13450 N Plaza del Rio Blvd",
+      "city": "Peoria",
+      "state": "AZ",
+      "postalCode": "85381",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4H6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4H6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4H6",
+      "latitude": 33.6063612,
+      "longitude": -112.2581997,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://graceinthedesert.org/",
+      "phone": "+1 (623) 977-7990"
+    },
+    {
+      "id": "anp4cv",
+      "name": "Glendale SDA Church",
+      "street": "6801 N 43rd Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85019",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Glendale Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4CV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4CV",
+      "latitude": 33.536504,
+      "longitude": -112.150937,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.glendaleazsda.org",
+      "phone": "+1 (623) 934-3295"
+    },
+    {
+      "id": "anp4f6",
+      "name": "Phoenix Beacon Light SDA Church",
+      "street": "2602 N 51st Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85035",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4F6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4F6",
+      "latitude": 33.4771138,
+      "longitude": -112.16936,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (602) 285-9391"
+    },
+    {
+      "id": "anp4fb",
+      "name": "Phoenix Camelback SDA Church",
+      "street": "5902 E Camelback Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85018",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Camelback Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4FB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4FB",
+      "latitude": 33.502419,
+      "longitude": -111.954355,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (480) 947-3781"
+    },
+    {
+      "id": "anp4pm",
+      "name": "Phoenix Deer Valley Spanish SDA Church",
+      "street": "3639 West Monte Cristo Avenue",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85053",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4PM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Deer Valley Spanish SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4PM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4PM",
+      "latitude": 33.6303306,
+      "longitude": -112.1376971,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://phoenixdeervalleyspanishaz.adventistchurch.org",
+      "phone": "+1 (623) 256-6208"
+    },
+    {
+      "id": "anp4fl",
+      "name": "Phoenix Monte Vista Spanish SDA Church",
+      "street": "902 E Baseline Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85042",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista del S\u00e9ptimo Dia Monte Vista"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4FL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4FL",
+      "latitude": 33.3781773,
+      "longitude": -112.0600641,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://phoenixmontevistaspanishaz.adventistchurch.org",
+      "phone": "+1 (928) 246-2887"
+    },
+    {
+      "id": "anp4no",
+      "name": "Phoenix North Valley Spanish SDA Church",
+      "street": "11601 N 19th Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85029",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4NO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4NO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4NO",
+      "latitude": 33.591339,
+      "longitude": -112.0992747,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (201) 580-0910"
+    },
+    {
+      "id": "anp4fq",
+      "name": "Phoenix Paradise Valley SDA Church",
+      "street": "2727 E Cactus Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85032",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Paradise Valley Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4FQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4FQ",
+      "latitude": 33.5963794,
+      "longitude": -112.0224247,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18302",
+      "phone": "+1 (602) 971-6010"
+    },
+    {
+      "id": "anp4fv",
+      "name": "Phoenix South Mountain SDA Church",
+      "street": "200 W Southern Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85041",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Phoenix South Mountain Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4FV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4FV",
+      "latitude": 33.3926415,
+      "longitude": -112.076011,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18303",
+      "phone": "+1 (602) 276-4030"
+    },
+    {
+      "id": "anp4we",
+      "name": "West Valley Spanish SDA Church",
+      "street": "6445 W Encanto Blvd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "postalCode": "85035",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4WE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4WE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4WE",
+      "latitude": 33.472544,
+      "longitude": -112.199047,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (623) 398-6919"
+    },
+    {
+      "id": "anp4gr",
+      "name": "Sahuarita SDA Church",
+      "street": "1475 W Via De Chapala",
+      "city": "Sahuarita",
+      "state": "AZ",
+      "postalCode": "85629",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4GR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Sahuarita SDA"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4GR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4GR",
+      "latitude": 31.9226121,
+      "longitude": -110.9964398,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.sahuaritasda.org/"
+    },
+    {
+      "id": "anp4hl",
+      "name": "Scottsdale-Thunderbird SDA Church",
+      "street": "13405 N Scottsdale Rd",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "postalCode": "85254",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Arizona Conference of Seventh Day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4HL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4HL",
+      "latitude": 33.6083781,
+      "longitude": -111.9252509,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.azconference.org/",
+      "phone": "+1 (480) 991-6777"
+    },
+    {
+      "id": "anp4gv",
+      "name": "Sierra Vista  SDA Church",
+      "street": "777 SR-92 W",
+      "city": "Sierra Vista",
+      "state": "AZ",
+      "postalCode": "85635",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4GV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Sierra Vista Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4GV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4GV",
+      "latitude": 31.5466906,
+      "longitude": -110.256616,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (520) 458-2641"
+    },
+    {
+      "id": "anp4su",
+      "name": "Clearview SDA Church",
+      "street": "19554 N Papago Dr",
+      "city": "Surprise",
+      "state": "AZ",
+      "postalCode": "85374",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4SU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Clearview Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4SU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4SU",
+      "latitude": 33.6555859,
+      "longitude": -112.4159033,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.clearviewsdachurch.org",
+      "phone": "+1 (623) 975-1000"
+    },
+    {
+      "id": "anp4hb",
+      "name": "Tempe SDA Church",
+      "street": "41 E 13th St",
+      "city": "Tempe",
+      "state": "AZ",
+      "postalCode": "85281",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Tempe Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4HB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4HB",
+      "latitude": 33.4142843,
+      "longitude": -111.9374269,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (480) 967-4022"
+    },
+    {
+      "id": "anp4hq",
+      "name": "Tucson Desert Valley SDA Church",
+      "street": "1200 N Santa Rosa Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "postalCode": "85712",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Desert Valley Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4HQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4HQ",
+      "latitude": 32.2385791,
+      "longitude": -110.8857773,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18317",
+      "phone": "+1 (520) 327-5719"
+    },
+    {
+      "id": "anp4hv",
+      "name": "Tucson Esperanza Spanish SDA Church",
+      "street": "6255 S 12th Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "postalCode": "85706",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Esperanza Spanish 7th Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4HV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4HV",
+      "latitude": 32.138166,
+      "longitude": -110.977155,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        }
+      },
+      "phone": "+1 (520) 373-5729"
+    },
+    {
+      "id": "anp4mm",
+      "name": "Tucson Maranatha SDA Church",
+      "street": "1101 S Fifth Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "postalCode": "85701",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4MM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Central Adventista de Tucson"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4MM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4MM",
+      "latitude": 32.2079128,
+      "longitude": -110.9666401,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.facebook.com/TucsonSpanishSDA/"
+    },
+    {
+      "id": "anp4i1",
+      "name": "Tucson Saguaro Hills SDA Church",
+      "street": "2071 W Drexel Rd",
+      "city": "Tucson",
+      "state": "AZ",
+      "postalCode": "85746",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4I1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Tucson Saguaro Hills Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4I1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4I1",
+      "latitude": 32.1478373,
+      "longitude": -111.0108841,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://tucsonmidvaleparkaz.adventistchurch.org",
+      "phone": "+1 (520) 347-3258"
+    },
+    {
+      "id": "anp4i6",
+      "name": "Tucson Sharon SDA Church",
+      "street": "955 N Tenth Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "postalCode": "85705",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4I6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Tucson Sharon Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4I6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4I6",
+      "latitude": 32.2339308,
+      "longitude": -110.9752548,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.yelp.com/biz/tucson-sharon-seventh-day-adventist-church-tucson",
+      "phone": "+1 (520) 261-1881"
+    },
+    {
+      "id": "anp4il",
+      "name": "Willcox SDA Church",
+      "street": "111 N Bisbee Ave",
+      "city": "Willcox",
+      "state": "AZ",
+      "postalCode": "85643",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4IL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Willcox Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arizona Conference roster (OrgID ANP4IL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arizona Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANP4IL",
+      "latitude": 32.2546548,
+      "longitude": -109.8409619,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.yelp.com/biz/willcox-seventh-day-adventist-church-willcox-2",
+      "phone": "+1 (559) 286-0006"
+    }
+  ]
+}

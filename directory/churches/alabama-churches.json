@@ -1,0 +1,1975 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "antgat",
+      "name": "Athens SDA Church",
+      "street": "1207 E Pryor St",
+      "city": "Athens",
+      "state": "AL",
+      "postalCode": "35611",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGAT).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGAT",
+      "latitude": 34.806536,
+      "longitude": -86.952068,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 233-7329"
+    },
+    {
+      "id": "antptr",
+      "name": "Trinity SDA Church (Athens)",
+      "street": "823 Browns Ferry Rd",
+      "city": "Athens",
+      "state": "AL",
+      "postalCode": "35611",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Trinity Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPTR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPTR",
+      "latitude": 34.795982,
+      "longitude": -86.980047,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventistdirectory.org/ViewEntity.aspx?EntityID=11421",
+      "phone": "+1 (256) 232-8610"
+    },
+    {
+      "id": "antpbv",
+      "name": "Bethany SDA Church (Atmore)",
+      "street": "61 Brown St",
+      "city": "Atmore",
+      "state": "AL",
+      "postalCode": "36502",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bethany Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPBV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPBV",
+      "latitude": 31.027636,
+      "longitude": -87.486201,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://bethanyal.adventistchurch.org",
+      "phone": "+1 (251) 368-2805"
+    },
+    {
+      "id": "antpc6",
+      "name": "First SDA Church (Bessemer)",
+      "street": "1731 Fifth Ave N",
+      "city": "Bessemer",
+      "state": "AL",
+      "postalCode": "35020",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPC6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPC6",
+      "latitude": 33.402297,
+      "longitude": -86.956359,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 426-1338"
+    },
+    {
+      "id": "antgbs",
+      "name": "Birmingham Hispanic SDA Church",
+      "street": "42 Fifth Ave S",
+      "city": "Birmingham",
+      "state": "AL",
+      "postalCode": "35205",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGBS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGBS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGBS",
+      "latitude": 33.494734,
+      "longitude": -86.8303177,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=30523"
+    },
+    {
+      "id": "antgc6",
+      "name": "Birmingham Roebuck SDA Church",
+      "street": "600 Robert Jemison Rd",
+      "city": "Birmingham",
+      "state": "AL",
+      "postalCode": "35209",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Birmingham International Sda Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGC6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGC6",
+      "latitude": 33.4758224,
+      "longitude": -86.8313509,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 563-9285"
+    },
+    {
+      "id": "antpcb",
+      "name": "Ephesus SDA Church (Birmingham)",
+      "street": "105 Sixth Ave N",
+      "city": "Birmingham",
+      "state": "AL",
+      "postalCode": "35204",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Ephesus Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPCB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPCB",
+      "latitude": 33.5122678,
+      "longitude": -86.8343244,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.birminghamephesus.org/",
+      "phone": "+1 (205) 252-7490"
+    },
+    {
+      "id": "antpbg",
+      "name": "Hillsview SDA Church (Birmingham)",
+      "street": "264 Roebuck Dr",
+      "city": "Birmingham",
+      "state": "AL",
+      "postalCode": "35215",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hillsview Seventh Day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPBG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPBG",
+      "latitude": 33.6009749,
+      "longitude": -86.7054208,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 833-0091"
+    },
+    {
+      "id": "antpbr",
+      "name": "Brent SDA Church (Brent)",
+      "street": "587 Darden Rd",
+      "city": "Brent",
+      "state": "AL",
+      "postalCode": "35034",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPBR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPBR",
+      "latitude": 32.91673,
+      "longitude": -87.176237,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org"
+    },
+    {
+      "id": "antgcl",
+      "name": "The Narrow Way SDA Church",
+      "street": "401 18th St N",
+      "city": "Clanton",
+      "state": "AL",
+      "postalCode": "35045",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGCL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGCL",
+      "latitude": 32.838724,
+      "longitude": -86.651112,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 755-2270"
+    },
+    {
+      "id": "antpge",
+      "name": "Gethsemane SDA Church (Daphne)",
+      "street": "7260 Park Dr",
+      "city": "Daphne",
+      "state": "AL",
+      "postalCode": "36526",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPGE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPGE",
+      "latitude": 30.629764,
+      "longitude": -87.898908,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (251) 626-6924"
+    },
+    {
+      "id": "antpf1",
+      "name": "First United SDA Church (Eutaw)",
+      "street": "402 Vera Vista Ave",
+      "city": "Eutaw",
+      "state": "AL",
+      "postalCode": "35462",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPF1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPF1",
+      "latitude": 32.832721,
+      "longitude": -87.884853,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 372-0555"
+    },
+    {
+      "id": "antpfj",
+      "name": "First SDA Church (Fairfield)",
+      "street": "540 54th St",
+      "city": "Fairfield",
+      "state": "AL",
+      "postalCode": "35064",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPFJ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPFJ",
+      "latitude": 33.4843188,
+      "longitude": -86.909594,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (205) 780-9982"
+    },
+    {
+      "id": "antge1",
+      "name": "Fairhope SDA Church",
+      "street": "22886 US-98 W",
+      "city": "Fairhope",
+      "state": "AL",
+      "postalCode": "36532",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Fairhope Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGE1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGE1",
+      "latitude": 30.5587027,
+      "longitude": -87.8929813,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (251) 990-5200"
+    },
+    {
+      "id": "antgeb",
+      "name": "Shoals SDA Church",
+      "street": "2011 CR-41",
+      "city": "Florence",
+      "state": "AL",
+      "postalCode": "35633",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "General Conference Of Seventh-Day Adventists"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGEB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGEB",
+      "latitude": 34.8324358,
+      "longitude": -87.7027975,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 263-0720"
+    },
+    {
+      "id": "antgfl",
+      "name": "Cullman SDA Church",
+      "street": "3033 CR-490",
+      "city": "Good Hope",
+      "state": "AL",
+      "postalCode": "35077",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Cullman Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGFL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGFL",
+      "latitude": 34.0970246,
+      "longitude": -86.8336583,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 737-5158"
+    },
+    {
+      "id": "antpgu",
+      "name": "Mount Pisgah International SDA Church",
+      "street": "111 Church St",
+      "city": "Gurley",
+      "state": "AL",
+      "postalCode": "35748",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPGU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPGU",
+      "latitude": 34.6982987,
+      "longitude": -86.3786646,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://mountpisgahinternationalal.adventistchurch.org",
+      "phone": "+1 (256) 539-2728"
+    },
+    {
+      "id": "antph1",
+      "name": "Harvest SDA Church",
+      "street": "348 Lockhart Rd",
+      "city": "Harvest",
+      "state": "AL",
+      "postalCode": "35749",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPH1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPH1",
+      "latitude": 34.823538,
+      "longitude": -86.771862,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 837-2855"
+    },
+    {
+      "id": "antphq",
+      "name": "First SDA Church (Huntsville)",
+      "street": "1303 Evangel Dr NW",
+      "city": "Huntsville",
+      "state": "AL",
+      "postalCode": "35816",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "First Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPHQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPHQ",
+      "latitude": 34.7374725,
+      "longitude": -86.6422676,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://firstsdachurch.com",
+      "phone": "+1 (256) 852-8360"
+    },
+    {
+      "id": "antphw",
+      "name": "New Life SDA Church (Huntsville)",
+      "street": "3912 Pulaski Pike NW",
+      "city": "Huntsville",
+      "state": "AL",
+      "postalCode": "35810",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Life Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPHW).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPHW",
+      "latitude": 34.7765767,
+      "longitude": -86.6155906,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 852-7665"
+    },
+    {
+      "id": "antgli",
+      "name": "Lineville SDA Church",
+      "street": "8 Blakes Ferry Rd",
+      "city": "Lineville",
+      "state": "AL",
+      "postalCode": "36266",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGLI).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGLI",
+      "latitude": 33.3123709,
+      "longitude": -85.7463089,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 396-0100"
+    },
+    {
+      "id": "antpmc",
+      "name": "Madison Mission SDA Church",
+      "street": "183 Shelton Rd",
+      "city": "Madison",
+      "state": "AL",
+      "postalCode": "35758",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Madison Mission Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPMC).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPMC",
+      "latitude": 34.6945008,
+      "longitude": -86.7171942,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 464-9488"
+    },
+    {
+      "id": "antpjl",
+      "name": "Triana SDA Church (Madison)",
+      "street": "113 Shelton Rd",
+      "city": "Madison",
+      "state": "AL",
+      "postalCode": "35758",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Madison Mission Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPJL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPJL",
+      "latitude": 34.6939839,
+      "longitude": -86.7172216,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (256) 772-0264"
+    },
+    {
+      "id": "antpef",
+      "name": "Efeso Spanish SDA Church (Midfield)",
+      "street": "425 11th St",
+      "city": "Midfield",
+      "state": "AL",
+      "postalCode": "35228",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Del S\u00e9ptimo D\u00eda \u00c9feso"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPEF).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPEF",
+      "latitude": 33.457195,
+      "longitude": -86.9455694,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.facebook.com/IASDEfeso",
+      "phone": "+1 (978) 660-3806"
+    },
+    {
+      "id": "antpkl",
+      "name": "Emmanuel SDA Church (Mobile)",
+      "street": "2000 Dr Martin Luther King Jr Ave",
+      "city": "Mobile",
+      "state": "AL",
+      "postalCode": "36617",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Emmanuel Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPKL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPKL",
+      "latitude": 30.7139098,
+      "longitude": -88.078723,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://emmanuelmobileal.adventistchurch.org",
+      "phone": "+1 (251) 479-1215"
+    },
+    {
+      "id": "antpjs",
+      "name": "Jerusalen Spanish SDA Church",
+      "street": "1607 Firestone Ave",
+      "city": "Muscle Shoals",
+      "state": "AL",
+      "postalCode": "35661",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Jerusalen"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPJS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPJS",
+      "latitude": 34.7458952,
+      "longitude": -87.6480842,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org"
+    },
+    {
+      "id": "antgao",
+      "name": "Auburn-Opelika Hispanic SDA Church",
+      "street": "1115 Frederick Ave",
+      "city": "Opelika",
+      "state": "AL",
+      "postalCode": "36801",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Del Septimo Dia Auburn-Opelika"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGAO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGAO",
+      "latitude": 32.6285327,
+      "longitude": -85.3909671,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.facebook.com/iglesiahispanaAdventistaOpelika/",
+      "phone": "+1 (601) 286-0221"
+    },
+    {
+      "id": "antgi6",
+      "name": "Auburn-Opelika Metro SDA Church",
+      "street": "2011 Columbus Pkwy",
+      "city": "Opelika",
+      "state": "AL",
+      "postalCode": "36804",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Auburn-Opelika Metro Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGI6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGI6",
+      "latitude": 32.641018,
+      "longitude": -85.337654,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://auburnopelikametroal.adventistchurch.org",
+      "phone": "+1 (334) 737-3222"
+    },
+    {
+      "id": "antgj1",
+      "name": "Phenix City SDA Church",
+      "street": "4016 US-80 W",
+      "city": "Phenix City",
+      "state": "AL",
+      "postalCode": "36870",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Phenix City Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGJ1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGJ1",
+      "latitude": 32.467611,
+      "longitude": -85.109893,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=11940",
+      "phone": "+1 (334) 298-4951"
+    },
+    {
+      "id": "antpmq",
+      "name": "Tri-City SDA Church (Prattville)",
+      "street": "330 Martin Luther King Jr Dr",
+      "city": "Prattville",
+      "state": "AL",
+      "postalCode": "36067",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Tri-City Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPMQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPMQ",
+      "latitude": 32.466689,
+      "longitude": -86.471725,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (334) 361-8756"
+    },
+    {
+      "id": "antgel",
+      "name": "Rainsville SDA Church",
+      "street": "1958 Main Street Shiloh",
+      "city": "Rainsville",
+      "state": "AL",
+      "postalCode": "35986",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Rainsville Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGEL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGEL",
+      "latitude": 34.4724242,
+      "longitude": -85.8670678,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://rainsvilleal.adventistchurch.org",
+      "phone": "+1 (256) 638-6002"
+    },
+    {
+      "id": "antgl1",
+      "name": "Uchee Pines SDA Church",
+      "street": "15 Kitetown Rd",
+      "city": "Seale",
+      "state": "AL",
+      "postalCode": "36875",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Uchee Pines Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGL1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGL1",
+      "latitude": 32.2979984,
+      "longitude": -85.0508354,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://ucheepines22.adventistchurchconnect.org/",
+      "phone": "+1 (334) 855-9520"
+    },
+    {
+      "id": "antpn6",
+      "name": "Temple Gate SDA Church (Selma)",
+      "street": "1601 Franklin St",
+      "city": "Selma",
+      "state": "AL",
+      "postalCode": "36703",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPN6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPN6",
+      "latitude": 32.4214792,
+      "longitude": -87.020354,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (334) 875-9753"
+    },
+    {
+      "id": "antpo6",
+      "name": "First SDA Church (Thomasville)",
+      "street": "531 Center St",
+      "city": "Thomasville",
+      "state": "AL",
+      "postalCode": "36784",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPO6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPO6",
+      "latitude": 31.9017033,
+      "longitude": -87.7441798,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (334) 636-0198"
+    },
+    {
+      "id": "antpob",
+      "name": "Mt. Pisgah Worship Center of SDA (Troy)",
+      "street": "210 W Normal Ave",
+      "city": "Troy",
+      "state": "AL",
+      "postalCode": "36081",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPOB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPOB",
+      "latitude": 31.8001351,
+      "longitude": -85.9674898,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (334) 566-1060"
+    },
+    {
+      "id": "antgk6",
+      "name": "Troy SDA Church",
+      "street": "13332 US Highway 231",
+      "city": "Troy",
+      "state": "AL",
+      "postalCode": "36081",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGK6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGK6",
+      "latitude": 31.7681529,
+      "longitude": -85.9085656,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://troyal.adventistchurch.org",
+      "phone": "+1 (334) 566-0186"
+    }
+  ]
+}

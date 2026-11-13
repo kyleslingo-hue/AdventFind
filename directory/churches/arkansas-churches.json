@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "anw4bb",
+      "name": "Amity SDA Church",
+      "street": "606 Crawford Wilson Rd",
+      "city": "Amity",
+      "state": "AR",
+      "postalCode": "71921",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Amity Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4BB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4BB",
+      "latitude": 34.2639741,
+      "longitude": -93.4527097,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (501) 269-3386"
+    },
+    {
+      "id": "anw4ar",
+      "name": "Arkadelphia SDA Church",
+      "street": "429 S Wood Rd",
+      "city": "Arkadelphia",
+      "state": "AR",
+      "postalCode": "71923",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Arkadelphia Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4AR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4AR",
+      "latitude": 34.057178,
+      "longitude": -93.117244,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 403-1698"
+    },
+    {
+      "id": "anw4bl",
+      "name": "Batesville SDA Church",
+      "street": "30 AR-394",
+      "city": "Batesville",
+      "state": "AR",
+      "postalCode": "72501",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4BL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4BL",
+      "latitude": 35.767877,
+      "longitude": -91.599145,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 793-4688"
+    },
+    {
+      "id": "anw4c6",
+      "name": "Bentonville SDA Church",
+      "street": "2522 SE 14th St",
+      "city": "Bentonville",
+      "state": "AR",
+      "postalCode": "72712",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4C6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4C6",
+      "latitude": 36.355116,
+      "longitude": -94.182185,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (479) 271-8887"
+    },
+    {
+      "id": "anw4cb",
+      "name": "Berryville SDA Church",
+      "street": "1330 US-62",
+      "city": "Berryville",
+      "state": "AR",
+      "postalCode": "72616",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4CB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4CB",
+      "latitude": 36.388612,
+      "longitude": -93.61079,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 423-6185"
+    },
+    {
+      "id": "anw4bs",
+      "name": "Berryville Spanish SDA Church",
+      "street": "112 Fancher Ave",
+      "city": "Berryville",
+      "state": "AR",
+      "postalCode": "72616",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Berryville Spanish Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4BS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4BS",
+      "latitude": 36.366373,
+      "longitude": -93.567234,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 480-3987"
+    },
+    {
+      "id": "anw4e6",
+      "name": "Conway SDA Church",
+      "street": "1265 Robins St",
+      "city": "Conway",
+      "state": "AR",
+      "postalCode": "72034",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4E6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4E6",
+      "latitude": 35.076734,
+      "longitude": -92.437523,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (501) 358-6891"
+    },
+    {
+      "id": "anw4f1",
+      "name": "El Dorado SDA Church",
+      "street": "165 Dusty Rd",
+      "city": "El Dorado",
+      "state": "AR",
+      "postalCode": "71730",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4F1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4F1",
+      "latitude": 33.1884274,
+      "longitude": -92.6126757,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 862-7631"
+    },
+    {
+      "id": "anw4ge",
+      "name": "Gentry Spanish SDA Church",
+      "street": "1058 W Main Street",
+      "city": "Gentry",
+      "state": "AR",
+      "postalCode": "72734",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4GE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Gentry"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4GE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4GE",
+      "latitude": 36.2684155,
+      "longitude": -94.4953776,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://gentryspanishar.adventistchurch.org"
+    },
+    {
+      "id": "anw4g6",
+      "name": "Harrison SDA Church",
+      "street": "4877 AR-392",
+      "city": "Harrison",
+      "state": "AR",
+      "postalCode": "72601",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4G6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4G6",
+      "latitude": 36.235036,
+      "longitude": -93.186722,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 741-0169"
+    },
+    {
+      "id": "anw4i1",
+      "name": "Little Rock SDA Church",
+      "street": "8700 N Rodney Parham Rd",
+      "city": "Little Rock",
+      "state": "AR",
+      "postalCode": "72205",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Little Rock Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4I1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4I1",
+      "latitude": 34.757251,
+      "longitude": -92.3703003,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://littlerockar.adventistchurch.org",
+      "phone": "+1 (501) 225-5063"
+    },
+    {
+      "id": "anwbbg",
+      "name": "Shiloh SDA Church",
+      "street": "2400 S Maple St",
+      "city": "Little Rock",
+      "state": "AR",
+      "postalCode": "72204",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Shiloh Seventh-Day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against Southwest Region Conference roster (OrgID ANWBBG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Southwest Region Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANWBBG",
+      "latitude": 34.7291033,
+      "longitude": -92.3155901,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.yelp.com/biz/shiloh-seventh-day-adventist-church-little-rock",
+      "phone": "+1 (501) 313-2322"
+    },
+    {
+      "id": "anw4i6",
+      "name": "Magnolia SDA Church",
+      "street": "2015 Ellis St",
+      "city": "Magnolia",
+      "state": "AR",
+      "postalCode": "71753",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Magnolia Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4I6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4I6",
+      "latitude": 33.3023944,
+      "longitude": -93.2122672,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 904-6629"
+    },
+    {
+      "id": "anw4mc",
+      "name": "Marshall SDA Church",
+      "street": "601 E Main St",
+      "city": "Marshall",
+      "state": "AR",
+      "postalCode": "72650",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4MC).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4MC",
+      "latitude": 35.9070086,
+      "longitude": -92.6227427,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://marshallar.adventistchurch.org",
+      "phone": "+1 (870) 448-3237"
+    },
+    {
+      "id": "anw4id",
+      "name": "Mt Ida SDA Church",
+      "street": "204 Cedar St",
+      "city": "Mount Ida",
+      "state": "AR",
+      "postalCode": "71957",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mount Ida Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4ID).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4ID",
+      "latitude": 34.5504933,
+      "longitude": -93.6288214,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.mtidasda.org/",
+      "phone": "+1 (501) 269-3386"
+    },
+    {
+      "id": "anw4jg",
+      "name": "Mountain Home SDA Church",
+      "street": "3744 Hwy 62 West",
+      "city": "Mountain Home",
+      "state": "AR",
+      "postalCode": "72653",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4JG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4JG",
+      "latitude": 36.309721,
+      "longitude": -92.423534,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 425-7475"
+    },
+    {
+      "id": "anw4jl",
+      "name": "Mountain View SDA Church",
+      "street": "922 Tower Loop",
+      "city": "Mountain View",
+      "state": "AR",
+      "postalCode": "72560",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mountain View Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4JL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4JL",
+      "latitude": 35.877365,
+      "longitude": -92.103541,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://mountainviewsda.com/"
+    },
+    {
+      "id": "anw4lg",
+      "name": "Russellville SDA Church",
+      "street": "511 E Aspen Ln",
+      "city": "Russellville",
+      "state": "AR",
+      "postalCode": "72802",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4LG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4LG",
+      "latitude": 35.307037,
+      "longitude": -93.132055,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (479) 967-3191"
+    },
+    {
+      "id": "anw4ll",
+      "name": "Searcy SDA Church",
+      "street": "2703 W Beebe-Capps Expy",
+      "city": "Searcy",
+      "state": "AR",
+      "postalCode": "72143",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Searcy Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4LL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4LL",
+      "latitude": 35.246489,
+      "longitude": -91.7770236,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (501) 268-0610"
+    },
+    {
+      "id": "anw4mv",
+      "name": "Umpire SDA Church",
+      "street": "164 School St",
+      "city": "Umpire",
+      "state": "AR",
+      "postalCode": "71971",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4MV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4MV",
+      "latitude": 34.2796,
+      "longitude": -94.0530023,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (870) 583-6138"
+    },
+    {
+      "id": "anw4vs",
+      "name": "Van Buren Spanish SDA Church",
+      "street": "902 Oak Grove Rd",
+      "city": "Van Buren",
+      "state": "AR",
+      "postalCode": "72956",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Van Buren"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4VS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4VS",
+      "latitude": 35.4223718,
+      "longitude": -94.2947906,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (479) 208-3056"
+    }
+  ]
+}

@@ -42,6 +42,26 @@ DATASET_METADATA = {
         "id": "northern-new-england-churches",
         "name": "Northern New England Conference",
         "conference": "Northern New England Conference"
+    },
+    "alabama-churches.json": {
+        "id": "alabama-churches",
+        "name": "Alabama Churches",
+        "state": "AL"
+    },
+    "alaska-churches.json": {
+        "id": "alaska-churches",
+        "name": "Alaska Churches",
+        "state": "AK"
+    },
+    "arizona-churches.json": {
+        "id": "arizona-churches",
+        "name": "Arizona Churches",
+        "state": "AZ"
+    },
+    "arkansas-churches.json": {
+        "id": "arkansas-churches",
+        "name": "Arkansas Churches",
+        "state": "AR"
     }
 }
 

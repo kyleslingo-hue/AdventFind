@@ -1,8 +1,40 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "lastUpdated": "2026-11-13T23:40:25.709117+00:00",
+  "version": 4,
+  "lastUpdated": "2026-11-13T23:56:55.223328+00:00",
   "datasets": [
+    {
+      "id": "alabama-churches",
+      "filename": "alabama-churches.json",
+      "name": "Alabama Churches",
+      "version": 1,
+      "recordCount": 36,
+      "state": "AL"
+    },
+    {
+      "id": "alaska-churches",
+      "filename": "alaska-churches.json",
+      "name": "Alaska Churches",
+      "version": 1,
+      "recordCount": 10,
+      "state": "AK"
+    },
+    {
+      "id": "arizona-churches",
+      "filename": "arizona-churches.json",
+      "name": "Arizona Churches",
+      "version": 1,
+      "recordCount": 30,
+      "state": "AZ"
+    },
+    {
+      "id": "arkansas-churches",
+      "filename": "arkansas-churches.json",
+      "name": "Arkansas Churches",
+      "version": 1,
+      "recordCount": 21,
+      "state": "AR"
+    },
     {
       "id": "connecticut-churches",
       "filename": "connecticut-churches.json",

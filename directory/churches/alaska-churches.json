@@ -1,0 +1,553 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "ani4an",
+      "name": "Anchorage Korean SDA Church",
+      "street": "540 W 34th Ave",
+      "city": "Anchorage",
+      "state": "AK",
+      "postalCode": "99503",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Anchorage Korean Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4AN).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4AN",
+      "latitude": 61.189047,
+      "longitude": -149.892186,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://anchoragekoreanak.adventistchurch.org",
+      "phone": "+1 (907) 868-3310"
+    },
+    {
+      "id": "ani4bg",
+      "name": "Hillside O'Malley SDA Church",
+      "street": "6000 O'Malley Rd",
+      "city": "Anchorage",
+      "state": "AK",
+      "postalCode": "99507",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hillside O'Malley Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4BG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4BG",
+      "latitude": 61.1224842,
+      "longitude": -149.7703373,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://omalleysda.com/",
+      "phone": "+1 (907) 346-3244"
+    },
+    {
+      "id": "ani4cb",
+      "name": "Fairbanks SDA Church",
+      "street": "1811 Farmers Loop Rd",
+      "city": "Fairbanks",
+      "state": "AK",
+      "postalCode": "99709",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Fairbanks Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4CB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4CB",
+      "latitude": 64.873908,
+      "longitude": -147.822706,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://www.adventist.org",
+      "phone": "+1 (907) 479-6070"
+    },
+    {
+      "id": "ani4cl",
+      "name": "Juneau SDA Church",
+      "street": "4890 Glacier Hwy",
+      "city": "Juneau",
+      "state": "AK",
+      "postalCode": "99801",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Christian School"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4CL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4CL",
+      "latitude": 58.3472101,
+      "longitude": -134.4921418,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://www.adventist.org",
+      "phone": "+1 (907) 780-4336"
+    },
+    {
+      "id": "ani4cq",
+      "name": "Midnight Son SDA Church",
+      "street": "701 Swires Rd",
+      "city": "Kenai",
+      "state": "AK",
+      "postalCode": "99611",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Midnight Son Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4CQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4CQ",
+      "latitude": 60.5703393,
+      "longitude": -151.1755728,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (863) 446-0556"
+    },
+    {
+      "id": "ani4cv",
+      "name": "Ketchikan SDA Church",
+      "street": "2017 First Ave",
+      "city": "Ketchikan",
+      "state": "AK",
+      "postalCode": "99901",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4CV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4CV",
+      "latitude": 55.3497061,
+      "longitude": -131.6696013,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.yelp.com/biz/ketchikan-sda-church-ketchikan",
+      "phone": "+1 (907) 312-0996"
+    },
+    {
+      "id": "ani4d1",
+      "name": "Kodiak SDA Church",
+      "street": "1337 Mylark Ln",
+      "city": "Kodiak",
+      "state": "AK",
+      "postalCode": "99615",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4D1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4D1",
+      "latitude": 57.800907,
+      "longitude": -152.388762,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "http://www.adventist.org",
+      "phone": "+1 (907) 486-5297"
+    },
+    {
+      "id": "ani4dl",
+      "name": "Palmer SDA Church",
+      "street": "2238 S Inner Springer Loop",
+      "city": "Palmer",
+      "state": "AK",
+      "postalCode": "99645",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Palmer Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4DL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4DL",
+      "latitude": 61.5714597,
+      "longitude": -149.1464639,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://adventist.org",
+      "phone": "+1 (907) 745-2260"
+    },
+    {
+      "id": "ani4eg",
+      "name": "Sitka SDA Church",
+      "street": "1613 Halibut Point Rd",
+      "city": "Sitka",
+      "state": "AK",
+      "postalCode": "99835",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4EG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4EG",
+      "latitude": 57.065347,
+      "longitude": -135.363512,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (907) 747-8855"
+    },
+    {
+      "id": "ani4wa",
+      "name": "Wasilla SDA Church",
+      "street": "2101 N Lucille St",
+      "city": "Wasilla",
+      "state": "AK",
+      "postalCode": "99654",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "General Conference Of Seventh-Day Adventists"
+      ],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4WA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4WA",
+      "latitude": 61.603214,
+      "longitude": -149.45014,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (907) 373-2152"
+    }
+  ]
+}

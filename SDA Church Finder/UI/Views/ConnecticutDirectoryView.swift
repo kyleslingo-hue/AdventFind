@@ -83,6 +83,10 @@ struct ConnecticutDirectoryView: View {
             "ME": "Maine",
             "NH": "New Hampshire",
             "VT": "Vermont",
+            "AL": "Alabama",
+            "AK": "Alaska",
+            "AZ": "Arizona",
+            "AR": "Arkansas",
             DirectoryFilters.unknown: "State not listed"
         ][code] ?? code
     }
