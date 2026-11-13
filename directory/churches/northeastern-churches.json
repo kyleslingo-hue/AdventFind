@@ -1,0 +1,4467 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "an4fdg",
+      "name": "Beacon Light Tabernacle SDA Church",
+      "street": "1568 NY-9D",
+      "city": "Wappingers Falls",
+      "state": "NY",
+      "postalCode": "12590",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 440-0148",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FDG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FDG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDG",
+      "latitude": 41.5308874,
+      "longitude": -73.9574977,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fdl",
+      "name": "Berea SDA Church (NY)",
+      "street": "67 S Broadway",
+      "city": "Nyack",
+      "state": "NY",
+      "postalCode": "10960",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 358-2117",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FDL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FDL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDL",
+      "latitude": 41.088445,
+      "longitude": -73.918644,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fdv",
+      "name": "Bethesda SDA Church",
+      "street": "76 Parkway Ave",
+      "city": "Amityville",
+      "state": "NY",
+      "postalCode": "11701",
+      "website": "https://bethesdany.adventistchurch.org",
+      "phone": "+1 (631) 842-3321",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FDV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bethesda Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FDV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDV",
+      "latitude": 40.7066974,
+      "longitude": -73.4162772,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fbe",
+      "name": "Bethlehem SDA Worship Center",
+      "street": "200-02 119th Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11412",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14468",
+      "phone": "+1 (516) 312-0060",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FBE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bethlehem Seventh-day Adventist Worship Center"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FBE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBE",
+      "latitude": 40.6915352,
+      "longitude": -73.7511635,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fb3",
+      "name": "Brewster Hispanic SDA Church",
+      "street": "26 Prospect St",
+      "city": "Brewster",
+      "state": "NY",
+      "postalCode": "10509",
+      "website": "https://adventist.org",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FB3"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Brewster Hispanic"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FB3).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FB3",
+      "latitude": 41.3975398,
+      "longitude": -73.6168206,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fbu",
+      "name": "Brockton Portuguese SDA Church",
+      "street": "127 N Quincy St",
+      "city": "Abington",
+      "state": "MA",
+      "postalCode": "02351",
+      "website": "https://adventist.org",
+      "phone": "+1 (508) 426-2208",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FBU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FBU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBU",
+      "latitude": 42.114082,
+      "longitude": -70.998542,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fhl",
+      "name": "Bronx SDA Church",
+      "street": "1695 Washington Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10457",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 299-3966",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FHL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bronx Seventh Day Adventist Church Ofc"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FHL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FHL",
+      "latitude": 40.8422127,
+      "longitude": -73.9010773,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fib",
+      "name": "Brooklyn Faith SDA Church",
+      "street": "777 Schenectady Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11203",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 469-6330",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FIB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Brooklyn Christian Fellowship Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FIB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FIB",
+      "latitude": 40.6543679,
+      "longitude": -73.9333479,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fbz",
+      "name": "Buffalo Hispanic SDA Church",
+      "street": "213 Vermont St",
+      "city": "Buffalo",
+      "state": "NY",
+      "postalCode": "14213",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=21322",
+      "phone": "+1 (716) 279-6029",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FBZ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FBZ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBZ",
+      "latitude": 42.9065216,
+      "longitude": -78.8906121,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fb6",
+      "name": "Calvary SDA Church",
+      "street": "827 Trumbull Ave",
+      "city": "Bridgeport",
+      "state": "CT",
+      "postalCode": "06606",
+      "website": "http://www.calvarysda.com",
+      "phone": "+1 (203) 374-4533",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FB6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Calvary Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FB6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FB6",
+      "latitude": 41.2181054,
+      "longitude": -73.2015234,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fcb",
+      "name": "Cambridge SDA Church",
+      "street": "43 Norwood St",
+      "city": "Everett",
+      "state": "MA",
+      "postalCode": "02149",
+      "website": "http://www.cambridgesda.org/",
+      "phone": "+1 (781) 391-2908",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Cambridge Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCB",
+      "latitude": 42.4077352,
+      "longitude": -71.0577126,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fe6",
+      "name": "Capital City SDA Church",
+      "street": "168 S Allen St",
+      "city": "Albany",
+      "state": "NY",
+      "postalCode": "12208",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14496",
+      "phone": "+1 (518) 465-7814",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FE6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Capital City Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FE6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FE6",
+      "latitude": 42.661363,
+      "longitude": -73.7980119,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4feb",
+      "name": "Central Islip SDA Church",
+      "street": "115 Carleton Ave",
+      "city": "Central Islip",
+      "state": "NY",
+      "postalCode": "11722",
+      "website": "https://adventist.org",
+      "phone": "+1 (631) 234-7200",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FEB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Central Islip Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FEB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEB",
+      "latitude": 40.7838059,
+      "longitude": -73.200719,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fch",
+      "name": "Charity SDA Church",
+      "street": "91 Babcock St",
+      "city": "Hartford",
+      "state": "CT",
+      "postalCode": "06106",
+      "website": "https://adventist.org",
+      "phone": "+1 (203) 551-4470",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCH",
+      "latitude": 41.7614521,
+      "longitude": -72.6894087,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fcm",
+      "name": "Chelsea Hispanic SDA Church",
+      "street": "111 Hawthorn St",
+      "city": "Chelsea",
+      "state": "MA",
+      "postalCode": "02150",
+      "website": "https://adventist.org",
+      "phone": "+1 (617) 884-0121",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church of Chelsea"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCM",
+      "latitude": 42.3906574,
+      "longitude": -71.0349296,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fco",
+      "name": "Cornerstone Hispanic SDA Church",
+      "street": "138 Pennsylvania Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11207",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 483-9753",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Cornerstone Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCO",
+      "latitude": 40.6744974,
+      "longitude": -73.8969461,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fcy",
+      "name": "Cypress Hills Hispanic SDA Church",
+      "street": "3427 Fulton St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11208",
+      "website": "",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCY"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista de Cypress Hills"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCY).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCY",
+      "latitude": 40.6846654,
+      "longitude": -73.8692111,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fda",
+      "name": "Danbury Hispanic SDA Church",
+      "street": "78 Liberty St",
+      "city": "Danbury",
+      "state": "CT",
+      "postalCode": "06810",
+      "website": "https://adventist.org",
+      "phone": "+1 (203) 826-3581",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FDA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Danbury"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FDA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FDA",
+      "latitude": 41.3936645,
+      "longitude": -73.4466988,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fj1",
+      "name": "East New York SDA Church",
+      "street": "511 Elton St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11208",
+      "website": "https://www.eastnewyorksda.org",
+      "phone": "+1 (718) 647-0764",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJ1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "East New York Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJ1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJ1",
+      "latitude": 40.670384,
+      "longitude": -73.88233,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fel",
+      "name": "Ebenezer SDA Church",
+      "street": "97 Broadway",
+      "city": "Freeport",
+      "state": "NY",
+      "postalCode": "11520",
+      "website": "https://www.ebenezersdachurch.com",
+      "phone": "+1 (516) 379-1054",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FEL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Ebenezer Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FEL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEL",
+      "latitude": 40.6599216,
+      "longitude": -73.5804685,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4feo",
+      "name": "El Faro Hispanic SDA Church",
+      "street": "171 Wilson Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11237",
+      "website": "https://www.yelp.com/biz/el-faro-sda-church-brooklyn",
+      "phone": "+1 (718) 497-4697",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FEO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "El Faro SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FEO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEO",
+      "latitude": 40.6999343,
+      "longitude": -73.9240064,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fe2",
+      "name": "El Siloe SDA Church",
+      "street": "10 Baltimore St",
+      "city": "Lynn",
+      "state": "MA",
+      "postalCode": "01902",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (781) 595-4206",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FE2"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "El-Siloe Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FE2).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FE2",
+      "latitude": 42.4629859,
+      "longitude": -70.9339406,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fj6",
+      "name": "Elim SDA Church",
+      "street": "418 E 45th St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11203",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 287-9116",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJ6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Elim Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJ6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJ6",
+      "latitude": 40.651197,
+      "longitude": -73.935403,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4feq",
+      "name": "Ellenville SDA Church",
+      "street": "161 Center St",
+      "city": "Ellenville",
+      "state": "NY",
+      "postalCode": "12428",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 647-4628",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FEQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FEQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEQ",
+      "latitude": 41.712174,
+      "longitude": -74.387461,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fjb",
+      "name": "Emmaus SDA Church",
+      "street": "1144 Flatbush Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11226",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 287-2121",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Emmaus Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJB",
+      "latitude": 40.6423891,
+      "longitude": -73.9579012,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fet",
+      "name": "Ephese SDA Church",
+      "street": "857 Eddy St",
+      "city": "Providence",
+      "state": "RI",
+      "postalCode": "02905",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=20100",
+      "phone": "+1 (401) 941-0998",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FET"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Ephese Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FET).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FET",
+      "latitude": 41.8042981,
+      "longitude": -71.4077157,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fkv",
+      "name": "Ephesus SDA Church",
+      "street": "101 W 123rd St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10027",
+      "website": "https://www.ephesus.org",
+      "phone": "+1 (212) 662-5537",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FKV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Ephesus Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FKV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FKV",
+      "latitude": 40.806873,
+      "longitude": -73.9468,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fbb",
+      "name": "Faith SDA Church",
+      "street": "500 Woodland St",
+      "city": "Hartford",
+      "state": "CT",
+      "postalCode": "06112",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14467",
+      "phone": "+1 (860) 522-0625",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FBB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Faith Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FBB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBB",
+      "latitude": 41.783919,
+      "longitude": -72.694939,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fhm",
+      "name": "First Rochester Hispanic SDA Church",
+      "street": "47 Oakman St",
+      "city": "Rochester",
+      "state": "NY",
+      "postalCode": "14605",
+      "website": "https://adventist.org",
+      "phone": "+1 (585) 454-2447",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FHM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Spanish Seventh Day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FHM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FHM",
+      "latitude": 43.170723,
+      "longitude": -77.6146032,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ff1",
+      "name": "First SDA Church of White Plains",
+      "street": "180 Juniper Hill Rd",
+      "city": "White Plains",
+      "state": "NY",
+      "postalCode": "10607",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 949-6816",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FF1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "First SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FF1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FF1",
+      "latitude": 41.037033,
+      "longitude": -73.792832,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fgo",
+      "name": "Golgotha SDA Church",
+      "street": "351 Depot St",
+      "city": "South Easton",
+      "state": "MA",
+      "postalCode": "02375",
+      "website": "https://adventist.org",
+      "phone": "+1 (508) 297-1658",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FGO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Golgotha Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FGO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FGO",
+      "latitude": 42.0364604,
+      "longitude": -71.0972417,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ffb",
+      "name": "Gordon Heights SDA Church",
+      "street": "21 Teller Ave",
+      "city": "Coram",
+      "state": "NY",
+      "postalCode": "11727",
+      "website": "https://adventist.org",
+      "phone": "+1 (631) 698-0912",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FFB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Gordon Hgts Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FFB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FFB",
+      "latitude": 40.8606726,
+      "longitude": -72.9807553,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fos",
+      "name": "Gosen SDA Church",
+      "street": "6 Orchard St",
+      "city": "Middletown",
+      "state": "NY",
+      "postalCode": "10940",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 381-1019",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FOS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FOS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FOS",
+      "latitude": 41.445863,
+      "longitude": -74.417834,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fjl",
+      "name": "Goshen Temple SDA Church",
+      "street": "2414 Church Ave",
+      "city": "Brooklyn",
+      "state": "NY",
+      "postalCode": "11226",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 282-1377",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Goshen Temple Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJL",
+      "latitude": 40.6501621,
+      "longitude": -73.9550326,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fjq",
+      "name": "Hanson Place SDA Church",
+      "street": "88 Hanson Pl",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11217",
+      "website": "https://www.hansonplace.org",
+      "phone": "+1 (718) 230-0229",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hanson Place Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJQ",
+      "latitude": 40.6853128,
+      "longitude": -73.9740081,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fjv",
+      "name": "Hebron SDA Church",
+      "street": "1256 Dean St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11216",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 778-6454",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hebron Seventh Day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJV",
+      "latitude": 40.6766073,
+      "longitude": -73.9476444,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fho",
+      "name": "Hope SDA Church",
+      "street": "1052 Blue Hills Ave",
+      "city": "Bloomfield",
+      "state": "CT",
+      "postalCode": "06002",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (860) 243-9338",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FHO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hope Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FHO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FHO",
+      "latitude": 41.823571,
+      "longitude": -72.695724,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fk1",
+      "name": "Horeb SDA Church",
+      "street": "520 Kingston Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11225",
+      "website": "http://horebny.adventistchurch.org",
+      "phone": "+1 (718) 778-7373",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FK1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Horeb Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FK1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FK1",
+      "latitude": 40.661065,
+      "longitude": -73.942948,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fm7",
+      "name": "Hyde Park SDA Church",
+      "street": "6 Webster St",
+      "city": "Hyde Park",
+      "state": "MA",
+      "postalCode": "02136",
+      "website": "https://www.hydeparksdachurch.org",
+      "phone": "+1 (617) 361-6581",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FM7"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hyde Park Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FM7).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FM7",
+      "latitude": 42.2576293,
+      "longitude": -71.1203868,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fll",
+      "name": "Iglesia Adventista Hispana de Jamaica",
+      "street": "88-28 163rd St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11432",
+      "website": "http://www.jasda.org",
+      "phone": "+1 (718) 297-3491",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FLL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Jamaica Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FLL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FLL",
+      "latitude": 40.7078827,
+      "longitude": -73.7989574,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4f24",
+      "name": "Immanuel SDA Church",
+      "street": "171 Hampshire St",
+      "city": "Cambridge",
+      "state": "MA",
+      "postalCode": "02139",
+      "website": "https://adventist.org",
+      "phone": "+1 (617) 864-3189",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4F24"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4F24).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4F24",
+      "latitude": 42.3720984,
+      "longitude": -71.0984804,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fjh",
+      "name": "Jerusalem Hispanic SDA Church",
+      "street": "198 S Broadway",
+      "city": "Lawrence",
+      "state": "MA",
+      "postalCode": "01843",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=51907",
+      "phone": "+1 (978) 689-0300",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FJH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Jerusalem Hispanic Sda Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FJH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FJH",
+      "latitude": 42.6944332,
+      "longitude": -71.1617794,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fki",
+      "name": "Kingsboro Temple SDA Church",
+      "street": "415 7th St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11215",
+      "website": "http://www.kbtsda.org",
+      "phone": "+1 (718) 369-3534",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FKI"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Kingsboro Temple of Seventh Day Adventists"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FKI).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FKI",
+      "latitude": 40.6691369,
+      "longitude": -73.9822912,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ffl",
+      "name": "Kingston SDA Church",
+      "street": "100 Lucas Ave",
+      "city": "Kingston",
+      "state": "NY",
+      "postalCode": "12401",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 339-4983",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FFL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Kingston Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FFL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FFL",
+      "latitude": 41.931664,
+      "longitude": -74.026447,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fph",
+      "name": "Le Phare SDA Church",
+      "street": "920 River St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02136",
+      "website": "https://adventist.org",
+      "phone": "+1 (617) 333-9300",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FPH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FPH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FPH",
+      "latitude": 42.261315,
+      "longitude": -71.111602,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4flv",
+      "name": "Lebanon SDA Church",
+      "street": "131-72 223rd St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11413",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14560",
+      "phone": "+1 (718) 525-4630",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FLV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Lebanon Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FLV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FLV",
+      "latitude": 40.6798641,
+      "longitude": -73.7458513,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fm1",
+      "name": "Linden SDA Church",
+      "street": "228-20 137th Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11413",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 527-4072",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FM1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Linden Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FM1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FM1",
+      "latitude": 40.6729,
+      "longitude": -73.743999,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fmj",
+      "name": "Mahanaim SDA Church",
+      "street": "277 Hempstead Tpke",
+      "city": "Elmont",
+      "state": "NY",
+      "postalCode": "11003",
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (516) 775-1207",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FMJ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mahanaim Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FMJ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMJ",
+      "latitude": 40.707866,
+      "longitude": -73.716483,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fma",
+      "name": "Mamre SDA Church",
+      "street": "1623-27 Utica Ave",
+      "city": "Brooklyn",
+      "state": "NY",
+      "postalCode": "11234",
+      "website": "https://www.mamresda.org",
+      "phone": "+1 (718) 253-9100",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FMA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mamre Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FMA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMA",
+      "latitude": 40.6326882,
+      "longitude": -73.9280223,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fmk",
+      "name": "Manchester Hispanic SDA Church",
+      "street": "456 Beech St",
+      "city": "Manchester",
+      "state": "NH",
+      "postalCode": "03103",
+      "website": "https://adventist.org",
+      "phone": "+1 (603) 668-0468",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FMK"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Manchester Hispanic Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FMK).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMK",
+      "latitude": 42.9897203,
+      "longitude": -71.4556843,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fm6",
+      "name": "Maranatha French SDA Church",
+      "street": "173-04 Linden Blvd",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11434",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14562",
+      "phone": "+1 (718) 297-8784",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FM6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FM6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FM6",
+      "latitude": 40.691907,
+      "longitude": -73.77692,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4foc",
+      "name": "Mont Des Oliviers SDA Church",
+      "street": "244 East Ave",
+      "city": "Norwalk",
+      "state": "CT",
+      "postalCode": "06855",
+      "website": "https://montdesoliviersct.adventistchurch.org",
+      "phone": "+1 (203) 286-8333",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FOC"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mont des Oliviers French SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FOC).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FOC",
+      "latitude": 41.1024895,
+      "longitude": -73.4042389,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fmb",
+      "name": "Mount Sinai SDA Church",
+      "street": "217-10 93rd Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11428",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 465-1784",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FMB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mt Sinai Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FMB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMB",
+      "latitude": 40.7210571,
+      "longitude": -73.7398146,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ffv",
+      "name": "Mount Vernon SDA Church",
+      "street": "230 S Columbus Ave",
+      "city": "Mount Vernon",
+      "state": "NY",
+      "postalCode": "10553",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 664-8586",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FFV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mt Vernon Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FFV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FFV",
+      "latitude": 40.9086865,
+      "longitude": -73.8219597,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fbv",
+      "name": "Mount Zion SDA Church",
+      "street": "335 Putnam Ave",
+      "city": "Hamden",
+      "state": "CT",
+      "postalCode": "06517",
+      "website": "https://www.mtzionct.org/",
+      "phone": "+1 (203) 562-5784",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FBV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FBV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FBV",
+      "latitude": 41.344315,
+      "longitude": -72.927261,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fni",
+      "name": "New Bedford Hispanic SDA Church",
+      "street": "280 Elm St",
+      "city": "New Bedford",
+      "state": "MA",
+      "postalCode": "02740",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=21327",
+      "phone": "+1 (508) 997-6618",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FNI"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Bedford Hispanic Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FNI).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FNI",
+      "latitude": 41.63524,
+      "longitude": -70.934263,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ffg",
+      "name": "New Ebenezer SDA Church",
+      "street": "2710 Chili Ave",
+      "city": "Rochester",
+      "state": "NY",
+      "postalCode": "14624",
+      "website": "https://www.jeffersonsda.org",
+      "phone": "+1 (585) 328-7806",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FFG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Ebenezer Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FFG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FFG",
+      "latitude": 43.123036,
+      "longitude": -77.7104652,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fsr",
+      "name": "New England Portuguese SDA Church",
+      "street": "62 Dexter St",
+      "city": "Medford",
+      "state": "MA",
+      "postalCode": "02155",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=19995",
+      "phone": "+1 (781) 874-9006",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FSR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New England Portuguese Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FSR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FSR",
+      "latitude": 42.3995347,
+      "longitude": -71.101584,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fnu",
+      "name": "New Jerusalem SDA Church",
+      "street": "181 Greenwich St",
+      "city": "Hempstead",
+      "state": "NY",
+      "postalCode": "11550",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14581",
+      "phone": "+1 (516) 481-0306",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FNU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FNU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FNU",
+      "latitude": 40.700756,
+      "longitude": -73.6181188,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fnv",
+      "name": "New Life SDA Church",
+      "street": "2610 Grand Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 295-4185",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FNV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Life Seven Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FNV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FNV",
+      "latitude": 40.866836,
+      "longitude": -73.899902,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fgb",
+      "name": "New Rochelle SDA Church",
+      "street": "456 Webster Ave",
+      "city": "New Rochelle",
+      "state": "NY",
+      "postalCode": "10801",
+      "website": "https://newrochellesda.org",
+      "phone": "+1 (914) 576-1280",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FGB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Rochelle Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FGB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FGB",
+      "latitude": 40.9186407,
+      "longitude": -73.79678,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fg1",
+      "name": "Newburgh Tabernacle SDA Church",
+      "street": "251 Grand St",
+      "city": "Newburgh",
+      "state": "NY",
+      "postalCode": "12550",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 565-5053",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FG1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Newburgh Tabernacle Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FG1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FG1",
+      "latitude": 41.508646,
+      "longitude": -74.009682,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fno",
+      "name": "North Bronx Ghana SDA Church",
+      "street": "3743 Bronxwood Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10469",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 882-4907",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FNO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "North Bronx Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FNO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FNO",
+      "latitude": 40.8809178,
+      "longitude": -73.857941,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fgg",
+      "name": "Pioneer Memorial SDA Church - NY",
+      "street": "404 Cedar Ave",
+      "city": "Niagara Falls",
+      "state": "NY",
+      "postalCode": "14301",
+      "website": "https://adventist.org",
+      "phone": "+1 (716) 282-8991",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FGG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Pioneer Memorial Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FGG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FGG",
+      "latitude": 43.0966577,
+      "longitude": -79.0583204,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fgl",
+      "name": "Primera Hispanic SDA Church",
+      "street": "98 Waverly St",
+      "city": "Yonkers",
+      "state": "NY",
+      "postalCode": "10701",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 966-2220",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FGL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Primera Hispanic Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FGL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FGL",
+      "latitude": 40.932411,
+      "longitude": -73.893325,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fro",
+      "name": "Rogers Avenue SDA Church",
+      "street": "924 Rogers Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11226",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (718) 856-5558",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FRO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Rogers Avenue Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FRO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FRO",
+      "latitude": 40.647619,
+      "longitude": -73.95235,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fcv",
+      "name": "Salem Hispanic SDA Church",
+      "street": "44-46 Forest St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02119",
+      "website": "https://adventist.org",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FCV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FCV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FCV",
+      "latitude": 42.3268883,
+      "longitude": -71.0773008,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fhv",
+      "name": "Sharon SDA Church",
+      "street": "20 W Second St",
+      "city": "Mount Vernon",
+      "state": "NY",
+      "postalCode": "10550",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 371-7674",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FHV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Sharon Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FHV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FHV",
+      "latitude": 40.9087598,
+      "longitude": -73.8366464,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fs2",
+      "name": "Shekinah French SDA Church",
+      "street": "50 Central St",
+      "city": "Stoneham",
+      "state": "MA",
+      "postalCode": "02180",
+      "website": "https://adventist.org",
+      "phone": "+1 (857) 373-9245",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FS2"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        " Shekinah French Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FS2).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FS2",
+      "latitude": 42.4813345,
+      "longitude": -71.0989026,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fs1",
+      "name": "Shelter Rock SDA Church",
+      "street": "15718 Meyer Ave",
+      "city": "Jamaica",
+      "state": "NY",
+      "postalCode": "11434",
+      "website": "https://shelterrockny.adventistchurch.org",
+      "phone": "+1 (718) 738-1760",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FS1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FS1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FS1",
+      "latitude": 40.6875616,
+      "longitude": -73.7894744,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fd1",
+      "name": "Shiloh SDA Church - Springfield",
+      "street": "797 State St",
+      "city": "Springfield",
+      "state": "MA",
+      "postalCode": "01109",
+      "website": "https://adventist.org",
+      "phone": "+1 (413) 739-4265",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FD1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Shiloh Seventh Day Adventist Church Communty Srvcs"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FD1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FD1",
+      "latitude": 42.1104149,
+      "longitude": -72.565053,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fsf",
+      "name": "Sinai French SDA Church",
+      "street": "7 Johnson St",
+      "city": "Spring Valley",
+      "state": "NY",
+      "postalCode": "10977",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 426-2256",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FSF"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Sinai Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FSF).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FSF",
+      "latitude": 41.114284,
+      "longitude": -74.048465,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fmg",
+      "name": "Solid Rock SDA Church",
+      "street": "52-05 Rockaway Beach Blvd",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11691",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 634-1622",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FMG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Solid Rock Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FMG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FMG",
+      "latitude": 40.5926311,
+      "longitude": -73.7826877,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fml",
+      "name": "South Ozone Park SDA Church",
+      "street": "120-02 140th St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11436",
+      "website": "https://www.yelp.com/biz/south-ozone-park-seventh-day-adventist-church-jamaica",
+      "phone": "+1 (718) 659-0055",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FML"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "South Ozone Park Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FML).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FML",
+      "latitude": 40.6758462,
+      "longitude": -73.8012652,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fh1",
+      "name": "Spring Valley SDA Church",
+      "street": "18 Paiken Dr",
+      "city": "Spring Valley",
+      "state": "NY",
+      "postalCode": "10977",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 352-4806",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FH1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Spring Valley Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FH1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FH1",
+      "latitude": 41.1179249,
+      "longitude": -74.0519658,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fn1",
+      "name": "Staten Island SDA Church",
+      "street": "80 Union Ave",
+      "city": "Staten Island",
+      "state": "NY",
+      "postalCode": "10303",
+      "website": "https://statenislandny.adventistchurch.org",
+      "phone": "+1 (718) 442-4806",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FN1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FN1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FN1",
+      "latitude": 40.6347558,
+      "longitude": -74.1583526,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fd6",
+      "name": "Temple Salem SDA Church",
+      "street": "222 Woodrow Ave",
+      "city": "Dorchester",
+      "state": "MA",
+      "postalCode": "02124",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14487",
+      "phone": "+1 (617) 288-8845",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FD6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Temple Salem Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FD6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FD6",
+      "latitude": 42.2857386,
+      "longitude": -71.0891443,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fea",
+      "name": "Three Angels Hispanic SDA Church",
+      "street": "105 Jersey St",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02215",
+      "website": "https://adventist.org",
+      "phone": "+1 (617) 536-5022",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FEA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FEA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FEA",
+      "latitude": 42.3433427,
+      "longitude": -71.0975147,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fvi",
+      "name": "Victory Fellowship Worship Center of SDA",
+      "street": "1271 Burke Ave",
+      "city": "Bronx",
+      "state": "NY",
+      "postalCode": "10469",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 405-0632",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FVI"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Victory Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FVI).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FVI",
+      "latitude": 40.8715821,
+      "longitude": -73.8500816,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4fwa",
+      "name": "Waterbury Luso-Brasileira SDA Church",
+      "street": "18 Manville St",
+      "city": "Waterbury",
+      "state": "CT",
+      "postalCode": "06704",
+      "website": "https://waterburyct.adventistchurch.org",
+      "phone": "+1 (203) 756-8680",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4F&org=AN4FWA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Waterbury Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northeastern Conference roster (OrgID AN4FWA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northeastern Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4FWA",
+      "latitude": 41.5868168,
+      "longitude": -73.0491257,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    }
+  ]
+}

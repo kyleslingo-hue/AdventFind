@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "lastUpdated": "2026-11-13T22:54:35.150246+00:00",
+  "version": 2,
+  "lastUpdated": "2026-11-13T23:27:45.023623+00:00",
   "datasets": [
     {
       "id": "connecticut-churches",
@@ -12,10 +12,42 @@
       "state": "CT"
     },
     {
+      "id": "greater-new-york-churches",
+      "filename": "greater-new-york-churches.json",
+      "name": "Greater New York Conference",
+      "version": 1,
+      "recordCount": 35,
+      "conference": "Greater New York Conference"
+    },
+    {
+      "id": "new-york-conference-churches",
+      "filename": "new-york-conference-churches.json",
+      "name": "New York Conference",
+      "version": 1,
+      "recordCount": 18,
+      "conference": "New York Conference"
+    },
+    {
+      "id": "northeastern-churches",
+      "filename": "northeastern-churches.json",
+      "name": "Northeastern Conference",
+      "version": 1,
+      "recordCount": 80,
+      "conference": "Northeastern Conference"
+    },
+    {
+      "id": "northern-new-england-churches",
+      "filename": "northern-new-england-churches.json",
+      "name": "Northern New England Conference",
+      "version": 1,
+      "recordCount": 20,
+      "conference": "Northern New England Conference"
+    },
+    {
       "id": "snec-churches",
       "filename": "snec-churches.json",
       "name": "Southern New England Conference",
-      "version": 1,
+      "version": 2,
       "recordCount": 182,
       "conference": "Southern New England Conference"
     }

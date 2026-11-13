@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "an4bbg",
+      "name": "Auburn SDA Church",
+      "street": "56 Prospect St",
+      "city": "Auburn",
+      "state": "NY",
+      "postalCode": "13021",
+      "website": "https://auburnny.adventistchurch.org",
+      "phone": "+1 (315) 253-3809",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Auburn Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BBG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BBG",
+      "latitude": 42.9497408,
+      "longitude": -76.5401097,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bbl",
+      "name": "Batavia SDA Church",
+      "street": "101 Richmond Ave",
+      "city": "Batavia",
+      "state": "NY",
+      "postalCode": "14020",
+      "website": "https://bataviaadventistchurch.org",
+      "phone": "+1 (585) 563-5331",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Batavia Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BBL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BBL",
+      "latitude": 43.0061615,
+      "longitude": -78.1928887,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bbm",
+      "name": "Blessed Hope SDA Church",
+      "street": "225 Bevier St",
+      "city": "Binghamton",
+      "state": "NY",
+      "postalCode": "13904",
+      "website": "https://adventist.org",
+      "phone": "+1 (607) 723-3881",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BBM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BBM",
+      "latitude": 42.1163921,
+      "longitude": -75.8791359,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bbv",
+      "name": "Brocton SDA Church",
+      "street": "5549 E Main St",
+      "city": "Brocton",
+      "state": "NY",
+      "postalCode": "14716",
+      "website": "https://adventist.org",
+      "phone": "+1 (716) 792-9426",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BBV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BBV",
+      "latitude": 42.3976965,
+      "longitude": -79.4184503,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bc2",
+      "name": "Camden SDA Church",
+      "street": "11 Main St",
+      "city": "Camden",
+      "state": "NY",
+      "postalCode": "13316",
+      "website": "https://camdenadventistchurch.com/",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BC2"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Camden NY SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BC2).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BC2",
+      "latitude": 43.3329945,
+      "longitude": -75.7473536,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bcq",
+      "name": "Cortland SDA Church",
+      "street": "123 Oregon Rd",
+      "city": "Cortlandt Manor",
+      "state": "NY",
+      "postalCode": "10567",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 737-2847",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BCQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BCQ",
+      "latitude": 41.312819,
+      "longitude": -73.902683,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bcv",
+      "name": "Fulton SDA Church",
+      "street": "45 W Fourth St S",
+      "city": "Fulton",
+      "state": "NY",
+      "postalCode": "13069",
+      "website": "https://adventist.org",
+      "phone": "+1 (315) 592-4271",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Fulton Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BCV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BCV",
+      "latitude": 43.3213597,
+      "longitude": -76.4251282,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bel",
+      "name": "Kingsbury SDA Church",
+      "street": "3991 US-4",
+      "city": "Hudson Falls",
+      "state": "NY",
+      "postalCode": "12839",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14410",
+      "phone": "+1 (518) 747-2871",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BEL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Kingsbury Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BEL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BEL",
+      "latitude": 43.3702194,
+      "longitude": -73.5231192,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bf1",
+      "name": "Lockport SDA Church",
+      "street": "32 W High St",
+      "city": "Lockport",
+      "state": "NY",
+      "postalCode": "14094",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14412&_ga=2.223560156.65437392.1665991892-85108706.1665680269",
+      "phone": "+1 (716) 433-2327",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BF1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Lockport Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BF1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BF1",
+      "latitude": 43.1649935,
+      "longitude": -78.6981799,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bb1",
+      "name": "New York Conference SDA Church",
+      "street": "7 Shelter Rock Rd",
+      "city": "North Hills",
+      "state": "NY",
+      "postalCode": "11030",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (516) 558-2263",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BB1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Greater New York Conference of Seventh-day Adventist"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BB1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BB1",
+      "latitude": 40.790812,
+      "longitude": -73.690766,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bfl",
+      "name": "Norwich SDA Church",
+      "street": "804 CR-10A",
+      "city": "Norwich",
+      "state": "NY",
+      "postalCode": "13815",
+      "website": "https://adventist.org",
+      "phone": "+1 (607) 334-6130",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BFL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BFL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BFL",
+      "latitude": 42.541028,
+      "longitude": -75.557296,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bna",
+      "name": "Oneida Native American SDA Church",
+      "street": "227 Loucks St",
+      "city": "Oneida",
+      "state": "NY",
+      "postalCode": "13421",
+      "website": "https://adventist.org",
+      "phone": "+1 (315) 363-8777",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BNA"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BNA).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BNA",
+      "latitude": 43.0903913,
+      "longitude": -75.6582806,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bgb",
+      "name": "Perrysburg SDA Church",
+      "street": "10700 North Rd",
+      "city": "Perrysburg",
+      "state": "NY",
+      "postalCode": "14129",
+      "website": "https://adventist.org",
+      "phone": "+1 (716) 532-2775",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BGB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BGB",
+      "latitude": 42.4641353,
+      "longitude": -79.0016341,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bgv",
+      "name": "Randolph SDA Church",
+      "street": "50 N Washington St",
+      "city": "Randolph",
+      "state": "NY",
+      "postalCode": "14772",
+      "website": "https://adventist.org",
+      "phone": "+1 (716) 358-3681",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BGV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BGV",
+      "latitude": 42.1646523,
+      "longitude": -78.9817917,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bh6",
+      "name": "Rochester Bay Knoll SDA Church",
+      "street": "2639 E Ridge Rd",
+      "city": "Rochester",
+      "state": "NY",
+      "postalCode": "14622",
+      "website": "http://www.bayknollchurch.org",
+      "phone": "+1 (585) 544-4340",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BH6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bay Knoll Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BH6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BH6",
+      "latitude": 43.204084,
+      "longitude": -77.546186,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bhg",
+      "name": "Rome SDA Church",
+      "street": "6739 CR-840",
+      "city": "Rome",
+      "state": "NY",
+      "postalCode": "13440",
+      "website": "https://romesdachurch.org/",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BHG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Rome Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BHG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BHG",
+      "latitude": 43.1704118,
+      "longitude": -75.4136304,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bbr",
+      "name": "Sandy Creek SDA Church",
+      "street": "16858 Ridge Rd",
+      "city": "Holley",
+      "state": "NY",
+      "postalCode": "14470",
+      "website": "https://www.sandycreeksdac.org",
+      "phone": "+1 (585) 206-5032",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Sandy Creek Seventh - Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BBR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BBR",
+      "latitude": 43.265157,
+      "longitude": -78.026855,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4bib",
+      "name": "Split Rock SDA Church",
+      "street": "4220 Fay Rd",
+      "city": "Syracuse",
+      "state": "NY",
+      "postalCode": "13219",
+      "website": "https://adventist.org",
+      "phone": "+1 (315) 488-8887",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BIB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Split Rock Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against New York Conference roster (OrgID AN4BIB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4BIB",
+      "latitude": 43.0263377,
+      "longitude": -76.2199862,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    }
+  ]
+}

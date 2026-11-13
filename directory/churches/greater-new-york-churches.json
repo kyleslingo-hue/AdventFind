@@ -1,0 +1,1961 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "an48an",
+      "name": "Antioch SDA Church",
+      "street": "87 Tell Ave",
+      "city": "Deer Park",
+      "state": "NY",
+      "postalCode": "11729",
+      "website": "http://antiochny.adventistchurch.org",
+      "phone": "+1 (203) 543-0931",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48AN"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Antioch Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48AN).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48AN",
+      "latitude": 40.7515801,
+      "longitude": -73.3163582,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48b6",
+      "name": "Babylon SDA Church",
+      "street": "136 Fire Island Ave",
+      "city": "Babylon",
+      "state": "NY",
+      "postalCode": "11702",
+      "website": "https://adventist.org",
+      "phone": "+1 (631) 661-1890",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48B6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48B6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48B6",
+      "latitude": 40.693685,
+      "longitude": -73.323801,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48bl",
+      "name": "Bay Shore Spanish SDA Church",
+      "street": "9 Arizona Ave",
+      "city": "Bay Shore",
+      "state": "NY",
+      "postalCode": "11706",
+      "website": "https://adventist.org",
+      "phone": "+1 (631) 951-4263",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48BL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48BL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48BL",
+      "latitude": 40.764993,
+      "longitude": -73.260279,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48bs",
+      "name": "Brentwood Spanish SDA Church",
+      "street": "155 Alkier St",
+      "city": "Brentwood",
+      "state": "NY",
+      "postalCode": "11717",
+      "website": "https://www.palabramielnyli.com/",
+      "phone": "+1 (631) 951-7159",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48BS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Brentwood"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48BS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48BS",
+      "latitude": 40.7830652,
+      "longitude": -73.2245086,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48cg",
+      "name": "Central Brooklyn Spanish SDA Church",
+      "street": "130 Boerum St",
+      "city": "Brooklyn",
+      "state": "NY",
+      "postalCode": "11206",
+      "website": "https://centralbrooklynspanishny.adventistchurch.org",
+      "phone": "+1 (718) 388-9338",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48CG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48CG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48CG",
+      "latitude": 40.705531,
+      "longitude": -73.943582,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48cr",
+      "name": "Central Manhattan Spanish SDA Church",
+      "street": "126 Forsyth St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10002",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14339",
+      "phone": "+1 (212) 925-5636",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48CR"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church - Manhattan Chinese Group"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48CR).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48CR",
+      "latitude": 40.7194123,
+      "longitude": -73.9920026,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48d1",
+      "name": "Dyckman Spanish SDA Church",
+      "street": "111 Vermilyea Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10034",
+      "website": "",
+      "phone": "+1 (212) 567-6576",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48D1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Dyckman's Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48D1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48D1",
+      "latitude": 40.8660464,
+      "longitude": -73.921624,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48fk",
+      "name": "First Ghana SDA Church",
+      "street": "45 Goble Pl",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10452",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14302",
+      "phone": "+1 (269) 340-2751",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48FK"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "First Ghana Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48FK).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48FK",
+      "latitude": 40.8443045,
+      "longitude": -73.9169418,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48dj",
+      "name": "Flushing SDA Church",
+      "street": "60-02 138th St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11355",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 886-3898",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48DJ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Flushing Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48DJ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48DJ",
+      "latitude": 40.7431861,
+      "longitude": -73.82797,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48su",
+      "name": "Fordham Spanish SDA Church",
+      "street": "3158 Webster Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10467",
+      "website": "https://www.adventistdirectory.org/viewEntity.aspx?EntityID=14361",
+      "phone": "+1 (917) 586-9842",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48SU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Hispana De Fordham"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48SU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48SU",
+      "latitude": 40.87229,
+      "longitude": -73.875191,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48dq",
+      "name": "Gethsemane French SDA Church",
+      "street": "357 Empire Blvd",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11225",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 467-4181",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48DQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Gethsemane Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48DQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48DQ",
+      "latitude": 40.6642413,
+      "longitude": -73.9500344,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48e1",
+      "name": "Grand Concourse SDA Church",
+      "street": "1275 Grand Concourse",
+      "city": "Bronx",
+      "state": "NY",
+      "postalCode": "10452",
+      "website": "",
+      "phone": "+1 (718) 708-6919",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48E1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Grand Concourse Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48E1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48E1",
+      "latitude": 40.8364103,
+      "longitude": -73.9164841,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48e6",
+      "name": "Hartsdale SDA Church",
+      "street": "50 Columbia Ave",
+      "city": "Hartsdale",
+      "state": "NY",
+      "postalCode": "10530",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 948-0005",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48E6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48E6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48E6",
+      "latitude": 41.017863,
+      "longitude": -73.795276,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48eg",
+      "name": "Hempstead SDA Church",
+      "street": "255 Belmont Pkwy",
+      "city": "Hempstead",
+      "state": "NY",
+      "postalCode": "11550",
+      "website": "https://www.hempsteadsda.org",
+      "phone": "+1 (516) 481-3252",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48EG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Hempstead Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48EG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48EG",
+      "latitude": 40.696694,
+      "longitude": -73.608212,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48hu",
+      "name": "Huntington SDA Church",
+      "street": "21 W Ninth St",
+      "city": "Huntington Station",
+      "state": "NY",
+      "postalCode": "11746",
+      "website": "https://www.facebook.com/Huntington-Seventh-day-Adventist-Church-951595161555698/",
+      "phone": "+1 (631) 549-8943",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48HU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Huntington Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48HU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48HU",
+      "latitude": 40.847046,
+      "longitude": -73.412637,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48ev",
+      "name": "Intervale Spanish SDA Church",
+      "street": "1064 Intervale Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10459",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (718) 542-8918",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48EV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Intervale Spanish Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48EV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48EV",
+      "latitude": 40.8251192,
+      "longitude": -73.8964931,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48fd",
+      "name": "Jerusalem French SDA Church",
+      "street": "222 E 28th St",
+      "city": "Brooklyn",
+      "state": "NY",
+      "postalCode": "11226",
+      "website": "http://jerusalemfrenchny.adventistchurch.org",
+      "phone": "+1 (347) 413-9264",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48FD"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Jerusalem French Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48FD).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48FD",
+      "latitude": 40.644548,
+      "longitude": -73.9509916,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48fh",
+      "name": "Livingston SDA Church",
+      "street": "184 Oak Hill Rd",
+      "city": "Hudson",
+      "state": "NY",
+      "postalCode": "12534",
+      "website": "https://adventist.org",
+      "phone": "+1 (518) 828-0280",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48FH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48FH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48FH",
+      "latitude": 42.1993532,
+      "longitude": -73.8479497,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48lg",
+      "name": "Long Island Ghana SDA Church",
+      "street": "143 Calebs Path",
+      "city": "Central Islip",
+      "state": "NY",
+      "postalCode": "11722",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=52097",
+      "phone": "+1 (347) 872-5672",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48LG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Long Island Ghana Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48LG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48LG",
+      "latitude": 40.7954843,
+      "longitude": -73.2251048,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48lu",
+      "name": "Long Island Luso Brazilian SDA Church",
+      "street": "7 Old Dock Rd",
+      "city": "Kings Park",
+      "state": "NY",
+      "postalCode": "11754",
+      "website": "https://adventist.org",
+      "phone": "+1 (516) 642-6601",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48LU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48LU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48LU",
+      "latitude": 40.8867394,
+      "longitude": -73.2577861,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48i4",
+      "name": "New York Luso Brazilian SDA Church",
+      "street": "96-11 34th Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11368",
+      "website": "https://www.nybrazilianchurch.com",
+      "phone": "+1 (718) 651-4270",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48I4"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Luso-Brazilian SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48I4).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48I4",
+      "latitude": 40.755384,
+      "longitude": -73.871456,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48nc",
+      "name": "Newburgh Spanish SDA Church",
+      "street": "4 Oak St",
+      "city": "Newburgh",
+      "state": "NY",
+      "postalCode": "12550",
+      "website": "http://newburghspanishny.adventistchurch.org",
+      "phone": "+1 (347) 761-9796",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48NC"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48NC).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48NC",
+      "latitude": 41.5055443,
+      "longitude": -74.0419346,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48gl",
+      "name": "Old Westbury SDA Church",
+      "street": "211 Jericho Tpke",
+      "city": "Old Westbury",
+      "state": "NY",
+      "postalCode": "11568",
+      "website": "https://adventist.org",
+      "phone": "+1 (516) 997-4436",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48GL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48GL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48GL",
+      "latitude": 40.766408,
+      "longitude": -73.594967,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48gv",
+      "name": "Patchogue SDA Church",
+      "street": "184 N Ocean Ave",
+      "city": "Patchogue",
+      "state": "NY",
+      "postalCode": "11772",
+      "website": "https://adventist.org",
+      "phone": "+1 (631) 289-1229",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48GV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Patchogue Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48GV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48GV",
+      "latitude": 40.7696957,
+      "longitude": -73.0154845,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48gq",
+      "name": "Patchogue Spanish SDA Church",
+      "street": "1229 N Ocean Ave",
+      "city": "Medford",
+      "state": "NY",
+      "postalCode": "11763",
+      "website": "",
+      "phone": "+1 (631) 289-1229",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48GQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Patchogue Spanish Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48GQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48GQ",
+      "latitude": 40.8016,
+      "longitude": -73.017392,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48pe",
+      "name": "Pearl River SDA Church",
+      "street": "210 N Middletown Rd",
+      "city": "Pearl River",
+      "state": "NY",
+      "postalCode": "10965",
+      "website": "https://www.pearlriveradventistchurch.org",
+      "phone": "+1 (845) 735-3676",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Pearl River Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48PE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48PE",
+      "latitude": 41.0676517,
+      "longitude": -74.0120709,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48pg",
+      "name": "Peekskill SDA Church",
+      "street": "523 Roosevelt Ave",
+      "city": "Peekskill",
+      "state": "NY",
+      "postalCode": "10566",
+      "website": "https://adventist.org",
+      "phone": "+1 (914) 739-7099",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Peekskill Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48PG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48PG",
+      "latitude": 41.2790117,
+      "longitude": -73.9284559,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48pi",
+      "name": "Peekskill Spanish SDA Church",
+      "street": "296 Locust Ave",
+      "city": "Cortlandt Manor",
+      "state": "NY",
+      "postalCode": "10567",
+      "website": "https://adventist.org",
+      "phone": "+1 (718) 547-5464",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PI"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Peekskill Spanish Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48PI).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48PI",
+      "latitude": 41.3130521,
+      "longitude": -73.9009577,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48ph",
+      "name": "Philadelphia SDA Church",
+      "street": "909 E 233rd St",
+      "city": "Bronx",
+      "state": "NY",
+      "postalCode": "10466",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14354",
+      "phone": "+1 (718) 882-5260",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Philadelphia Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48PH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48PH",
+      "latitude": 40.8916382,
+      "longitude": -73.8511759,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48hg",
+      "name": "Port Jervis SDA Church",
+      "street": "181 E Main St",
+      "city": "Port Jervis",
+      "state": "NY",
+      "postalCode": "12771",
+      "website": "https://adventist.org",
+      "phone": "+1 (845) 856-7121",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48HG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48HG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48HG",
+      "latitude": 41.366469,
+      "longitude": -74.683527,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48i1",
+      "name": "Queens Spanish SDA Church",
+      "street": "40-34 102nd St",
+      "city": "Corona",
+      "state": "NY",
+      "postalCode": "11368",
+      "website": "https://en-gb.facebook.com/spanishqueensSDA/",
+      "phone": "+1 (718) 335-2388",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48I1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista del S\u00e9ptimo D\u00eda Hispana de Queens"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48I1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48I1",
+      "latitude": 40.7486916,
+      "longitude": -73.8638306,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48ig",
+      "name": "Rockville Centre Spanish SDA Church",
+      "street": "280 Lakeview Ave",
+      "city": "Rockville Centre",
+      "state": "NY",
+      "postalCode": "11570",
+      "website": "https://adventist.org",
+      "phone": "+1 (516) 536-8293",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48IG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48IG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48IG",
+      "latitude": 40.66198,
+      "longitude": -73.640077,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48fs",
+      "name": "Siloe French SDA Church",
+      "street": "101-04 Northern Blvd",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "11368",
+      "website": "http://siloefrench22.adventistchurchconnect.org",
+      "phone": "+1 (718) 505-2608",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48FS"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Siloe French Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48FS).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48FS",
+      "latitude": 40.757275,
+      "longitude": -73.867201,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48ko",
+      "name": "Westchester Korean SDA Church",
+      "street": "1243 White Hill Rd",
+      "city": "Yorktown Heights",
+      "state": "NY",
+      "postalCode": "10598",
+      "website": "https://adventist.org",
+      "phone": "+1 (203) 550-9209",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48KO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Westchester Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48KO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48KO",
+      "latitude": 41.277657,
+      "longitude": -73.822966,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an48yg",
+      "name": "Yonkers Ghana SDA Church",
+      "street": "117 Elliott Ave",
+      "city": "Yonkers",
+      "state": "NY",
+      "postalCode": "10705",
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (914) 963-1762",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48YG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church of Yonkers"
+      ],
+      "reviewNotes": "Apple Maps location verified against Greater New York Conference roster (OrgID AN48YG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Greater New York Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN48YG",
+      "latitude": 40.9194109,
+      "longitude": -73.8975569,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    }
+  ]
+}

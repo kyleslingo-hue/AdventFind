@@ -27,6 +27,21 @@ DATASET_METADATA = {
         "id": "northeastern-churches",
         "name": "Northeastern Conference",
         "conference": "Northeastern Conference"
+    },
+    "greater-new-york-churches.json": {
+        "id": "greater-new-york-churches",
+        "name": "Greater New York Conference",
+        "conference": "Greater New York Conference"
+    },
+    "new-york-conference-churches.json": {
+        "id": "new-york-conference-churches",
+        "name": "New York Conference",
+        "conference": "New York Conference"
+    },
+    "northern-new-england-churches.json": {
+        "id": "northern-new-england-churches",
+        "name": "Northern New England Conference",
+        "conference": "Northern New England Conference"
     }
 }
 

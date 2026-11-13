@@ -1,0 +1,1123 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "an4ib6",
+      "name": "Auburn SDA Church",
+      "street": "316 Minot Ave",
+      "city": "Auburn",
+      "state": "ME",
+      "postalCode": "04210",
+      "website": "https://www.auburnsdachurch.org",
+      "phone": "+1 (207) 784-0861",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IB6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Auburn Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IB6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IB6",
+      "latitude": 44.086513,
+      "longitude": -70.237643,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ibb",
+      "name": "Bangor SDA Church",
+      "street": "42 Orion Way",
+      "city": "Hermon",
+      "state": "ME",
+      "postalCode": "04401",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14614&_ga=2.227800733.1259818286.1655099698-1065930591.1654508832",
+      "phone": "+1 (207) 848-2331",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IBB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Bangor Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IBB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IBB",
+      "latitude": 44.8049367,
+      "longitude": -68.8944077,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ibv",
+      "name": "Berlin SDA Church",
+      "street": "575 First Ave",
+      "city": "Berlin",
+      "state": "NH",
+      "postalCode": "03570",
+      "website": "https://adventist.org",
+      "phone": "+1 (603) 752-7297",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IBV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IBV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IBV",
+      "latitude": 44.4678939,
+      "longitude": -71.1877933,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4icg",
+      "name": "Brunswick SDA Church",
+      "street": "333 Maine St",
+      "city": "Brunswick",
+      "state": "ME",
+      "postalCode": "04011",
+      "website": "https://adventist.org",
+      "phone": "+1 (207) 729-3346",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4ICG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Brunswick Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4ICG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4ICG",
+      "latitude": 43.8945432,
+      "longitude": -69.9707321,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4idb",
+      "name": "Concord SDA Church",
+      "street": "310 Sheep Davis Rd",
+      "city": "Concord",
+      "state": "NH",
+      "postalCode": "03301",
+      "website": "https://www.concordadventistchurch.org/",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IDB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Concord Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IDB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IDB",
+      "latitude": 43.2285004,
+      "longitude": -71.4754463,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4icm",
+      "name": "Conway SDA Church",
+      "street": "1257 E Main St",
+      "city": "Center Conway",
+      "state": "NH",
+      "postalCode": "03813",
+      "website": "https://www.facebook.com/Conway.NH1SeventhdayAdventistChurch/",
+      "phone": "+1 (603) 447-6298",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4ICM"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Conway Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4ICM).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4ICM",
+      "latitude": 43.9961591,
+      "longitude": -71.0752912,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4idg",
+      "name": "Corinna SDA Church",
+      "street": "68 Exeter Rd",
+      "city": "Corinna",
+      "state": "ME",
+      "postalCode": "04928",
+      "website": "https://adventist.org",
+      "phone": "+1 (207) 924-3104",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IDG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IDG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IDG",
+      "latitude": 44.9243269,
+      "longitude": -69.2532849,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ide",
+      "name": "Derry SDA Church",
+      "street": "7 Brook St",
+      "city": "Derry",
+      "state": "NH",
+      "postalCode": "03038",
+      "website": "https://adventist.org",
+      "phone": "+1 (603) 537-0624",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IDE"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IDE).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IDE",
+      "latitude": 42.875956,
+      "longitude": -71.328903,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4idv",
+      "name": "Ellsworth SDA Church",
+      "street": "8 Friendship Way",
+      "city": "Ellsworth",
+      "state": "ME",
+      "postalCode": "04605",
+      "website": "https://ellsworthme.adventistchurch.org",
+      "phone": "+1 (207) 200-3315",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IDV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Ellsworth Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IDV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IDV",
+      "latitude": 44.5393682,
+      "longitude": -68.435179,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ie1",
+      "name": "Farmingdale SDA Church",
+      "street": "584 Maine Ave",
+      "city": "Farmingdale",
+      "state": "ME",
+      "postalCode": "04344",
+      "website": "https://adventist.org",
+      "phone": "+1 (207) 582-2116",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IE1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Farmingdale Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IE1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IE1",
+      "latitude": 44.259316,
+      "longitude": -69.7776997,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ie6",
+      "name": "Freeport SDA Church",
+      "street": "63 Pownal Rd",
+      "city": "Freeport",
+      "state": "ME",
+      "postalCode": "04032",
+      "website": "https://www.freeportchurch7.com/",
+      "phone": null,
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IE6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Freeport Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IE6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IE6",
+      "latitude": 43.8629239,
+      "longitude": -70.1137325,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4if1",
+      "name": "Limington SDA Church",
+      "street": "1290 Cape Rd",
+      "city": "Limington",
+      "state": "ME",
+      "postalCode": "04049",
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (207) 637-3390",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IF1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Limington Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IF1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IF1",
+      "latitude": 43.764819,
+      "longitude": -70.7434154,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ifv",
+      "name": "Nashua SDA Church",
+      "street": "20 Robinson Rd",
+      "city": "Nashua",
+      "state": "NH",
+      "postalCode": "03060",
+      "website": "https://nashuanh.adventistchurch.org",
+      "phone": "+1 (603) 889-0050",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IFV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Nashua Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IFV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IFV",
+      "latitude": 42.73692,
+      "longitude": -71.458852,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4igg",
+      "name": "Oxford SDA Church",
+      "street": "259 Fore St",
+      "city": "Oxford",
+      "state": "ME",
+      "postalCode": "04270",
+      "website": "http://www.adventist.org",
+      "phone": "+1 (207) 513-9404",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IGG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Oxford Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IGG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IGG",
+      "latitude": 44.1783684,
+      "longitude": -70.5119652,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4igv",
+      "name": "Portland White Memorial SDA Church",
+      "street": "91 Allen Ave",
+      "city": "Portland",
+      "state": "ME",
+      "postalCode": "04103",
+      "website": "https://adventist.org",
+      "phone": "+1 (207) 797-3760",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IGV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IGV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IGV",
+      "latitude": 43.691955,
+      "longitude": -70.292434,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4iro",
+      "name": "Rochester Indonesian SDA Church",
+      "street": "28 Cushing Blvd",
+      "city": "Rochester",
+      "state": "NH",
+      "postalCode": "03867",
+      "website": "https://www.adventistdirectory.org",
+      "phone": "+1 (603) 332-1177",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IRO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Rochester Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IRO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IRO",
+      "latitude": 43.3073956,
+      "longitude": -70.9911881,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ihv",
+      "name": "Saco SDA Church",
+      "street": "46 Cleveland St",
+      "city": "Saco",
+      "state": "ME",
+      "postalCode": "04072",
+      "website": "http://sacome.adventistchurch.org",
+      "phone": "+1 (207) 282-0385",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IHV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Saco Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IHV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IHV",
+      "latitude": 43.502103,
+      "longitude": -70.437088,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ito",
+      "name": "Topsham SDA Church",
+      "street": "214 Topsham Fair Mall Rd",
+      "city": "Topsham",
+      "state": "ME",
+      "postalCode": "04086",
+      "website": "http://topshamsdachurch.org",
+      "phone": "+1 (207) 725-2218",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4ITO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Topsham Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4ITO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4ITO",
+      "latitude": 43.9297603,
+      "longitude": -69.9784741,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4iiq",
+      "name": "Waterville SDA Church",
+      "street": "102 Ridge Rd",
+      "city": "Fairfield",
+      "state": "ME",
+      "postalCode": "04937",
+      "website": "http://watervillesdachurch.org",
+      "phone": "+1 (207) 872-9900",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IIQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IIQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IIQ",
+      "latitude": 44.582341,
+      "longitude": -69.636519,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "an4ijb",
+      "name": "Woodstock SDA Church",
+      "street": "25 Perkins Valley Rd",
+      "city": "Bryant Pond",
+      "state": "ME",
+      "postalCode": "04219",
+      "website": "https://adventist.org",
+      "phone": "+1 (207) 674-3232",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=AN4I&org=AN4IJB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Northern New England Conference roster (OrgID AN4IJB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Northern New England Conference",
+      "givingURL": "https://adventistgiving.org/donate/AN4IJB",
+      "latitude": 44.3607731,
+      "longitude": -70.5515721,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceType": "conferenceDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown",
+          "sourceType": "unknown",
+          "checkedOn": "2026-11-13"
+        },
+        "phone": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceType": "mapDirectory",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    }
+  ]
+}
