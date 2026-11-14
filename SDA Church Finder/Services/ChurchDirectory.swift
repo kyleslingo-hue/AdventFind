@@ -28,6 +28,7 @@ struct ChurchDirectoryRecord: Codable, Identifiable, Hashable {
     let allowsAddressOnlyMatch: Bool
     var conference: String? = nil
     var conferenceSourcePage: Int? = nil
+    var pastorName: String? = nil
 
     var verification: [String: FieldVerification]? = nil
     var worshipLanguages: [String]? = nil
@@ -55,7 +56,7 @@ struct ChurchDirectoryRecord: Codable, Identifiable, Hashable {
             phone: evidence(for: .phone).isSourced ? phone : nil,
             website: evidence(for: .website).isSourced ? AppleMapsService.sanitizedWebsite(website) : nil,
             email: nil,
-            pastorName: nil,
+            pastorName: pastorName,
             languages: indicatedLanguages,
             sabbathServiceTime: nil,
             weeklyServices: [],
@@ -278,6 +279,7 @@ struct ChurchDirectory {
             }
             // Use the church-published contact when available; otherwise preserve Maps.
             if record.evidence(for: .phone).isSourced { result.phone = record.phone ?? church.phone }
+            if let pastor = record.pastorName, !pastor.isEmpty { result.pastorName = pastor }
             result.directoryAttribution = DirectoryAttribution(recordID: record.id, sourceURLs: record.sourceURLs,
                 checkedOn: record.checkedOn, originalMapName: church.directoryAttribution?.originalMapName ?? church.name,
                 reviewNotes: record.reviewNotes, verification: record.verification)
