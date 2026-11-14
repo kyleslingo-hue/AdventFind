@@ -8,7 +8,7 @@
       "city": "Athens",
       "state": "AL",
       "postalCode": "35611",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
       ],
@@ -65,13 +65,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 233-7329"
@@ -233,7 +227,7 @@
       "city": "Bessemer",
       "state": "AL",
       "postalCode": "35020",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
       ],
@@ -290,13 +284,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 426-1338"
@@ -375,7 +363,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35209",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
       ],
@@ -432,13 +420,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 563-9285"
@@ -525,7 +507,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35215",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
       ],
@@ -582,13 +564,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 833-0091"
@@ -600,7 +576,7 @@
       "city": "Brent",
       "state": "AL",
       "postalCode": "35034",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
       ],
@@ -652,13 +628,7 @@
           "sourceType": "unknown"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -669,7 +639,7 @@
       "city": "Clanton",
       "state": "AL",
       "postalCode": "35045",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
       ],
@@ -726,13 +696,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 755-2270"
@@ -744,7 +708,7 @@
       "city": "Daphne",
       "state": "AL",
       "postalCode": "36526",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
       ],
@@ -801,13 +765,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (251) 626-6924"
@@ -819,7 +777,7 @@
       "city": "Eutaw",
       "state": "AL",
       "postalCode": "35462",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
       ],
@@ -876,13 +834,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 372-0555"
@@ -894,7 +846,7 @@
       "city": "Fairfield",
       "state": "AL",
       "postalCode": "35064",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
       ],
@@ -951,13 +903,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (205) 780-9982"
@@ -969,7 +915,7 @@
       "city": "Fairhope",
       "state": "AL",
       "postalCode": "36532",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
       ],
@@ -1026,13 +972,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (251) 990-5200"
@@ -1044,7 +984,7 @@
       "city": "Florence",
       "state": "AL",
       "postalCode": "35633",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
       ],
@@ -1101,13 +1041,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 263-0720"
@@ -1119,7 +1053,7 @@
       "city": "Good Hope",
       "state": "AL",
       "postalCode": "35077",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
       ],
@@ -1176,13 +1110,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 737-5158"
@@ -1269,7 +1197,7 @@
       "city": "Harvest",
       "state": "AL",
       "postalCode": "35749",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
       ],
@@ -1326,13 +1254,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 837-2855"
@@ -1419,7 +1341,7 @@
       "city": "Huntsville",
       "state": "AL",
       "postalCode": "35810",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
       ],
@@ -1476,13 +1398,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 852-7665"
@@ -1494,7 +1410,7 @@
       "city": "Lineville",
       "state": "AL",
       "postalCode": "36266",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
       ],
@@ -1551,13 +1467,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 396-0100"
@@ -1569,7 +1479,7 @@
       "city": "Madison",
       "state": "AL",
       "postalCode": "35758",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
       ],
@@ -1626,13 +1536,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 464-9488"
@@ -1644,7 +1548,7 @@
       "city": "Madison",
       "state": "AL",
       "postalCode": "35758",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
       ],
@@ -1701,13 +1605,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (256) 772-0264"
@@ -1869,7 +1767,7 @@
       "city": "Muscle Shoals",
       "state": "AL",
       "postalCode": "35661",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
       ],
@@ -1921,13 +1819,7 @@
           "sourceType": "unknown"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -2163,7 +2055,7 @@
       "city": "Prattville",
       "state": "AL",
       "postalCode": "36067",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
       ],
@@ -2220,13 +2112,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (334) 361-8756"
@@ -2388,7 +2274,7 @@
       "city": "Selma",
       "state": "AL",
       "postalCode": "36703",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
       ],
@@ -2445,13 +2331,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (334) 875-9753"
@@ -2463,7 +2343,7 @@
       "city": "Thomasville",
       "state": "AL",
       "postalCode": "36784",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
       ],
@@ -2520,13 +2400,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (334) 636-0198"
@@ -2538,7 +2412,7 @@
       "city": "Troy",
       "state": "AL",
       "postalCode": "36081",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
       ],
@@ -2595,13 +2469,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (334) 566-1060"

@@ -8,7 +8,7 @@
       "city": "Benson",
       "state": "AZ",
       "postalCode": "85602",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BB"
       ],
@@ -65,13 +65,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (520) 586-2450"
@@ -83,7 +77,7 @@
       "city": "Casa Grande",
       "state": "AZ",
       "postalCode": "85122",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BV"
       ],
@@ -140,13 +134,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (520) 836-4388"
@@ -158,7 +146,7 @@
       "city": "Cave Creek",
       "state": "AZ",
       "postalCode": "85331",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CC"
       ],
@@ -215,13 +203,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (480) 993-7711"
@@ -308,7 +290,7 @@
       "city": "Gilbert",
       "state": "AZ",
       "postalCode": "85234",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CK"
       ],
@@ -360,13 +342,7 @@
           "sourceType": "unknown"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -377,7 +353,7 @@
       "city": "Glendale",
       "state": "AZ",
       "postalCode": "85301",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4MS"
       ],
@@ -429,13 +405,7 @@
           "sourceType": "unknown"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -594,7 +564,7 @@
       "city": "Payson",
       "state": "AZ",
       "postalCode": "85541",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F1"
       ],
@@ -651,13 +621,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (928) 474-9209"
@@ -817,7 +781,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85035",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F6"
       ],
@@ -872,13 +836,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (602) 285-9391"
@@ -890,7 +848,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85018",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FB"
       ],
@@ -947,13 +905,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (480) 947-3781"
@@ -1115,7 +1067,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85029",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4NO"
       ],
@@ -1170,13 +1122,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (201) 580-0910"
@@ -1338,7 +1284,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85035",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4WE"
       ],
@@ -1393,13 +1339,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (623) 398-6919"
@@ -1555,7 +1495,7 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "postalCode": "85635",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4GV"
       ],
@@ -1612,13 +1552,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (520) 458-2641"
@@ -1705,7 +1639,7 @@
       "city": "Tempe",
       "state": "AZ",
       "postalCode": "85281",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HB"
       ],
@@ -1762,13 +1696,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (480) 967-4022"

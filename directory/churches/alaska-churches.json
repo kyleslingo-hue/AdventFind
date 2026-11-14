@@ -158,7 +158,7 @@
       "city": "Fairbanks",
       "state": "AK",
       "postalCode": "99709",
-      "website": "http://www.adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
       ],
@@ -215,13 +215,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "http://www.adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (907) 479-6070"
@@ -233,7 +227,7 @@
       "city": "Juneau",
       "state": "AK",
       "postalCode": "99801",
-      "website": "http://www.adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
       ],
@@ -290,13 +284,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "http://www.adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (907) 780-4336"
@@ -308,7 +296,7 @@
       "city": "Kenai",
       "state": "AK",
       "postalCode": "99611",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
       ],
@@ -365,13 +353,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (863) 446-0556"
@@ -456,7 +438,7 @@
       "city": "Kodiak",
       "state": "AK",
       "postalCode": "99615",
-      "website": "http://www.adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
       ],
@@ -513,13 +495,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "http://www.adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (907) 486-5297"
@@ -531,7 +507,7 @@
       "city": "Palmer",
       "state": "AK",
       "postalCode": "99645",
-      "website": "https://adventist.org",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
       ],
@@ -588,13 +564,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       },
       "phone": "+1 (907) 745-2260"

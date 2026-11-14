@@ -85,7 +85,7 @@ class AppleMapsService {
                 if existing.isGenericName && !Church.isGenericCongregationName(name) {
                     churches[existingIndex].name = name
                 }
-                if churches[existingIndex].website == nil, let url = mapItem.url?.absoluteString {
+                if churches[existingIndex].website == nil, let url = Self.sanitizedWebsite(mapItem.url?.absoluteString) {
                     churches[existingIndex].website = url
                 }
                 if churches[existingIndex].phone == nil, let phone = mapItem.phoneNumber {
@@ -108,7 +108,7 @@ class AppleMapsService {
                 latitude: coordinate.latitude,
                 longitude: coordinate.longitude,
                 phone: mapItem.phoneNumber,
-                website: mapItem.url?.absoluteString,
+                website: Self.sanitizedWebsite(mapItem.url?.absoluteString),
                 email: nil,
                 pastorName: nil,
                 languages: detectLanguages(from: name),
@@ -370,6 +370,20 @@ class AppleMapsService {
         }
         
         return false
+    }
+
+    /// Filters out generic denomination-level URLs (like `adventist.org`) that do not belong to a specific local church.
+    static func sanitizedWebsite(_ urlString: String?) -> String? {
+        guard let raw = urlString?.trimmingCharacters(in: .whitespacesAndNewlines),
+              !raw.isEmpty,
+              let url = URL(string: raw),
+              let host = url.host?.lowercased() else {
+            return nil
+        }
+        if host == "adventist.org" || host == "www.adventist.org" {
+            return nil
+        }
+        return raw
     }
 }
 

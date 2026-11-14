@@ -53,7 +53,7 @@ struct ChurchDirectoryRecord: Codable, Identifiable, Hashable {
             latitude: lat,
             longitude: lon,
             phone: evidence(for: .phone).isSourced ? phone : nil,
-            website: evidence(for: .website).isSourced ? website : nil,
+            website: evidence(for: .website).isSourced ? AppleMapsService.sanitizedWebsite(website) : nil,
             email: nil,
             pastorName: nil,
             languages: indicatedLanguages,

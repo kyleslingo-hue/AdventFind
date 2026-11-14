@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": 6,
+  "version": 7,
   "lastUpdated": "2026-11-14T00:01:51.494152+00:00",
   "datasets": [
     {
       "id": "alabama-churches",
       "filename": "alabama-churches.json",
       "name": "Alabama Churches",
-      "version": 2,
+      "version": 3,
       "recordCount": 36,
       "state": "AL"
     },
@@ -15,7 +15,7 @@
       "id": "alaska-churches",
       "filename": "alaska-churches.json",
       "name": "Alaska Churches",
-      "version": 2,
+      "version": 3,
       "recordCount": 10,
       "state": "AK"
     },
@@ -23,7 +23,7 @@
       "id": "arizona-churches",
       "filename": "arizona-churches.json",
       "name": "Arizona Churches",
-      "version": 2,
+      "version": 3,
       "recordCount": 30,
       "state": "AZ"
     },
@@ -31,7 +31,7 @@
       "id": "arkansas-churches",
       "filename": "arkansas-churches.json",
       "name": "Arkansas Churches",
-      "version": 2,
+      "version": 3,
       "recordCount": 21,
       "state": "AR"
     },
@@ -47,7 +47,7 @@
       "id": "greater-new-york-churches",
       "filename": "greater-new-york-churches.json",
       "name": "Greater New York Conference",
-      "version": 2,
+      "version": 3,
       "recordCount": 35,
       "conference": "Greater New York Conference"
     },
@@ -55,7 +55,7 @@
       "id": "new-york-conference-churches",
       "filename": "new-york-conference-churches.json",
       "name": "New York Conference",
-      "version": 2,
+      "version": 3,
       "recordCount": 18,
       "conference": "New York Conference"
     },
@@ -63,7 +63,7 @@
       "id": "northeastern-churches",
       "filename": "northeastern-churches.json",
       "name": "Northeastern Conference",
-      "version": 2,
+      "version": 3,
       "recordCount": 80,
       "conference": "Northeastern Conference"
     },
@@ -71,7 +71,7 @@
       "id": "northern-new-england-churches",
       "filename": "northern-new-england-churches.json",
       "name": "Northern New England Conference",
-      "version": 2,
+      "version": 3,
       "recordCount": 20,
       "conference": "Northern New England Conference"
     },

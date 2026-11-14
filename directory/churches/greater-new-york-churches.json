@@ -84,7 +84,7 @@
       "city": "Babylon",
       "state": "NY",
       "postalCode": "11702",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (631) 661-1890",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48B6"
@@ -143,13 +143,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -160,7 +154,7 @@
       "city": "Bay Shore",
       "state": "NY",
       "postalCode": "11706",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (631) 951-4263",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48BL"
@@ -219,13 +213,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -610,7 +598,7 @@
       "city": "New York",
       "state": "NY",
       "postalCode": "11355",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (718) 886-3898",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48DJ"
@@ -669,13 +657,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -762,7 +744,7 @@
       "city": "New York",
       "state": "NY",
       "postalCode": "11225",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (718) 467-4181",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48DQ"
@@ -821,13 +803,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -910,7 +886,7 @@
       "city": "Hartsdale",
       "state": "NY",
       "postalCode": "10530",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (914) 948-0005",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48E6"
@@ -969,13 +945,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1138,7 +1108,7 @@
       "city": "New York",
       "state": "NY",
       "postalCode": "10459",
-      "website": "http://www.adventist.org",
+      "website": "",
       "phone": "+1 (718) 542-8918",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48EV"
@@ -1197,13 +1167,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "http://www.adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1290,7 +1254,7 @@
       "city": "Hudson",
       "state": "NY",
       "postalCode": "12534",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (518) 828-0280",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48FH"
@@ -1349,13 +1313,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1442,7 +1400,7 @@
       "city": "Kings Park",
       "state": "NY",
       "postalCode": "11754",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (516) 642-6601",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48LU"
@@ -1501,13 +1459,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1668,7 +1620,7 @@
       "city": "Old Westbury",
       "state": "NY",
       "postalCode": "11568",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (516) 997-4436",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48GL"
@@ -1727,13 +1679,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1744,7 +1690,7 @@
       "city": "Patchogue",
       "state": "NY",
       "postalCode": "11772",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (631) 289-1229",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48GV"
@@ -1803,13 +1749,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -1968,7 +1908,7 @@
       "city": "Peekskill",
       "state": "NY",
       "postalCode": "10566",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (914) 739-7099",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PG"
@@ -2027,13 +1967,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -2044,7 +1978,7 @@
       "city": "Cortlandt Manor",
       "state": "NY",
       "postalCode": "10567",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (718) 547-5464",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48PI"
@@ -2103,13 +2037,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -2196,7 +2124,7 @@
       "city": "Port Jervis",
       "state": "NY",
       "postalCode": "12771",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (845) 856-7121",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48HG"
@@ -2255,13 +2183,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -2348,7 +2270,7 @@
       "city": "Rockville Centre",
       "state": "NY",
       "postalCode": "11570",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (516) 536-8293",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48IG"
@@ -2407,13 +2329,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
@@ -2500,7 +2416,7 @@
       "city": "Yorktown Heights",
       "state": "NY",
       "postalCode": "10598",
-      "website": "https://adventist.org",
+      "website": "",
       "phone": "+1 (203) 550-9209",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=AN48&org=AN48KO"
@@ -2559,13 +2475,7 @@
           "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
-          "status": "published",
-          "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13",
-          "sourceURLs": [
-            "https://adventist.org"
-          ],
-          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
+          "status": "unknown"
         }
       }
     },
