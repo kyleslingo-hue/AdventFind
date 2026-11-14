@@ -8,6 +8,7 @@
       "city": "Anchorage",
       "state": "AK",
       "postalCode": "99503",
+      "website": "http://anchoragekoreanak.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
       ],
@@ -53,7 +54,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://anchoragekoreanak.adventistchurch.org",
       "phone": "+1 (907) 868-3310"
     },
     {
@@ -63,6 +63,7 @@
       "city": "Anchorage",
       "state": "AK",
       "postalCode": "99507",
+      "website": "https://omalleysda.com/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
       ],
@@ -108,7 +109,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://omalleysda.com/",
       "phone": "+1 (907) 346-3244"
     },
     {
@@ -118,6 +118,7 @@
       "city": "Fairbanks",
       "state": "AK",
       "postalCode": "99709",
+      "website": "http://www.adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
       ],
@@ -163,7 +164,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://www.adventist.org",
       "phone": "+1 (907) 479-6070"
     },
     {
@@ -173,6 +173,7 @@
       "city": "Juneau",
       "state": "AK",
       "postalCode": "99801",
+      "website": "http://www.adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
       ],
@@ -218,7 +219,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://www.adventist.org",
       "phone": "+1 (907) 780-4336"
     },
     {
@@ -228,6 +228,7 @@
       "city": "Kenai",
       "state": "AK",
       "postalCode": "99611",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
       ],
@@ -273,7 +274,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (863) 446-0556"
     },
     {
@@ -283,6 +283,7 @@
       "city": "Ketchikan",
       "state": "AK",
       "postalCode": "99901",
+      "website": "https://www.yelp.com/biz/ketchikan-sda-church-ketchikan",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
       ],
@@ -326,7 +327,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.yelp.com/biz/ketchikan-sda-church-ketchikan",
       "phone": "+1 (907) 312-0996"
     },
     {
@@ -336,6 +336,7 @@
       "city": "Kodiak",
       "state": "AK",
       "postalCode": "99615",
+      "website": "http://www.adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
       ],
@@ -381,7 +382,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://www.adventist.org",
       "phone": "+1 (907) 486-5297"
     },
     {
@@ -391,6 +391,7 @@
       "city": "Palmer",
       "state": "AK",
       "postalCode": "99645",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
       ],
@@ -436,7 +437,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (907) 745-2260"
     },
     {
@@ -446,6 +446,7 @@
       "city": "Sitka",
       "state": "AK",
       "postalCode": "99835",
+      "website": "https://www.adventistdirectory.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
       ],
@@ -491,7 +492,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.adventistdirectory.org",
       "phone": "+1 (907) 747-8855"
     },
     {
@@ -501,6 +501,7 @@
       "city": "Wasilla",
       "state": "AK",
       "postalCode": "99654",
+      "website": "https://www.adventistdirectory.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
       ],
@@ -546,7 +547,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.adventistdirectory.org",
       "phone": "+1 (907) 373-2152"
     }
   ]

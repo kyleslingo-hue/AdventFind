@@ -8,6 +8,7 @@
       "city": "Benson",
       "state": "AZ",
       "postalCode": "85602",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BB"
       ],
@@ -53,7 +54,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (520) 586-2450"
     },
     {
@@ -63,6 +63,7 @@
       "city": "Casa Grande",
       "state": "AZ",
       "postalCode": "85122",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4BV"
       ],
@@ -108,7 +109,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (520) 836-4388"
     },
     {
@@ -118,6 +118,7 @@
       "city": "Cave Creek",
       "state": "AZ",
       "postalCode": "85331",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CC"
       ],
@@ -163,7 +164,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (480) 993-7711"
     },
     {
@@ -173,6 +173,7 @@
       "city": "Chandler",
       "state": "AZ",
       "postalCode": "85224",
+      "website": "http://chandler.adventistfaith.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4C1"
       ],
@@ -218,7 +219,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://chandler.adventistfaith.org",
       "phone": "+1 (480) 899-4177"
     },
     {
@@ -228,6 +228,7 @@
       "city": "Gilbert",
       "state": "AZ",
       "postalCode": "85234",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CK"
       ],
@@ -271,8 +272,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://adventist.org"
+      }
     },
     {
       "id": "anp4ms",
@@ -281,6 +281,7 @@
       "city": "Glendale",
       "state": "AZ",
       "postalCode": "85301",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4MS"
       ],
@@ -324,8 +325,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://adventist.org"
+      }
     },
     {
       "id": "anp4cg",
@@ -334,6 +334,7 @@
       "city": "Mesa",
       "state": "AZ",
       "postalCode": "85215",
+      "website": "http://www.mesapalmschurch.com",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CG"
       ],
@@ -379,7 +380,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://www.mesapalmschurch.com",
       "phone": "+1 (480) 985-3140"
     },
     {
@@ -389,6 +389,7 @@
       "city": "Oracle",
       "state": "AZ",
       "postalCode": "85623",
+      "website": "http://oracleaz.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4EL"
       ],
@@ -432,7 +433,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://oracleaz.adventistchurch.org",
       "phone": "+1 (520) 709-6969"
     },
     {
@@ -442,6 +442,7 @@
       "city": "Payson",
       "state": "AZ",
       "postalCode": "85541",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F1"
       ],
@@ -487,7 +488,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (928) 474-9209"
     },
     {
@@ -497,6 +497,7 @@
       "city": "Peoria",
       "state": "AZ",
       "postalCode": "85381",
+      "website": "https://graceinthedesert.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4H6"
       ],
@@ -540,7 +541,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://graceinthedesert.org/",
       "phone": "+1 (623) 977-7990"
     },
     {
@@ -550,6 +550,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85019",
+      "website": "https://www.glendaleazsda.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4CV"
       ],
@@ -595,7 +596,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.glendaleazsda.org",
       "phone": "+1 (623) 934-3295"
     },
     {
@@ -605,6 +605,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85035",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4F6"
       ],
@@ -648,7 +649,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (602) 285-9391"
     },
     {
@@ -658,6 +658,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85018",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FB"
       ],
@@ -703,7 +704,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (480) 947-3781"
     },
     {
@@ -713,6 +713,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85053",
+      "website": "https://phoenixdeervalleyspanishaz.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4PM"
       ],
@@ -758,7 +759,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://phoenixdeervalleyspanishaz.adventistchurch.org",
       "phone": "+1 (623) 256-6208"
     },
     {
@@ -768,6 +768,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85042",
+      "website": "https://phoenixmontevistaspanishaz.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FL"
       ],
@@ -813,7 +814,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://phoenixmontevistaspanishaz.adventistchurch.org",
       "phone": "+1 (928) 246-2887"
     },
     {
@@ -823,6 +823,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85029",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4NO"
       ],
@@ -866,7 +867,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (201) 580-0910"
     },
     {
@@ -876,6 +876,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85032",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18302",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FQ"
       ],
@@ -921,7 +922,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18302",
       "phone": "+1 (602) 971-6010"
     },
     {
@@ -931,6 +931,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85041",
+      "website": "http://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18303",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4FV"
       ],
@@ -976,7 +977,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18303",
       "phone": "+1 (602) 276-4030"
     },
     {
@@ -986,6 +986,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "postalCode": "85035",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4WE"
       ],
@@ -1029,7 +1030,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (623) 398-6919"
     },
     {
@@ -1039,6 +1039,7 @@
       "city": "Sahuarita",
       "state": "AZ",
       "postalCode": "85629",
+      "website": "https://www.sahuaritasda.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4GR"
       ],
@@ -1082,8 +1083,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://www.sahuaritasda.org/"
+      }
     },
     {
       "id": "anp4hl",
@@ -1092,6 +1092,7 @@
       "city": "Scottsdale",
       "state": "AZ",
       "postalCode": "85254",
+      "website": "https://www.azconference.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HL"
       ],
@@ -1137,7 +1138,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.azconference.org/",
       "phone": "+1 (480) 991-6777"
     },
     {
@@ -1147,6 +1147,7 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "postalCode": "85635",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4GV"
       ],
@@ -1192,7 +1193,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (520) 458-2641"
     },
     {
@@ -1202,6 +1202,7 @@
       "city": "Surprise",
       "state": "AZ",
       "postalCode": "85374",
+      "website": "https://www.clearviewsdachurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4SU"
       ],
@@ -1247,7 +1248,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.clearviewsdachurch.org",
       "phone": "+1 (623) 975-1000"
     },
     {
@@ -1257,6 +1257,7 @@
       "city": "Tempe",
       "state": "AZ",
       "postalCode": "85281",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HB"
       ],
@@ -1302,7 +1303,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (480) 967-4022"
     },
     {
@@ -1312,6 +1312,7 @@
       "city": "Tucson",
       "state": "AZ",
       "postalCode": "85712",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18317",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HQ"
       ],
@@ -1357,7 +1358,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18317",
       "phone": "+1 (520) 327-5719"
     },
     {
@@ -1367,6 +1367,7 @@
       "city": "Tucson",
       "state": "AZ",
       "postalCode": "85706",
+      "website": "",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4HV"
       ],
@@ -1420,6 +1421,7 @@
       "city": "Tucson",
       "state": "AZ",
       "postalCode": "85701",
+      "website": "https://www.facebook.com/TucsonSpanishSDA/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4MM"
       ],
@@ -1463,8 +1465,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://www.facebook.com/TucsonSpanishSDA/"
+      }
     },
     {
       "id": "anp4i1",
@@ -1473,6 +1474,7 @@
       "city": "Tucson",
       "state": "AZ",
       "postalCode": "85746",
+      "website": "https://tucsonmidvaleparkaz.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4I1"
       ],
@@ -1518,7 +1520,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://tucsonmidvaleparkaz.adventistchurch.org",
       "phone": "+1 (520) 347-3258"
     },
     {
@@ -1528,6 +1529,7 @@
       "city": "Tucson",
       "state": "AZ",
       "postalCode": "85705",
+      "website": "https://www.yelp.com/biz/tucson-sharon-seventh-day-adventist-church-tucson",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4I6"
       ],
@@ -1573,7 +1575,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.yelp.com/biz/tucson-sharon-seventh-day-adventist-church-tucson",
       "phone": "+1 (520) 261-1881"
     },
     {
@@ -1583,6 +1584,7 @@
       "city": "Willcox",
       "state": "AZ",
       "postalCode": "85643",
+      "website": "https://www.yelp.com/biz/willcox-seventh-day-adventist-church-willcox-2",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANP4&org=ANP4IL"
       ],
@@ -1628,7 +1630,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.yelp.com/biz/willcox-seventh-day-adventist-church-willcox-2",
       "phone": "+1 (559) 286-0006"
     }
   ]

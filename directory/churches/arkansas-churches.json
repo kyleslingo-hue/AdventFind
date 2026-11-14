@@ -8,6 +8,7 @@
       "city": "Amity",
       "state": "AR",
       "postalCode": "71921",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
       ],
@@ -53,7 +54,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (501) 269-3386"
     },
     {
@@ -63,6 +63,7 @@
       "city": "Arkadelphia",
       "state": "AR",
       "postalCode": "71923",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
       ],
@@ -108,7 +109,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 403-1698"
     },
     {
@@ -118,6 +118,7 @@
       "city": "Batesville",
       "state": "AR",
       "postalCode": "72501",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
       ],
@@ -163,7 +164,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 793-4688"
     },
     {
@@ -173,6 +173,7 @@
       "city": "Bentonville",
       "state": "AR",
       "postalCode": "72712",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
       ],
@@ -218,7 +219,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (479) 271-8887"
     },
     {
@@ -228,6 +228,7 @@
       "city": "Berryville",
       "state": "AR",
       "postalCode": "72616",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
       ],
@@ -273,7 +274,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 423-6185"
     },
     {
@@ -283,6 +283,7 @@
       "city": "Berryville",
       "state": "AR",
       "postalCode": "72616",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
       ],
@@ -328,7 +329,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 480-3987"
     },
     {
@@ -338,6 +338,7 @@
       "city": "Conway",
       "state": "AR",
       "postalCode": "72034",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
       ],
@@ -383,7 +384,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (501) 358-6891"
     },
     {
@@ -393,6 +393,7 @@
       "city": "El Dorado",
       "state": "AR",
       "postalCode": "71730",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
       ],
@@ -438,7 +439,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 862-7631"
     },
     {
@@ -448,6 +448,7 @@
       "city": "Gentry",
       "state": "AR",
       "postalCode": "72734",
+      "website": "https://gentryspanishar.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4GE"
       ],
@@ -491,8 +492,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://gentryspanishar.adventistchurch.org"
+      }
     },
     {
       "id": "anw4g6",
@@ -501,6 +501,7 @@
       "city": "Harrison",
       "state": "AR",
       "postalCode": "72601",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
       ],
@@ -546,7 +547,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 741-0169"
     },
     {
@@ -556,6 +556,7 @@
       "city": "Little Rock",
       "state": "AR",
       "postalCode": "72205",
+      "website": "https://littlerockar.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
       ],
@@ -601,7 +602,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://littlerockar.adventistchurch.org",
       "phone": "+1 (501) 225-5063"
     },
     {
@@ -611,6 +611,7 @@
       "city": "Little Rock",
       "state": "AR",
       "postalCode": "72204",
+      "website": "https://www.yelp.com/biz/shiloh-seventh-day-adventist-church-little-rock",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
       ],
@@ -656,7 +657,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.yelp.com/biz/shiloh-seventh-day-adventist-church-little-rock",
       "phone": "+1 (501) 313-2322"
     },
     {
@@ -666,6 +666,7 @@
       "city": "Magnolia",
       "state": "AR",
       "postalCode": "71753",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
       ],
@@ -711,7 +712,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 904-6629"
     },
     {
@@ -721,6 +721,7 @@
       "city": "Marshall",
       "state": "AR",
       "postalCode": "72650",
+      "website": "https://marshallar.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
       ],
@@ -766,7 +767,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://marshallar.adventistchurch.org",
       "phone": "+1 (870) 448-3237"
     },
     {
@@ -776,6 +776,7 @@
       "city": "Mount Ida",
       "state": "AR",
       "postalCode": "71957",
+      "website": "https://www.mtidasda.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
       ],
@@ -821,7 +822,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.mtidasda.org/",
       "phone": "+1 (501) 269-3386"
     },
     {
@@ -831,6 +831,7 @@
       "city": "Mountain Home",
       "state": "AR",
       "postalCode": "72653",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
       ],
@@ -874,7 +875,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 425-7475"
     },
     {
@@ -884,6 +884,7 @@
       "city": "Mountain View",
       "state": "AR",
       "postalCode": "72560",
+      "website": "https://mountainviewsda.com/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JL"
       ],
@@ -927,8 +928,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://mountainviewsda.com/"
+      }
     },
     {
       "id": "anw4lg",
@@ -937,6 +937,7 @@
       "city": "Russellville",
       "state": "AR",
       "postalCode": "72802",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
       ],
@@ -982,7 +983,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (479) 967-3191"
     },
     {
@@ -992,6 +992,7 @@
       "city": "Searcy",
       "state": "AR",
       "postalCode": "72143",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
       ],
@@ -1037,7 +1038,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (501) 268-0610"
     },
     {
@@ -1047,6 +1047,7 @@
       "city": "Umpire",
       "state": "AR",
       "postalCode": "71971",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
       ],
@@ -1092,7 +1093,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (870) 583-6138"
     },
     {
@@ -1102,6 +1102,7 @@
       "city": "Van Buren",
       "state": "AR",
       "postalCode": "72956",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
       ],
@@ -1147,7 +1148,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (479) 208-3056"
     }
   ]

@@ -8,6 +8,7 @@
       "city": "Athens",
       "state": "AL",
       "postalCode": "35611",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
       ],
@@ -53,7 +54,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 233-7329"
     },
     {
@@ -63,6 +63,7 @@
       "city": "Athens",
       "state": "AL",
       "postalCode": "35611",
+      "website": "https://adventistdirectory.org/ViewEntity.aspx?EntityID=11421",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
       ],
@@ -108,7 +109,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventistdirectory.org/ViewEntity.aspx?EntityID=11421",
       "phone": "+1 (256) 232-8610"
     },
     {
@@ -118,6 +118,7 @@
       "city": "Atmore",
       "state": "AL",
       "postalCode": "36502",
+      "website": "https://bethanyal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
       ],
@@ -163,7 +164,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://bethanyal.adventistchurch.org",
       "phone": "+1 (251) 368-2805"
     },
     {
@@ -173,6 +173,7 @@
       "city": "Bessemer",
       "state": "AL",
       "postalCode": "35020",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
       ],
@@ -218,7 +219,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 426-1338"
     },
     {
@@ -228,6 +228,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35205",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=30523",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGBS"
       ],
@@ -269,8 +270,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=30523"
+      }
     },
     {
       "id": "antgc6",
@@ -279,6 +279,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35209",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
       ],
@@ -324,7 +325,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 563-9285"
     },
     {
@@ -334,6 +334,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35204",
+      "website": "https://www.birminghamephesus.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
       ],
@@ -379,7 +380,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.birminghamephesus.org/",
       "phone": "+1 (205) 252-7490"
     },
     {
@@ -389,6 +389,7 @@
       "city": "Birmingham",
       "state": "AL",
       "postalCode": "35215",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
       ],
@@ -434,7 +435,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 833-0091"
     },
     {
@@ -444,6 +444,7 @@
       "city": "Brent",
       "state": "AL",
       "postalCode": "35034",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
       ],
@@ -487,8 +488,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://adventist.org"
+      }
     },
     {
       "id": "antgcl",
@@ -497,6 +497,7 @@
       "city": "Clanton",
       "state": "AL",
       "postalCode": "35045",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
       ],
@@ -542,7 +543,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 755-2270"
     },
     {
@@ -552,6 +552,7 @@
       "city": "Daphne",
       "state": "AL",
       "postalCode": "36526",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
       ],
@@ -597,7 +598,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (251) 626-6924"
     },
     {
@@ -607,6 +607,7 @@
       "city": "Eutaw",
       "state": "AL",
       "postalCode": "35462",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
       ],
@@ -652,7 +653,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 372-0555"
     },
     {
@@ -662,6 +662,7 @@
       "city": "Fairfield",
       "state": "AL",
       "postalCode": "35064",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
       ],
@@ -707,7 +708,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (205) 780-9982"
     },
     {
@@ -717,6 +717,7 @@
       "city": "Fairhope",
       "state": "AL",
       "postalCode": "36532",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
       ],
@@ -762,7 +763,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (251) 990-5200"
     },
     {
@@ -772,6 +772,7 @@
       "city": "Florence",
       "state": "AL",
       "postalCode": "35633",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
       ],
@@ -817,7 +818,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 263-0720"
     },
     {
@@ -827,6 +827,7 @@
       "city": "Good Hope",
       "state": "AL",
       "postalCode": "35077",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
       ],
@@ -872,7 +873,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 737-5158"
     },
     {
@@ -882,6 +882,7 @@
       "city": "Gurley",
       "state": "AL",
       "postalCode": "35748",
+      "website": "https://mountpisgahinternationalal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
       ],
@@ -927,7 +928,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://mountpisgahinternationalal.adventistchurch.org",
       "phone": "+1 (256) 539-2728"
     },
     {
@@ -937,6 +937,7 @@
       "city": "Harvest",
       "state": "AL",
       "postalCode": "35749",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
       ],
@@ -982,7 +983,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 837-2855"
     },
     {
@@ -992,6 +992,7 @@
       "city": "Huntsville",
       "state": "AL",
       "postalCode": "35816",
+      "website": "https://firstsdachurch.com",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
       ],
@@ -1037,7 +1038,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://firstsdachurch.com",
       "phone": "+1 (256) 852-8360"
     },
     {
@@ -1047,6 +1047,7 @@
       "city": "Huntsville",
       "state": "AL",
       "postalCode": "35810",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
       ],
@@ -1092,7 +1093,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 852-7665"
     },
     {
@@ -1102,6 +1102,7 @@
       "city": "Lineville",
       "state": "AL",
       "postalCode": "36266",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
       ],
@@ -1147,7 +1148,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 396-0100"
     },
     {
@@ -1157,6 +1157,7 @@
       "city": "Madison",
       "state": "AL",
       "postalCode": "35758",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
       ],
@@ -1202,7 +1203,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 464-9488"
     },
     {
@@ -1212,6 +1212,7 @@
       "city": "Madison",
       "state": "AL",
       "postalCode": "35758",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
       ],
@@ -1257,7 +1258,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (256) 772-0264"
     },
     {
@@ -1267,6 +1267,7 @@
       "city": "Midfield",
       "state": "AL",
       "postalCode": "35228",
+      "website": "https://www.facebook.com/IASDEfeso",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
       ],
@@ -1312,7 +1313,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.facebook.com/IASDEfeso",
       "phone": "+1 (978) 660-3806"
     },
     {
@@ -1322,6 +1322,7 @@
       "city": "Mobile",
       "state": "AL",
       "postalCode": "36617",
+      "website": "https://emmanuelmobileal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
       ],
@@ -1367,7 +1368,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://emmanuelmobileal.adventistchurch.org",
       "phone": "+1 (251) 479-1215"
     },
     {
@@ -1377,6 +1377,7 @@
       "city": "Muscle Shoals",
       "state": "AL",
       "postalCode": "35661",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
       ],
@@ -1420,8 +1421,7 @@
           "sourceType": "mapDirectory",
           "checkedOn": "2026-11-13"
         }
-      },
-      "website": "https://adventist.org"
+      }
     },
     {
       "id": "antgao",
@@ -1430,6 +1430,7 @@
       "city": "Opelika",
       "state": "AL",
       "postalCode": "36801",
+      "website": "https://www.facebook.com/iglesiahispanaAdventistaOpelika/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
       ],
@@ -1475,7 +1476,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.facebook.com/iglesiahispanaAdventistaOpelika/",
       "phone": "+1 (601) 286-0221"
     },
     {
@@ -1485,6 +1485,7 @@
       "city": "Opelika",
       "state": "AL",
       "postalCode": "36804",
+      "website": "https://auburnopelikametroal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
       ],
@@ -1530,7 +1531,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://auburnopelikametroal.adventistchurch.org",
       "phone": "+1 (334) 737-3222"
     },
     {
@@ -1540,6 +1540,7 @@
       "city": "Phenix City",
       "state": "AL",
       "postalCode": "36870",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=11940",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
       ],
@@ -1585,7 +1586,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=11940",
       "phone": "+1 (334) 298-4951"
     },
     {
@@ -1595,6 +1595,7 @@
       "city": "Prattville",
       "state": "AL",
       "postalCode": "36067",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
       ],
@@ -1640,7 +1641,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (334) 361-8756"
     },
     {
@@ -1650,6 +1650,7 @@
       "city": "Rainsville",
       "state": "AL",
       "postalCode": "35986",
+      "website": "http://rainsvilleal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
       ],
@@ -1695,7 +1696,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://rainsvilleal.adventistchurch.org",
       "phone": "+1 (256) 638-6002"
     },
     {
@@ -1705,6 +1705,7 @@
       "city": "Seale",
       "state": "AL",
       "postalCode": "36875",
+      "website": "http://ucheepines22.adventistchurchconnect.org/",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
       ],
@@ -1750,7 +1751,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "http://ucheepines22.adventistchurchconnect.org/",
       "phone": "+1 (334) 855-9520"
     },
     {
@@ -1760,6 +1760,7 @@
       "city": "Selma",
       "state": "AL",
       "postalCode": "36703",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
       ],
@@ -1805,7 +1806,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (334) 875-9753"
     },
     {
@@ -1815,6 +1815,7 @@
       "city": "Thomasville",
       "state": "AL",
       "postalCode": "36784",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
       ],
@@ -1860,7 +1861,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (334) 636-0198"
     },
     {
@@ -1870,6 +1870,7 @@
       "city": "Troy",
       "state": "AL",
       "postalCode": "36081",
+      "website": "https://adventist.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
       ],
@@ -1915,7 +1916,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://adventist.org",
       "phone": "+1 (334) 566-1060"
     },
     {
@@ -1925,6 +1925,7 @@
       "city": "Troy",
       "state": "AL",
       "postalCode": "36081",
+      "website": "https://troyal.adventistchurch.org",
       "sourceURLs": [
         "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
       ],
@@ -1968,7 +1969,6 @@
           "checkedOn": "2026-11-13"
         }
       },
-      "website": "https://troyal.adventistchurch.org",
       "phone": "+1 (334) 566-0186"
     }
   ]

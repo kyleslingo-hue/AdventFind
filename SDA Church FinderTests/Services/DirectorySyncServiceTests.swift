@@ -166,4 +166,31 @@ final class DirectorySyncServiceTests: XCTestCase {
         // Restore ChurchDirectory to default bundled
         ChurchDirectory.reload(cacheDirectory: nil)
     }
+
+    func testAllDirectoryJSONFilesDecodeCleanly() throws {
+        let repoRoot = URL(fileURLWithPath: #filePath)
+            .deletingLastPathComponent() // Services
+            .deletingLastPathComponent() // SDA Church FinderTests
+            .deletingLastPathComponent() // repo root
+        let directoryURL = repoRoot.appendingPathComponent("directory", isDirectory: true)
+        let manifestURL = directoryURL.appendingPathComponent("manifest.json")
+        guard FileManager.default.fileExists(atPath: manifestURL.path) else {
+            XCTFail("Expected manifest.json at \(manifestURL.path)")
+            return
+        }
+
+        let manifestData = try Data(contentsOf: manifestURL)
+        let manifest = try JSONDecoder().decode(DirectoryManifest.self, from: manifestData)
+        XCTAssertFalse(manifest.datasets.isEmpty)
+
+        let churchesURL = directoryURL.appendingPathComponent("churches", isDirectory: true)
+        for dataset in manifest.datasets {
+            let fileURL = churchesURL.appendingPathComponent(dataset.filename)
+            XCTAssertTrue(FileManager.default.fileExists(atPath: fileURL.path), "Missing \(dataset.filename)")
+            let data = try Data(contentsOf: fileURL)
+            let doc = try JSONDecoder().decode(ChurchDirectoryDocument.self, from: data)
+            XCTAssertEqual(doc.schemaVersion, 1, "Unexpected schemaVersion in \(dataset.filename)")
+            XCTAssertEqual(doc.records.count, dataset.recordCount, "Record count mismatch in \(dataset.filename)")
+        }
+    }
 }
