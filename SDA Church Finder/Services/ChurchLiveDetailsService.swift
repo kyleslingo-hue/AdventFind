@@ -84,7 +84,8 @@ final class ChurchLiveDetailsService {
         "ANG8": "Iowa-Missouri Conference",
         "ANGB": "Kansas-Nebraska Conference",
         "ANGF": "Minnesota Conference",
-        "ANGI": "Rocky Mountain Conference",
+        "ANGI": "Minnesota Conference",
+        "ANGM": "Rocky Mountain Conference",
         // North Pacific Union (ANI...)
         "ANI4": "Alaska Conference",
         "ANI8": "Idaho Conference",

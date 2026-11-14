@@ -62,6 +62,16 @@ DATASET_METADATA = {
         "id": "arkansas-churches",
         "name": "Arkansas Churches",
         "state": "AR"
+    },
+    "california-churches.json": {
+        "id": "california-churches",
+        "name": "California Churches",
+        "state": "CA"
+    },
+    "colorado-churches.json": {
+        "id": "colorado-churches",
+        "name": "Colorado Churches",
+        "state": "CO"
     }
 }
 

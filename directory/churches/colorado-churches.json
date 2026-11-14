@@ -1,0 +1,2652 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "angmbq",
+      "name": "Arvada SDA Church",
+      "street": "7090 W 64th Ave",
+      "city": "Arvada",
+      "state": "CO",
+      "postalCode": "80003",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMBQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Arvada Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMBQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMBQ",
+      "latitude": 39.8125767,
+      "longitude": -105.0764213,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMBQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMBQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMBQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMBQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 422-2369"
+    },
+    {
+      "id": "angmau",
+      "name": "Aurora First SDA Church",
+      "street": "11400 E Mississippi Ave",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80012",
+      "website": "https://www.adventistdirectory.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAU"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Aurora First Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMAU).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMAU",
+      "latitude": 39.696079,
+      "longitude": -104.855069,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAU"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAU"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAU"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAU"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 755-1617"
+    },
+    {
+      "id": "angmav",
+      "name": "Aurora Hispanic SDA Church",
+      "street": "12800 E Alameda Ave",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80012",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMAV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMAV",
+      "latitude": 39.710471,
+      "longitude": -104.841766,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (479) 861-3733"
+    },
+    {
+      "id": "angmdh",
+      "name": "Rocky Mountain Indonesian-American SDA",
+      "street": "1591 S Sable Blvd",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80012",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDH"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMDH).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMDH",
+      "latitude": 39.6877336,
+      "longitude": -104.8198164,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDH"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDH"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDH"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDH"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 862-1356"
+    },
+    {
+      "id": "angmcg",
+      "name": "Boulder SDA Church",
+      "street": "345 Mapleton Ave",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80304",
+      "website": "http://boulder.church",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Boulder Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMCG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMCG",
+      "latitude": 40.0209182,
+      "longitude": -105.2919301,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://boulder.church"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 442-1522"
+    },
+    {
+      "id": "angmcl",
+      "name": "Brighton SDA Church",
+      "street": "567 E Bromley Ln",
+      "city": "Brighton",
+      "state": "CO",
+      "postalCode": "80601",
+      "website": "http://www.brightonsda.org/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Brighton Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMCL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMCL",
+      "latitude": 39.972696,
+      "longitude": -104.815963,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMCL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.brightonsda.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 659-1999"
+    },
+    {
+      "id": "angmdl",
+      "name": "Cedaredge SDA Church",
+      "street": "290 SW Second Ave",
+      "city": "Cedaredge",
+      "state": "CO",
+      "postalCode": "81413",
+      "website": "https://cedaredgeco.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Cedaredge Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMDL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMDL",
+      "latitude": 38.8995388,
+      "longitude": -107.9264698,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://cedaredgeco.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 856-6863"
+    },
+    {
+      "id": "angme1",
+      "name": "Colorado Springs Central SDA Church",
+      "street": "1305 N Union Blvd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80909",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGME1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Central Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGME1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGME1",
+      "latitude": 38.850737,
+      "longitude": -104.7938908,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGME1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGME1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGME1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGME1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (719) 578-5616"
+    },
+    {
+      "id": "ang4bv",
+      "name": "Palace of Peace SDA Church",
+      "street": "1150 Aeroplaza Dr",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80916",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4BV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Palace of Peace Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Central States Conference roster (OrgID ANG4BV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Central States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANG4BV",
+      "latitude": 38.8162715,
+      "longitude": -104.7322905,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4BV"
+          ],
+          "sourceTitle": "Central States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4BV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4BV"
+          ],
+          "sourceTitle": "Central States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4BV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (719) 591-2094"
+    },
+    {
+      "id": "angmfd",
+      "name": "First Denver Indonesian SDA Church",
+      "street": "7021 E 64th Ave",
+      "city": "Commerce City",
+      "state": "CO",
+      "postalCode": "80022",
+      "website": "https://www.yelp.com/biz/first-denver-indonesian-seventh-day-adventist-church-commerce-city",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFD"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "First Denver Indonesian Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMFD).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMFD",
+      "latitude": 39.8132524,
+      "longitude": -104.9065769,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFD"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFD"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFD"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFD"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.yelp.com/biz/first-denver-indonesian-seventh-day-adventist-church-commerce-city"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (909) 771-8346"
+    },
+    {
+      "id": "angmeg",
+      "name": "Cortez SDA Church",
+      "street": "540 W Fourth St",
+      "city": "Cortez",
+      "state": "CO",
+      "postalCode": "81321",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMEG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMEG",
+      "latitude": 37.344591,
+      "longitude": -108.59349,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 565-9740"
+    },
+    {
+      "id": "angmdf",
+      "name": "Denver Central Hispanic SDA Church",
+      "street": "201 S Lowell Blvd",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80219",
+      "website": "http://denvercentralhispanicco.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDF"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Iglesia Adventista Denver Central"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMDF).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMDF",
+      "latitude": 39.713195,
+      "longitude": -105.035295,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDF"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDF"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDF"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMDF"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://denvercentralhispanicco.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (786) 444-6437"
+    },
+    {
+      "id": "ang4cb",
+      "name": "Denver Park Hill SDA Church",
+      "street": "3385 Albion St",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80207",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4CB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Denver Park Hill Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Central States Conference roster (OrgID ANG4CB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Central States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANG4CB",
+      "latitude": 39.7640021,
+      "longitude": -104.9396344,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4CB"
+          ],
+          "sourceTitle": "Central States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4CB"
+          ],
+          "sourceTitle": "Central States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANG4&org=ANG4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 333-5089"
+    },
+    {
+      "id": "angmf6",
+      "name": "Denver South English SDA Church",
+      "street": "2675 S Downing St",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80210",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17467&_ga=2.130474569.790883246.1670464695-1476018492.1670464695",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMF6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Denver South Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMF6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMF6",
+      "latitude": 39.668334,
+      "longitude": -104.974027,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMF6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMF6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMF6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMF6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17467&_ga=2.130474569.790883246.1670464695-1476018492.1670464695"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 744-1271"
+    },
+    {
+      "id": "angmfg",
+      "name": "Denver West SDA Church",
+      "street": "290 S Quitman St",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80219",
+      "website": "http://www.denverwestsda.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Denver West Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMFG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMFG",
+      "latitude": 39.71153,
+      "longitude": -105.040528,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMFG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.denverwestsda.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 936-8162"
+    },
+    {
+      "id": "angmev",
+      "name": "LifeSource Adventist Fellowship",
+      "street": "6200 W Hampden Ave",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80227",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMEV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMEV",
+      "latitude": 39.652424,
+      "longitude": -105.0642543,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMEV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 988-8371"
+    },
+    {
+      "id": "angmg6",
+      "name": "Estes Park SDA Church",
+      "street": "450 Valley Rd",
+      "city": "Estes Park",
+      "state": "CO",
+      "postalCode": "80517",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMG6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMG6",
+      "latitude": 40.3807404,
+      "longitude": -105.5381369,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 586-2830"
+    },
+    {
+      "id": "angmgv",
+      "name": "Fort Collins English SDA Church",
+      "street": "2040 Nancy Gray Ave",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "website": "https://www.fcsdachurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMGV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Fort Collins Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMGV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMGV",
+      "latitude": 40.5584279,
+      "longitude": -105.0404828,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMGV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMGV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMGV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMGV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.fcsdachurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 893-2968"
+    },
+    {
+      "id": "angmh1",
+      "name": "Fort Lupton SDA Church",
+      "street": "900 Northrup Ave",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "postalCode": "80621",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMH1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMH1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMH1",
+      "latitude": 40.087823,
+      "longitude": -104.791147,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMH1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMH1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMH1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMH1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 857-2311"
+    },
+    {
+      "id": "angmhb",
+      "name": "Franktown SDA Church",
+      "street": "905 SH-83",
+      "city": "Franktown",
+      "state": "CO",
+      "postalCode": "80116",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Franktown Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMHB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMHB",
+      "latitude": 39.376367,
+      "longitude": -104.751079,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (303) 688-8687"
+    },
+    {
+      "id": "angmhg",
+      "name": "Fruita SDA Church",
+      "street": "214 W Pabor Ave",
+      "city": "Fruita",
+      "state": "CO",
+      "postalCode": "81521",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMHG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMHG",
+      "latitude": 39.1604296,
+      "longitude": -108.7351936,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 858-8828"
+    },
+    {
+      "id": "angmhq",
+      "name": "Glenwood Springs SDA Church",
+      "street": "2314 Blake Ave",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "postalCode": "81601",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17488",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Glenwood Springs Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMHQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMHQ",
+      "latitude": 39.5289941,
+      "longitude": -107.3225734,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17488"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 945-7630"
+    },
+    {
+      "id": "angmhv",
+      "name": "Golden SDA Church",
+      "street": "3101 S Golden Rd",
+      "city": "Golden",
+      "state": "CO",
+      "postalCode": "80401",
+      "website": "http://www.goldencosda.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Golden Seventh Day Adventist Churches"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMHV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMHV",
+      "latitude": 39.7440605,
+      "longitude": -105.2026069,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHV"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMHV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.goldencosda.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (303) 279-4251"
+    },
+    {
+      "id": "angmi1",
+      "name": "Grand Junction SDA Church",
+      "street": "550 25 1/2 Rd",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81505",
+      "website": "https://sdagj.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Grand Junction Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMI1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMI1",
+      "latitude": 39.0849841,
+      "longitude": -108.5794351,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://sdagj.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 242-7747"
+    },
+    {
+      "id": "angmi6",
+      "name": "Greeley English SDA Church",
+      "street": "1002 21st Ave",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "website": "https://www.adventistdirectory.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Greeley Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMI6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMI6",
+      "latitude": 40.422396,
+      "longitude": -104.71088,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMI6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 353-1661"
+    },
+    {
+      "id": "angmib",
+      "name": "Greeley Hispanic SDA Church",
+      "street": "675 E 20th St",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17492",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Greeley Hispanic Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMIB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMIB",
+      "latitude": 40.406736,
+      "longitude": -104.6689314,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17492"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 347-9402"
+    },
+    {
+      "id": "angmad",
+      "name": "The Adventure SDA Church",
+      "street": "4100 W 20th St",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80634",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAD"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMAD).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMAD",
+      "latitude": 40.4058987,
+      "longitude": -104.7462755,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAD"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAD"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAD"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMAD"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 301-4550"
+    },
+    {
+      "id": "angmil",
+      "name": "Gunnison SDA Church",
+      "street": "77 Ute Ln",
+      "city": "Gunnison",
+      "state": "CO",
+      "postalCode": "81230",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Gunnison Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMIL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMIL",
+      "latitude": 38.5452551,
+      "longitude": -106.8944297,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIL"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMIL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 232-0315"
+    },
+    {
+      "id": "angmk1",
+      "name": "Leadville SDA Church",
+      "street": "612 E Ninth St",
+      "city": "Leadville",
+      "state": "CO",
+      "postalCode": "80461",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMK1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMK1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMK1",
+      "latitude": 39.253358,
+      "longitude": -106.284358,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMK1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMK1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMK1"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMK1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (719) 486-3565"
+    },
+    {
+      "id": "angmkb",
+      "name": "Littleton SDA Church",
+      "street": "7400 S Windermere St",
+      "city": "Littleton",
+      "state": "CO",
+      "postalCode": "80120",
+      "website": "https://littletonsdachurch.org/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Littleton Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMKB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMKB",
+      "latitude": 39.5837385,
+      "longitude": -105.0065607,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://littletonsdachurch.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
+      "id": "angm26",
+      "name": "Mountain View SDA Church",
+      "street": "316 15th Ave",
+      "city": "Longmont",
+      "state": "CO",
+      "postalCode": "80501",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGM26"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGM26).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGM26",
+      "latitude": 40.1853022,
+      "longitude": -105.098488,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGM26"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGM26"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGM26"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGM26"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (720) 340-8260"
+    },
+    {
+      "id": "angmtw",
+      "name": "Twin Peaks SDA Church",
+      "street": "9696 Paschal Dr",
+      "city": "Louisville",
+      "state": "CO",
+      "postalCode": "80027",
+      "website": "http://www.twinpeakssda.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMTW"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Twin Peaks Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMTW).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMTW",
+      "latitude": 39.993803,
+      "longitude": -105.126147,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMTW"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMTW"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMTW"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMTW"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.twinpeakssda.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (720) 890-3767"
+    },
+    {
+      "id": "angmd6",
+      "name": "Campion SDA Church",
+      "street": "300 42nd St SW",
+      "city": "Loveland",
+      "state": "CO",
+      "postalCode": "80537",
+      "website": "http://www.campionchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMD6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Campion Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMD6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMD6",
+      "latitude": 40.3477298,
+      "longitude": -105.0837243,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMD6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMD6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMD6"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMD6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.campionchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 667-7403"
+    },
+    {
+      "id": "angmg2",
+      "name": "Eden Valley SDA Church",
+      "street": "9326 World Mission Dr",
+      "city": "Loveland",
+      "state": "CO",
+      "postalCode": "80538",
+      "website": "https://edenvalleysda.com",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG2"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMG2).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMG2",
+      "latitude": 40.456806,
+      "longitude": -105.2206842,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG2"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG2"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG2"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMG2"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://edenvalleysda.com"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 667-1770"
+    },
+    {
+      "id": "angmkq",
+      "name": "Loveland SDA Church",
+      "street": "950 N Cleveland Ave",
+      "city": "Loveland",
+      "state": "CO",
+      "postalCode": "80537",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMKQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMKQ",
+      "latitude": 40.40215,
+      "longitude": -105.074068,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMKQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (970) 667-1295"
+    },
+    {
+      "id": "angmlb",
+      "name": "Montrose SDA Church",
+      "street": "1551 Valley Rd",
+      "city": "Montrose",
+      "state": "CO",
+      "postalCode": "81401",
+      "website": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17513",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMLB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Montrose Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMLB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMLB",
+      "latitude": 38.467904,
+      "longitude": -107.864923,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMLB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMLB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMLB"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMLB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17513"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (970) 249-4942"
+    },
+    {
+      "id": "angmnp",
+      "name": "Newday Adventist Church",
+      "street": "9030 Miller Rd",
+      "city": "Parker",
+      "state": "CO",
+      "postalCode": "80138",
+      "website": "http://www.newdaysda.com",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMNP"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMNP).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMNP",
+      "latitude": 39.5158211,
+      "longitude": -104.7152015,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMNP"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMNP"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMNP"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMNP"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.newdaysda.com"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (269) 325-2962"
+    },
+    {
+      "id": "angmmg",
+      "name": "Pueblo First SDA Church",
+      "street": "1503 W Arroyo Ave",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81004",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMMG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMMG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMMG",
+      "latitude": 38.247977,
+      "longitude": -104.629266,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMMG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMMG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMMG"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMMG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (719) 545-8720"
+    },
+    {
+      "id": "angmoq",
+      "name": "Trinidad SDA Church",
+      "street": "1605 Aiello St",
+      "city": "Trinidad",
+      "state": "CO",
+      "postalCode": "81082",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMOQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMOQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMOQ",
+      "latitude": 37.1835117,
+      "longitude": -104.5009879,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMOQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMOQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMOQ"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMOQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (719) 846-0244"
+    },
+    {
+      "id": "angmp5",
+      "name": "Woodland Park SDA Church",
+      "street": "1000 CO-67",
+      "city": "Woodland Park",
+      "state": "CO",
+      "postalCode": "80863",
+      "website": "https://www.woodlandparksda.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMP5"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Woodland Park Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Rocky Mountain Conference roster (OrgID ANGMP5).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Rocky Mountain Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANGMP5",
+      "latitude": 39.003758,
+      "longitude": -105.063599,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMP5"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMP5"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMP5"
+          ],
+          "sourceTitle": "Rocky Mountain Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANGM&org=ANGMP5"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.woodlandparksda.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (719) 687-1260"
+    }
+  ]
+}

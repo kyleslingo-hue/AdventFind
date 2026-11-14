@@ -87,6 +87,8 @@ struct ConnecticutDirectoryView: View {
             "AK": "Alaska",
             "AZ": "Arizona",
             "AR": "Arkansas",
+            "CA": "California",
+            "CO": "Colorado",
             DirectoryFilters.unknown: "State not listed"
         ][code] ?? code
     }
