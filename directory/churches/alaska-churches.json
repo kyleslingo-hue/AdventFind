@@ -27,17 +27,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -46,12 +58,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4AN"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://anchoragekoreanak.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 868-3310"
@@ -82,17 +102,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -101,12 +133,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4BG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://omalleysda.com/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 346-3244"
@@ -137,17 +177,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -156,12 +208,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://www.adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 479-6070"
@@ -192,17 +252,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -211,12 +283,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://www.adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 780-4336"
@@ -247,17 +327,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -266,12 +358,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (863) 446-0556"
@@ -300,17 +400,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -319,12 +431,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4CV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.yelp.com/biz/ketchikan-sda-church-ketchikan"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 312-0996"
@@ -355,17 +475,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -374,12 +506,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4D1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://www.adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 486-5297"
@@ -410,17 +550,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -429,12 +581,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 745-2260"
@@ -465,17 +625,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -484,12 +656,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4EG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 747-8855"
@@ -520,17 +700,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -539,12 +731,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4WA"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (907) 373-2152"

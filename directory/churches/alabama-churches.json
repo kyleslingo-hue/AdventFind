@@ -27,17 +27,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -46,12 +58,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAT"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 233-7329"
@@ -82,17 +102,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -101,12 +133,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPTR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventistdirectory.org/ViewEntity.aspx?EntityID=11421"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 232-8610"
@@ -137,17 +177,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -156,12 +208,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://bethanyal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (251) 368-2805"
@@ -192,17 +252,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -211,12 +283,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPC6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 426-1338"
@@ -245,17 +325,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGBS"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGBS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGBS"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -268,7 +360,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=30523"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -298,17 +394,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -317,12 +425,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 563-9285"
@@ -353,17 +469,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -372,12 +500,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.birminghamephesus.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 252-7490"
@@ -408,17 +544,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -427,12 +575,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 833-0091"
@@ -463,17 +619,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPBR"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -486,7 +654,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -516,17 +688,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -535,12 +719,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGCL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 755-2270"
@@ -571,17 +763,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -590,12 +794,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGE"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (251) 626-6924"
@@ -626,17 +838,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -645,12 +869,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 372-0555"
@@ -681,17 +913,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -700,12 +944,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPFJ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (205) 780-9982"
@@ -736,17 +988,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -755,12 +1019,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGE1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (251) 990-5200"
@@ -791,17 +1063,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -810,12 +1094,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 263-0720"
@@ -846,17 +1138,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -865,12 +1169,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGFL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 737-5158"
@@ -901,17 +1213,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -920,12 +1244,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPGU"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://mountpisgahinternationalal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 539-2728"
@@ -956,17 +1288,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -975,12 +1319,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPH1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 837-2855"
@@ -1011,17 +1363,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1030,12 +1394,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://firstsdachurch.com"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 852-8360"
@@ -1066,17 +1438,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1085,12 +1469,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPHW"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 852-7665"
@@ -1121,17 +1513,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1140,12 +1544,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGLI"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 396-0100"
@@ -1176,17 +1588,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1195,12 +1619,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMC"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 464-9488"
@@ -1231,17 +1663,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1250,12 +1694,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 772-0264"
@@ -1286,17 +1738,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1305,12 +1769,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEF"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.facebook.com/IASDEfeso"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (978) 660-3806"
@@ -1341,17 +1813,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1360,12 +1844,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://emmanuelmobileal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (251) 479-1215"
@@ -1396,17 +1888,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPJS"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1419,7 +1923,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -1449,17 +1957,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1468,12 +1988,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGAO"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.facebook.com/iglesiahispanaAdventistaOpelika/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (601) 286-0221"
@@ -1504,17 +2032,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1523,12 +2063,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGI6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://auburnopelikametroal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 737-3222"
@@ -1559,17 +2107,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1578,12 +2138,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGJ1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=11940"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 298-4951"
@@ -1614,17 +2182,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1633,12 +2213,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 361-8756"
@@ -1669,17 +2257,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1688,12 +2288,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGEL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://rainsvilleal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (256) 638-6002"
@@ -1724,17 +2332,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1743,12 +2363,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGL1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://ucheepines22.adventistchurchconnect.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 855-9520"
@@ -1779,17 +2407,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1798,12 +2438,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPN6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 875-9753"
@@ -1834,17 +2482,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1853,12 +2513,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 636-0198"
@@ -1889,17 +2557,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1908,12 +2588,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 566-1060"
@@ -1942,17 +2630,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1961,12 +2661,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGK6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://troyal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (334) 566-0186"

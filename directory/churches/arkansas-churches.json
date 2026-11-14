@@ -27,17 +27,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -46,12 +58,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 269-3386"
@@ -82,17 +102,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -101,12 +133,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4AR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 403-1698"
@@ -137,17 +177,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -156,12 +208,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 793-4688"
@@ -192,17 +252,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -211,12 +283,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4C6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (479) 271-8887"
@@ -247,17 +327,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -266,12 +358,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4CB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 423-6185"
@@ -302,17 +402,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -321,12 +433,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4BS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 480-3987"
@@ -357,17 +477,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -376,12 +508,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4E6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 358-6891"
@@ -412,17 +552,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -431,12 +583,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4F1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 862-7631"
@@ -467,17 +627,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4GE"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4GE"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4GE"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -490,7 +662,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://gentryspanishar.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -520,17 +696,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -539,12 +727,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4G6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 741-0169"
@@ -575,17 +771,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -594,12 +802,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://littlerockar.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 225-5063"
@@ -630,17 +846,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
+          ],
+          "sourceTitle": "Southwest Region Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
+          ],
+          "sourceTitle": "Southwest Region Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -649,12 +877,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANWB&org=ANWBBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.yelp.com/biz/shiloh-seventh-day-adventist-church-little-rock"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 313-2322"
@@ -685,17 +921,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -704,12 +952,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4I6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 904-6629"
@@ -740,17 +996,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -759,12 +1027,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MC"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://marshallar.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 448-3237"
@@ -795,17 +1071,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -814,12 +1102,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4ID"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.mtidasda.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 269-3386"
@@ -848,17 +1144,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -867,12 +1175,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 425-7475"
@@ -903,17 +1219,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4JL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -926,7 +1254,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://mountainviewsda.com/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -956,17 +1288,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -975,12 +1319,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (479) 967-3191"
@@ -1011,17 +1363,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1030,12 +1394,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4LL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (501) 268-0610"
@@ -1066,17 +1438,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1085,12 +1469,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (870) 583-6138"
@@ -1121,17 +1513,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -1140,12 +1544,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4VS"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       },
       "phone": "+1 (479) 208-3056"

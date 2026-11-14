@@ -191,6 +191,12 @@ final class DirectorySyncServiceTests: XCTestCase {
             let doc = try JSONDecoder().decode(ChurchDirectoryDocument.self, from: data)
             XCTAssertEqual(doc.schemaVersion, 1, "Unexpected schemaVersion in \(dataset.filename)")
             XCTAssertEqual(doc.records.count, dataset.recordCount, "Record count mismatch in \(dataset.filename)")
+            for record in doc.records {
+                let addrEvidence = record.evidence(for: .address)
+                if addrEvidence.status.supportsUse {
+                    XCTAssertTrue(addrEvidence.isSourced, "Published address missing evidence in \(dataset.filename) for \(record.id)")
+                }
+            }
         }
     }
 }

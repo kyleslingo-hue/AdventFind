@@ -28,17 +28,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBG"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBG"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -48,12 +60,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://auburnny.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -84,17 +104,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -104,12 +136,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://bataviaadventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -140,17 +180,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBM"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBM"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBM"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -160,12 +212,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBM"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -196,17 +256,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -216,12 +288,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -252,17 +332,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BC2"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BC2"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BC2"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -277,7 +369,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://camdenadventistchurch.com/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -308,17 +404,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCQ"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCQ"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -328,12 +436,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -364,17 +480,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -384,12 +512,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BCV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -420,17 +556,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BEL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BEL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BEL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -440,12 +588,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BEL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14410"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -476,17 +632,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BF1"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BF1"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -496,12 +664,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14412&_ga=2.223560156.65437392.1665991892-85108706.1665680269"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -532,17 +708,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BB1"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BB1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BB1"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -552,12 +740,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BB1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://www.adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -588,17 +784,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BFL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BFL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BFL"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -608,12 +816,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BFL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -644,17 +860,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BNA"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BNA"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BNA"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -664,12 +892,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BNA"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -698,17 +934,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGB"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGB"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -718,12 +966,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -754,17 +1010,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGV"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -774,12 +1042,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BGV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -810,17 +1086,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BH6"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BH6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BH6"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -830,12 +1118,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BH6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "http://www.bayknollchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -866,17 +1162,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BHG"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BHG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BHG"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -891,7 +1199,11 @@
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://romesdachurch.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -922,17 +1234,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBR"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBR"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -942,12 +1266,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BBR"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.sandycreeksdac.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     },
@@ -978,17 +1310,29 @@
         "name": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BIB"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "address": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BIB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "conference": {
           "status": "published",
           "sourceType": "conferenceDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BIB"
+          ],
+          "sourceTitle": "New York Conference Roster (eAdventist)"
         },
         "languages": {
           "status": "unknown",
@@ -998,12 +1342,20 @@
         "phone": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=AN4B&org=AN4BIB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         },
         "website": {
           "status": "published",
           "sourceType": "mapDirectory",
-          "checkedOn": "2026-11-13"
+          "checkedOn": "2026-11-13",
+          "sourceURLs": [
+            "https://adventist.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference"
         }
       }
     }
