@@ -18,7 +18,7 @@ struct ChurchDirectoryRecord: Codable, Identifiable, Hashable {
     let city: String
     let state: String
     let postalCode: String
-    let website: String
+    var website: String
     var phone: String? = nil
     let sourceURLs: [String]
     let checkedOn: String
@@ -219,21 +219,34 @@ struct ChurchDirectory {
         }
 
         let baseByID = Dictionary(uniqueKeysWithValues: baseDocs.map { ($0.id, $0) })
-        let confIDs = Set(conferenceDocs.map(\.id))
+        let baseByGivingState: [String: ChurchDirectoryRecord] = Dictionary(
+            baseDocs.compactMap { rec in
+                guard let giving = rec.givingURL?.trimmingCharacters(in: .whitespacesAndNewlines).lowercased(),
+                      !giving.isEmpty else { return nil }
+                return ("\(giving)|\(rec.state.uppercased())", rec)
+            },
+            uniquingKeysWith: { first, _ in first }
+        )
+        var matchedBaseIDs = Set<String>()
 
         let enrichedConf = conferenceDocs.map { record -> ChurchDirectoryRecord in
-            guard let base = baseByID[record.id] else { return record }
+            let givingKey = record.givingURL.map { "\($0.trimmingCharacters(in: .whitespacesAndNewlines).lowercased())|\(record.state.uppercased())" }
+            guard let base = baseByID[record.id] ?? givingKey.flatMap({ baseByGivingState[$0] }) else { return record }
+            matchedBaseIDs.insert(base.id)
             var merged = record
             if merged.givingURL == nil { merged.givingURL = base.givingURL }
             if merged.latitude == nil { merged.latitude = base.latitude }
             if merged.longitude == nil { merged.longitude = base.longitude }
             if merged.eventsURL == nil { merged.eventsURL = base.eventsURL }
+            if merged.calendarFeedURL == nil { merged.calendarFeedURL = base.calendarFeedURL }
             if merged.phone == nil { merged.phone = base.phone }
             if merged.conference == nil { merged.conference = base.conference }
+            if merged.pastorName == nil { merged.pastorName = base.pastorName }
+            if merged.website.isEmpty && !base.website.isEmpty { merged.website = base.website }
             return merged
         }
 
-        let remainingBase = baseDocs.filter { !confIDs.contains($0.id) }
+        let remainingBase = baseDocs.filter { !matchedBaseIDs.contains($0.id) }
         let combined = remainingBase + enrichedConf
         return ChurchDirectory(records: combined.sorted { $0.name.localizedStandardCompare($1.name) == .orderedAscending })
     }
