@@ -570,6 +570,70 @@
       "phone": "+1 (205) 833-0091"
     },
     {
+      "id": "antpcg",
+      "name": "South Park SDA Church (Birmingham)",
+      "street": "414 S Park Rd SW",
+      "city": "Birmingham",
+      "state": "AL",
+      "postalCode": "35211",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "South Park Sda Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPCG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPCG",
+      "latitude": 33.48113,
+      "longitude": -86.874657,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCG"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCG"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPCG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (205) 925-5280"
+    },
+    {
       "id": "antpbr",
       "name": "Brent SDA Church (Brent)",
       "street": "587 Darden Rd",
@@ -769,6 +833,201 @@
         }
       },
       "phone": "+1 (251) 626-6924"
+    },
+    {
+      "id": "antgdq",
+      "name": "Dothan SDA Church",
+      "street": "723 Webb Rd",
+      "city": "Dothan",
+      "state": "AL",
+      "postalCode": "36303",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGDQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGDQ",
+      "latitude": 31.235102,
+      "longitude": -85.379796,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDQ"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDQ"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (334) 792-3319"
+    },
+    {
+      "id": "antpeq",
+      "name": "Mount Olive SDA Church (Dothan)",
+      "street": "723 Webb Rd",
+      "city": "Dothan",
+      "state": "AL",
+      "postalCode": "36303",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPEQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPEQ",
+      "latitude": 31.235102,
+      "longitude": -85.379796,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEQ"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (334) 792-3319"
+    },
+    {
+      "id": "antgdv",
+      "name": "Eufaula SDA Church",
+      "street": "107 Baker Dr",
+      "city": "Eufaula",
+      "state": "AL",
+      "postalCode": "36027",
+      "website": "https://eufaulaal.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGDV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGDV",
+      "latitude": 31.8759637,
+      "longitude": -85.1477505,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDV"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDV"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGDV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://eufaulaal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (334) 687-1844"
     },
     {
       "id": "antpf1",
@@ -978,6 +1237,134 @@
       "phone": "+1 (251) 990-5200"
     },
     {
+      "id": "antpmo",
+      "name": "Mount Zion SDA Church (Scottsboro)",
+      "street": "825 Pruitt St",
+      "city": "Florence",
+      "state": "AL",
+      "postalCode": "35630",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMO"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mount Zion Sda Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPMO).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPMO",
+      "latitude": 34.799122,
+      "longitude": -87.687215,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMO"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMO"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMO"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPMO"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (256) 764-4296"
+    },
+    {
+      "id": "antpo1",
+      "name": "Mount Zion SDA Church (Talladega)",
+      "street": "825 Pruitt St",
+      "city": "Florence",
+      "state": "AL",
+      "postalCode": "35630",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Mount Zion Sda Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPO1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPO1",
+      "latitude": 34.799122,
+      "longitude": -87.687215,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO1"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPO1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (256) 764-4296"
+    },
+    {
       "id": "antgeb",
       "name": "Shoals SDA Church",
       "street": "2011 CR-41",
@@ -1047,6 +1434,142 @@
       "phone": "+1 (256) 263-0720"
     },
     {
+      "id": "antpeb",
+      "name": "New Life SDA Church (Fultondale)",
+      "street": "5626 Ash St",
+      "city": "Fultondale",
+      "state": "AL",
+      "postalCode": "35207",
+      "website": "http://www.newlifesda.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "New Life Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPEB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPEB",
+      "latitude": 33.579496,
+      "longitude": -86.801988,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEB"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPEB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://www.newlifesda.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (205) 849-1619"
+    },
+    {
+      "id": "antgf1",
+      "name": "Gilbertown SDA Church",
+      "street": "27 Adams Ln",
+      "city": "Gilbertown",
+      "state": "AL",
+      "postalCode": "36908",
+      "website": "https://gilbertownal.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGF1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGF1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGF1",
+      "latitude": 31.8675635,
+      "longitude": -88.292745,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGF1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGF1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGF1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://gilbertownal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (251) 843-5968"
+    },
+    {
       "id": "antgfl",
       "name": "Cullman SDA Church",
       "street": "3033 CR-490",
@@ -1114,6 +1637,75 @@
         }
       },
       "phone": "+1 (256) 737-5158"
+    },
+    {
+      "id": "antpg6",
+      "name": "Macie Herbert SDA Church (Greenville)",
+      "street": "335 Harrison St",
+      "city": "Greenville",
+      "state": "AL",
+      "postalCode": "36037",
+      "website": "http://adventistchurchconnect.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPG6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Macie Herbert SDA Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPG6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPG6",
+      "latitude": 31.825357,
+      "longitude": -86.626549,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPG6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPG6"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://adventistchurchconnect.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (334) 382-1201"
     },
     {
       "id": "antpgu",
@@ -1260,6 +1852,75 @@
       "phone": "+1 (256) 837-2855"
     },
     {
+      "id": "antgc1",
+      "name": "Birmingham First SDA Church",
+      "street": "3520 Lorna Rd",
+      "city": "Hoover",
+      "state": "AL",
+      "postalCode": "35216",
+      "website": "https://birminghamfirst.org/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC1"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGC1).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGC1",
+      "latitude": 33.3877139,
+      "longitude": -86.7947066,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC1"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGC1"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://birminghamfirst.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (205) 987-7208"
+    },
+    {
       "id": "antphq",
       "name": "First SDA Church (Huntsville)",
       "street": "1303 Evangel Dr NW",
@@ -1402,6 +2063,73 @@
         }
       },
       "phone": "+1 (256) 852-7665"
+    },
+    {
+      "id": "antgg6",
+      "name": "Jackson SDA Church",
+      "street": "708 Walker Springs Rd",
+      "city": "Jackson",
+      "state": "AL",
+      "postalCode": "36545",
+      "website": "http://jacksonal.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGG6"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGG6).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGG6",
+      "latitude": 31.5609116,
+      "longitude": -87.872799,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGG6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGG6"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGG6"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://jacksonal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (251) 246-2285"
     },
     {
       "id": "antgli",
@@ -1686,6 +2414,67 @@
       "phone": "+1 (978) 660-3806"
     },
     {
+      "id": "antghb",
+      "name": "Cody Road SDA Church",
+      "street": "1900 Cody Rd S",
+      "city": "Mobile",
+      "state": "AL",
+      "postalCode": "36695",
+      "website": "https://codyroadal.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGHB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGHB",
+      "latitude": 30.6511771,
+      "longitude": -88.2084378,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHB"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHB"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://codyroadal.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
       "id": "antpkl",
       "name": "Emmanuel SDA Church (Mobile)",
       "street": "2000 Dr Martin Luther King Jr Ave",
@@ -1759,6 +2548,134 @@
         }
       },
       "phone": "+1 (251) 479-1215"
+    },
+    {
+      "id": "antpkv",
+      "name": "Maranatha SDA Church (Montgomery)",
+      "street": "4210 Virginia Loop Rd",
+      "city": "Montgomery",
+      "state": "AL",
+      "postalCode": "36116",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPKV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPKV",
+      "latitude": 32.322554,
+      "longitude": -86.238991,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKV"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKV"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPKV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (334) 281-8830"
+    },
+    {
+      "id": "antghl",
+      "name": "Montgomery First SDA Church",
+      "street": "4210 Virginia Loop Rd",
+      "city": "Montgomery",
+      "state": "AL",
+      "postalCode": "36116",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh-Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGHL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGHL",
+      "latitude": 32.322554,
+      "longitude": -86.238991,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHL"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGHL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (334) 281-8830"
     },
     {
       "id": "antpjs",
@@ -2546,6 +3463,132 @@
         }
       },
       "phone": "+1 (334) 566-0186"
+    },
+    {
+      "id": "antgkg",
+      "name": "Tuscaloosa Skyland SDA Church",
+      "street": "2211 Skyland Blvd E",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "postalCode": "35405",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGKG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Seventh Day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Gulf States Conference roster (OrgID ANTGKG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Gulf States Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTGKG",
+      "latitude": 33.168389,
+      "longitude": -87.509343,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGKG"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGKG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGKG"
+          ],
+          "sourceTitle": "Gulf States Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTG&org=ANTGKG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (205) 556-2442"
+    },
+    {
+      "id": "antpol",
+      "name": "First Tuskegee SDA Church",
+      "street": "377 Lennard St",
+      "city": "Tuskegee",
+      "state": "AL",
+      "postalCode": "36083",
+      "website": "",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against South Central Conference roster (OrgID ANTPOL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "South Central Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANTPOL",
+      "latitude": 32.411631,
+      "longitude": -85.702354,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOL"
+          ],
+          "sourceTitle": "South Central Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANTP&org=ANTPOL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "unknown"
+        }
+      },
+      "phone": "+1 (334) 727-7198"
     }
   ]
 }

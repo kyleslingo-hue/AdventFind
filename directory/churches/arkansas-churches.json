@@ -485,6 +485,75 @@
       "phone": "+1 (501) 358-6891"
     },
     {
+      "id": "anw4eq",
+      "name": "De Queen (Beacon Hill) SDA Church",
+      "street": "1446 Red Bridge Rd",
+      "city": "De Queen",
+      "state": "AR",
+      "postalCode": "71832",
+      "website": "https://www.greatschools.org/arkansas/de-queen/1268-Beacon-Hill-Adventist-Jr-Academy/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4EQ"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Beacon Hill Adventist Jr Academy"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4EQ).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4EQ",
+      "latitude": 33.9925571,
+      "longitude": -94.3011599,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4EQ"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4EQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4EQ"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4EQ"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.greatschools.org/arkansas/de-queen/1268-Beacon-Hill-Adventist-Jr-Academy/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (870) 642-4876"
+    },
+    {
       "id": "anw4f1",
       "name": "El Dorado SDA Church",
       "street": "165 Dusty Rd",
@@ -986,6 +1055,67 @@
       "phone": "+1 (870) 448-3237"
     },
     {
+      "id": "anw4iv",
+      "name": "Mena SDA Church",
+      "street": "149 CR-43",
+      "city": "Mena",
+      "state": "AR",
+      "postalCode": "71953",
+      "website": "https://www.menasdachurch.org/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4IV"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4IV).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4IV",
+      "latitude": 34.5650076,
+      "longitude": -94.2535753,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4IV"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4IV"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4IV"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.menasdachurch.org/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      }
+    },
+    {
       "id": "anw4id",
       "name": "Mt Ida SDA Church",
       "street": "204 Cedar St",
@@ -1335,6 +1465,75 @@
       "phone": "+1 (501) 268-0610"
     },
     {
+      "id": "anw4mb",
+      "name": "Springdale Adventist Fellowship",
+      "street": "4001 W Don Tyson Pkwy",
+      "city": "Springdale",
+      "state": "AR",
+      "postalCode": "72762",
+      "website": "http://gosaf.com",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MB"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [
+        "Springdale Fellowship Seventh-day Adventist Church"
+      ],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4MB).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4MB",
+      "latitude": 36.152802,
+      "longitude": -94.175812,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MB"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4MB"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "http://gosaf.com"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (479) 751-5817"
+    },
+    {
       "id": "anw4mv",
       "name": "Umpire SDA Church",
       "street": "164 School St",
@@ -1471,6 +1670,67 @@
         }
       },
       "phone": "+1 (479) 208-3056"
+    },
+    {
+      "id": "anw4nl",
+      "name": "Yellville SDA Church",
+      "street": "1195 US-62 W",
+      "city": "Yellville",
+      "state": "AR",
+      "postalCode": "72687",
+      "website": "https://www.yellvillesda.com/",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4NL"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Arkansas-Louisiana Conference roster (OrgID ANW4NL).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Arkansas-Louisiana Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANW4NL",
+      "latitude": 36.2362315,
+      "longitude": -92.7001494,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4NL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4NL"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANW4&org=ANW4NL"
+          ],
+          "sourceTitle": "Arkansas-Louisiana Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "unknown"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.yellvillesda.com/"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      }
     }
   ]
 }

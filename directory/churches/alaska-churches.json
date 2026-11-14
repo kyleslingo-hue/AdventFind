@@ -501,6 +501,73 @@
       "phone": "+1 (907) 486-5297"
     },
     {
+      "id": "ani4dg",
+      "name": "North Pole SDA Church",
+      "street": "3589 Joan Ave",
+      "city": "North Pole",
+      "state": "AK",
+      "postalCode": "99705",
+      "website": "https://northpoleak.adventistchurch.org",
+      "sourceURLs": [
+        "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DG"
+      ],
+      "checkedOn": "2026-11-13",
+      "denomination": "Seventh-day Adventist",
+      "aliases": [],
+      "reviewNotes": "Apple Maps location verified against Alaska Conference roster (OrgID ANI4DG).",
+      "allowsAddressOnlyMatch": true,
+      "conference": "Alaska Conference",
+      "givingURL": "https://adventistgiving.org/donate/ANI4DG",
+      "latitude": 64.7316683,
+      "longitude": -147.2764492,
+      "verification": {
+        "name": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "address": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "conference": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DG"
+          ],
+          "sourceTitle": "Alaska Conference Roster (eAdventist)",
+          "checkedOn": "2026-11-13"
+        },
+        "languages": {
+          "status": "unknown"
+        },
+        "phone": {
+          "status": "published",
+          "sourceURLs": [
+            "https://www.eadventist.net/search/iframe?locale=en&mask=ANI4&org=ANI4DG"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        },
+        "website": {
+          "status": "published",
+          "sourceURLs": [
+            "https://northpoleak.adventistchurch.org"
+          ],
+          "sourceTitle": "Apple Maps & Conference Roster Cross-Reference",
+          "checkedOn": "2026-11-13"
+        }
+      },
+      "phone": "+1 (907) 488-7751"
+    },
+    {
       "id": "ani4dl",
       "name": "Palmer SDA Church",
       "street": "2238 S Inner Springer Loop",
